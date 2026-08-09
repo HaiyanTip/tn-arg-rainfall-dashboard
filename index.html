@@ -94,10 +94,9 @@
         let geojsonLayer;
         let stationMarkers = L.layerGroup().addTo(map);
 
-        // 2. Dynamic Data Loading Function
+      // 2. Dynamic Data Loading Function
         function loadYearData() {
             const selectedYear = document.getElementById('yearSelect').value;
-            // TARGETING THE NEW LIGHTWEIGHT SUMMARY FILE
             const summaryFile = `tndrra_${selectedYear}_summary.csv`; 
 
             Papa.parse(summaryFile, {
@@ -106,12 +105,24 @@
                 skipEmptyLines: true,
                 dynamicTyping: true,
                 complete: function(results) {
-                    const rainfallData = results.data;
-                    console.log(`Loaded ${rainfallData.length} records from ${summaryFile}`);
+                    const allData = results.data;
                     
-                    updateMapMarkers(rainfallData);
-                    updateDashboardTable(rainfallData);
-                    // generateIDWHeatmap(rainfallData); // Insert your Turf.js IDW function here
+                    // FILTER FIX: Remove empty rows
+                    const validData = allData.filter(row => row.date && row.latitude && row.longitude);
+                    
+                    if (validData.length === 0) return;
+
+                    // Get the most recent date (the last date added to the bottom of the CSV)
+                    const latestDate = validData[validData.length - 1].date;
+                    
+                    // Isolate ONLY the records for that specific date
+                    const singleDayData = validData.filter(row => row.date === latestDate);
+                    
+                    console.log(`Loaded ${singleDayData.length} records for ${latestDate}`);
+                    
+                    // Pass ONLY today's data to the map and table
+                    updateMapMarkers(singleDayData);
+                    updateDashboardTable(singleDayData);
                 },
                 error: function(err) {
                     console.error("Error loading CSV:", err);
