@@ -1,0 +1,33 @@
+name: Daily TNDRRA Rainfall Update
+
+on:
+  schedule:
+    - cron: '30 3 * * *'  # Runs at 3:30 AM UTC (9:00 AM IST) daily
+  workflow_dispatch:      # Allows you to click a "Run workflow" button manually
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests urllib3
+
+      - name: Fetch daily rainfall data
+        run: python fetch_daily_data.py
+
+      - name: Commit and push updated files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tndrra_*.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update rainfall data for $(date +'%Y-%m-%d')" && git push)
