@@ -1,3 +1,4 @@
+<!-- Base template and UI functionality adapted from TNSMART project[cite: 1] -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -210,7 +211,7 @@
 
         /* CONTINUOUS LEGEND (Annual/Seasonal) */
         .color-scale-container { margin-top: 5px; margin-bottom: 16px;}
-        .color-scale-bar { height: 12px; width: 100%; border-radius: var(--radius-sm); margin-top: 5px; margin-bottom: 6px; border: 1px solid var(--border-color); }
+        .color-scale-bar { height: 12px; width: 100%; border-radius: var(--radius-sm); margin-top: 5px; margin-bottom: 6px; border: 1px solid var(--border-color); background: linear-gradient(to right, #d32f2f, #ffeb3b, #43a047, #0288d1, #4a148c, #616161); }
         .color-scale-labels { display: flex; justify-content: space-between; font-size: 10.5px; color: var(--text-muted); font-weight: 700; }
 
         /* IMD DISCRETE LEGEND (Daily View) */
@@ -361,40 +362,16 @@
         /* OFF-SCREEN CARD GENERATORS */
         .offscreen-wrapper {
             position: absolute; left: -9999px; top: 0;
-            font-family: Arial, sans-serif;
+            background-color: #121212; color: #ffffff; font-family: Arial, sans-serif;
             box-sizing: border-box; overflow: hidden; z-index: -1;
-            /* Export card theme \u2014 dark is the default (matches original look) */
-            --exp-bg: #121212; --exp-bg-annual: #1a1a2e; --exp-text: #ffffff;
-            --exp-text-dim: #bdc3c7; --exp-text-dim2: #7f8c8d; --exp-text-table: #e0e0e0;
-            --exp-panel-bg: rgba(255,255,255,0.05); --exp-panel-border: rgba(255,255,255,0.08);
-            --exp-row-border: rgba(255,255,255,0.1); --exp-footer-border: rgba(255,255,255,0.2);
-            --exp-table-panel-bg: rgba(255,255,255,0.03); --exp-table-panel-border: rgba(255,255,255,0.1);
-            --exp-table-row-alt: rgba(255,255,255,0.02); --exp-table-cell-border: rgba(255,255,255,0.05);
-            --exp-zero-dot: #ffffff; --exp-zero-border: #7f8c8d; --exp-trace: #e0e0e0;
-            --exp-light-green: #98fb98; --exp-footer-panel-bg: rgba(26,26,46,0.9);
-            --exp-watermark-daily: rgba(255,255,255,0.005); --exp-watermark-annual: rgba(255,255,255,0.02);
-            --exp-watermark-idw: rgba(255,255,255,0.02);
-            background-color: var(--exp-bg); color: var(--exp-text);
-        }
-        .offscreen-wrapper[data-export-theme="light"] {
-            --exp-bg: #ffffff; --exp-bg-annual: #f4f6fb; --exp-text: #1a1a2e;
-            --exp-text-dim: #5b6472; --exp-text-dim2: #7f8c8d; --exp-text-table: #2c3140;
-            --exp-panel-bg: rgba(15,20,30,0.04); --exp-panel-border: rgba(15,20,30,0.10);
-            --exp-row-border: rgba(15,20,30,0.12); --exp-footer-border: rgba(15,20,30,0.15);
-            --exp-table-panel-bg: rgba(15,20,30,0.02); --exp-table-panel-border: rgba(15,20,30,0.12);
-            --exp-table-row-alt: rgba(15,20,30,0.03); --exp-table-cell-border: rgba(15,20,30,0.08);
-            --exp-zero-dot: #ffffff; --exp-zero-border: #94a3b8; --exp-trace: #64748b;
-            --exp-light-green: #22c55e; --exp-footer-panel-bg: rgba(240,242,248,0.95);
-            --exp-watermark-daily: rgba(15,20,30,0.012); --exp-watermark-annual: rgba(15,20,30,0.018);
-            --exp-watermark-idw: rgba(15,20,30,0.018);
         }
 
         .export-watermark-bg {
             position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg);
             font-size: 240px; font-weight: 900; white-space: nowrap; pointer-events: none; z-index: 0;
         }
-        .watermark-daily { color: var(--exp-watermark-daily); }
-        .watermark-annual { color: var(--exp-watermark-annual); }
+        .watermark-daily { color: rgba(255, 255, 255, 0.005); }
+        .watermark-annual { color: rgba(255, 255, 255, 0.02); }
 
         /* Daily Report Export Styles */
         .layout-vertical { width: 1080px; min-height: 1920px; padding: 60px; display: flex; flex-direction: column; }
@@ -402,39 +379,39 @@
         .export-content { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; }
         .export-header { border-bottom: 4px solid #3498db; padding-bottom: 20px; margin-bottom: 40px; text-align: center; }
         .export-title { font-size: 54px; font-weight: 900; margin: 0 0 10px 0; text-transform: uppercase; letter-spacing: 2px; }
-        .export-date { font-size: 32px; font-weight: 300; color: var(--exp-text-dim); margin: 0; }
+        .export-date { font-size: 32px; font-weight: 300; color: #bdc3c7; margin: 0; }
 
         .layout-vertical .export-body { display: flex; flex-direction: column; gap: 40px; flex: 1; }
         .layout-landscape .export-body { display: flex; flex-wrap: wrap; gap: 40px; align-content: flex-start; justify-content: center; flex: 1; }
-        .export-district-block { background: var(--exp-panel-bg); border-radius: 16px; padding: 30px; border: 1px solid var(--exp-panel-border); }
+        .export-district-block { background: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 30px; border: 1px solid rgba(255,255,255,0.08); }
         .layout-landscape .export-district-block { flex: 1 1 420px; max-width: 550px; box-sizing: border-box; }
-        .export-district-name { font-size: 36px; font-weight: bold; color: #3498db; margin: 0 0 20px 0; border-bottom: 2px solid var(--exp-panel-border); padding-bottom: 10px; }
-        .export-row { display: flex; justify-content: space-between; align-items: center; gap: 15px; font-size: 28px; border-bottom: 1px dashed var(--exp-row-border); padding: 12px 0; }
+        .export-district-name { font-size: 36px; font-weight: bold; color: #3498db; margin: 0 0 20px 0; border-bottom: 2px solid rgba(255,255,255,0.1); padding-bottom: 10px; }
+        .export-row { display: flex; justify-content: space-between; align-items: center; gap: 15px; font-size: 28px; border-bottom: 1px dashed rgba(255,255,255,0.1); padding: 12px 0; }
         .export-row:last-child { border-bottom: none; }
         .export-stn { font-weight: 500; flex: 1; word-wrap: break-word; line-height: 1.2; }
         .export-val { font-weight: 900; white-space: nowrap; text-align: right; }
 
-        .export-footer { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 60px; border-top: 2px solid var(--exp-footer-border); padding-top: 25px; }
+        .export-footer { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-top: 60px; border-top: 2px solid rgba(255,255,255,0.2); padding-top: 25px; }
         .export-legend { display: flex; gap: 20px; font-size: 18px; font-weight: bold; flex-wrap: wrap; justify-content: center; }
         .export-legend span { display: flex; align-items: center; gap: 8px; }
         .legend-dot { width: 14px; height: 14px; border-radius: 50%; display: inline-block; }
-        .export-source { font-size: 24px; color: var(--exp-text-dim2); font-weight: bold; align-self: flex-start; }
+        .export-source { font-size: 24px; color: #7f8c8d; font-weight: bold; align-self: flex-start; }
 
         /* Annual Report Export Styles */
-        .layout-annual { width: 2600px; padding: 60px; display: flex; flex-direction: column; background-color: var(--exp-bg-annual); }
-        .annual-table-container { background: var(--exp-table-panel-bg); border-radius: 12px; padding: 20px; border: 1px solid var(--exp-table-panel-border); }
-        .export-annual-table { width: 100%; border-collapse: collapse; text-align: right; font-size: 22px; color: var(--exp-text-table); }
+        .layout-annual { width: 2600px; padding: 60px; display: flex; flex-direction: column; background-color: #1a1a2e; }
+        .annual-table-container { background: rgba(255,255,255,0.03); border-radius: 12px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); }
+        .export-annual-table { width: 100%; border-collapse: collapse; text-align: right; font-size: 22px; color: #e0e0e0; }
         .export-annual-table th { background: #0f3460; color: #ffffff; padding: 20px 10px; font-size: 20px; text-transform: uppercase; border-bottom: 3px solid #e94560; }
         .export-annual-table th:nth-child(2), .export-annual-table th:nth-child(3) { text-align: left; padding-left: 15px; }
         .export-annual-table td:nth-child(2), .export-annual-table td:nth-child(3) { text-align: left; padding-left: 15px; }
-        .export-annual-table td { padding: 16px 10px; border-bottom: 1px solid var(--exp-table-cell-border); }
-        .export-annual-table tr:nth-child(even) { background: var(--exp-table-row-alt); }
+        .export-annual-table td { padding: 16px 10px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .export-annual-table tr:nth-child(even) { background: rgba(255,255,255,0.02); }
         .col-highlight { font-weight: 900 !important; color: #f1c40f !important; font-size: 24px; }
 
         /* IDW STORY EXPORT LAYOUT (9:16) */
         .layout-vertical-story {
             width: 1080px; height: 1920px; padding: 60px;
-            display: flex; flex-direction: column; background-color: var(--exp-bg-annual);
+            display: flex; flex-direction: column; background-color: #1a1a2e;
             position: relative; box-sizing: border-box;
         }
 
@@ -597,11 +574,11 @@
                     <input type="range" id="timeSlider" min="1" max="365" value="365">
                 </div>
 
-                <!-- LEGEND A: Continuous Scale (Updated for Base Palette) -->
+                <!-- LEGEND A: Continuous Scale -->
                 <div class="color-scale-container" id="continuousLegend">
-                    <div class="color-scale-bar" id="webContinuousBar"></div>
+                    <div class="color-scale-bar"></div>
                     <div class="color-scale-labels" id="webContinuousLabels">
-                        <!-- Injected dynamically -->
+                        <span>0</span><span>500</span><span>1000</span><span>1500</span><span>2000</span><span style="color:#9e9e9e;">>2k</span>
                     </div>
                 </div>
 
@@ -790,13 +767,6 @@
                 </div>
                 <div class="checklist-container" id="reportDistrictChecklist"></div>
             </div>
-            <div class="modal-group">
-                <label>Card Background:</label>
-                <select id="dailyExportTheme">
-                    <option value="dark" selected>Dark</option>
-                    <option value="light">White</option>
-                </select>
-            </div>
             <div class="modal-actions">
                 <button class="btn-cancel" onclick="closeReportModal('reportModal')">Cancel</button>
                 <button class="btn-generate" onclick="generateDailyReportPreview()">Generate Preview</button>
@@ -837,13 +807,6 @@
                 </div>
                 <div class="checklist-container" id="annualReportDistrictChecklist"></div>
             </div>
-            <div class="modal-group">
-                <label>Card Background:</label>
-                <select id="annualExportTheme">
-                    <option value="dark" selected>Dark</option>
-                    <option value="light">White</option>
-                </select>
-            </div>
             <div class="modal-actions">
                 <button class="btn-cancel" onclick="closeReportModal('annualReportModal')">Cancel</button>
                 <button class="btn-generate" style="background:var(--accent-monsoon);" onclick="generateAnnualReportPreview()">Generate Preview</button>
@@ -873,13 +836,6 @@
             <div class="modal-group" style="display:flex; align-items:center; gap:8px; border:1px solid var(--border-color); border-radius:var(--radius-sm); padding:10px 12px;">
                 <input type="checkbox" id="idwShowStations" checked style="width:auto; cursor:pointer;">
                 <label for="idwShowStations" style="margin:0; cursor:pointer;">Show Station Markers</label>
-            </div>
-            <div class="modal-group">
-                <label>Card Background:</label>
-                <select id="idwExportTheme">
-                    <option value="dark" selected>Dark</option>
-                    <option value="light">White</option>
-                </select>
             </div>
             <div class="modal-actions">
                 <button class="btn-cancel" onclick="closeReportModal('idwModal')">Cancel</button>
@@ -990,22 +946,22 @@
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg); font-size: 280px; font-weight: 900; white-space: nowrap; pointer-events: none; z-index: 1001; color: rgba(255, 255, 255, 0.02);">HaiyanTip</div>
 
         <div style="z-index: 1000; text-align: center; margin-bottom: 25px;">
-            <h1 id="idwExportTitle" style="margin:0 0 10px 0; font-size:52px; font-weight:900; color:var(--exp-text); text-transform:uppercase;">Spatial Distribution</h1>
-            <h2 id="idwExportSubtitle" style="margin:0; font-size:32px; color:var(--exp-text-dim); font-weight:300;">August 4, 2026</h2>
+            <h1 id="idwExportTitle" style="margin:0 0 10px 0; font-size:52px; font-weight:900; color:#fff; text-transform:uppercase;">Spatial Distribution</h1>
+            <h2 id="idwExportSubtitle" style="margin:0; font-size:32px; color:#bdc3c7; font-weight:300;">August 4, 2026</h2>
         </div>
 
-        <div style="flex: 1; width: 100%; border-radius: 20px; overflow: hidden; position: relative; z-index: 1; border: 2px solid var(--exp-panel-border); box-shadow: 0 10px 40px rgba(0,0,0,0.5);">
+        <div style="flex: 1; width: 100%; border-radius: 20px; overflow: hidden; position: relative; z-index: 1; border: 2px solid rgba(255,255,255,0.1); box-shadow: 0 10px 40px rgba(0,0,0,0.5);">
             <div id="idwMapExportDiv" style="width: 100%; height: 100%; background: transparent;"></div>
         </div>
 
         <div style="z-index: 1000; display: flex; flex-direction: column; align-items: center; gap: 25px; margin-top: 35px;">
-            <div style="background: var(--exp-footer-panel-bg); padding: 30px; border-radius: 12px; border: 1px solid var(--exp-panel-border); width: 100%; box-sizing: border-box;">
+            <div style="background: rgba(26,26,46,0.9); padding: 30px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); width: 100%; box-sizing: border-box;">
                 <div id="idwLegendImd" style="display:none; flex-direction:column; gap:15px;">
-                    <div style="color:var(--exp-text); font-size:24px; font-weight:bold; margin-bottom:10px; text-align: center;">Rainfall Intensity (mm)</div>
+                    <div style="color:#fff; font-size:24px; font-weight:bold; margin-bottom:10px; text-align: center;">Rainfall Intensity (mm)</div>
                     <div style="display:flex; justify-content:space-around; font-size:20px; font-weight:bold; margin-bottom: 10px;">
-                        <span style="color:var(--exp-zero-dot);"><span class="legend-dot" style="background:var(--exp-zero-dot); border: 1px solid var(--exp-zero-border);"></span> 0</span>
-                        <span style="color:var(--exp-trace);"><span class="legend-dot" style="background:var(--exp-trace);"></span> 0.1 - 2.4</span>
-                        <span style="color:var(--exp-light-green);"><span class="legend-dot" style="background:var(--exp-light-green);"></span> 2.5 - 15.5</span>
+                        <span style="color:#ffffff;"><span class="legend-dot" style="background:#ffffff; border: 1px solid #7f8c8d;"></span> 0</span>
+                        <span style="color:#e0e0e0;"><span class="legend-dot" style="background:#e0e0e0;"></span> 0.1 - 2.4</span>
+                        <span style="color:#98fb98;"><span class="legend-dot" style="background:#98fb98;"></span> 2.5 - 15.5</span>
                     </div>
                     <div style="display:flex; justify-content:space-around; font-size:20px; font-weight:bold; margin-bottom: 10px;">
                         <span style="color:#2ecc71;"><span class="legend-dot" style="background:#2ecc71;"></span> 15.6 - 64.4</span>
@@ -1018,14 +974,14 @@
                 </div>
 
                 <div id="idwLegendSeasonal" style="display:none; flex-direction:column; gap:15px;">
-                    <div style="color:var(--exp-text); font-size:24px; font-weight:bold; margin-bottom:10px; text-align: center;">Accumulation (mm)</div>
+                    <div style="color:#fff; font-size:24px; font-weight:bold; margin-bottom:10px; text-align: center;">Accumulation (mm)</div>
                     <div id="seasonalLegendBlocks" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px; font-size:18px; font-weight:bold;"></div>
                 </div>
             </div>
 
-            <div style="text-align: center; background: var(--exp-footer-panel-bg); padding: 20px; border-radius: 12px; width: 100%; box-sizing: border-box;">
+            <div style="text-align: center; background: rgba(26,26,46,0.9); padding: 20px; border-radius: 12px; width: 100%; box-sizing: border-box;">
                 <div class="export-source" style="color: #8e44ad; margin-bottom:8px; font-weight:bold; font-size: 32px;">Data: TNDRRA</div>
-                <div style="font-size: 24px; color: var(--exp-text-dim); font-style: italic;">X @HaiyanTip | IG @haiyan_clicks</div>
+                <div style="font-size: 24px; color: #bdc3c7; font-style: italic;">X @HaiyanTip | IG @haiyan_clicks</div>
             </div>
         </div>
     </div>
@@ -1123,36 +1079,34 @@
             return null;
         }
 
-        // --- NEW 1955-STYLE COLOR ENGINE FOR ANNUAL/SEASONAL ---
-        const basePalette = ['#FFFFFF', '#FFA500', '#FFD700', '#FFFF00', '#ADFF2F', '#32CD32', '#00BFFF', '#0000FF', '#8A2BE2', '#800080', '#4B0082'];
+        function getColor(value, metric = 'annual') {
+            let maxRainNormal = 2000, step = 100;
+            if (metric === 'annual') { maxRainNormal = 2000; step = 100; }
+            else if (metric === 'nem') { maxRainNormal = 1200; step = 100; }
+            else if (metric === 'swm') { maxRainNormal = 1000; step = 100; }
+            else if (metric === 'summer') { maxRainNormal = 500; step = 50; }
+            else if (metric === 'winter') { maxRainNormal = 200; step = 20; } 
 
-        const seasonConfig = {
-            'annual': [0, 100, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000],
-            'nem': [0, 100, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000],
-            'swm': [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000],
-            'summer': [0, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500],
-            'winter': [0, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500]
-        };
-
-        function getSeasonalColor(value, metric = 'annual') {
-            if (value <= 0) return basePalette[0];
-
-            const bounds = seasonConfig[metric] || seasonConfig['annual'];
-            const maxBound = bounds[bounds.length - 1];
-
-            if (value > maxBound) return '#FF00FF';
-
-            let binIdx = 0;
-            for (let i = 0; i < bounds.length - 1; i++) {
-                if (value > bounds[i] && value <= bounds[i+1]) {
-                    binIdx = i;
-                    break;
-                }
+            if (value >= maxRainNormal) {
+                let overflowVal = value - maxRainNormal;
+                let overflowIdx = Math.floor(overflowVal / 1000);
+                if (overflowIdx === 0) return '#9e9e9e'; 
+                if (overflowIdx === 1) return '#616161'; 
+                return '#212121';                        
             }
 
-            let numBins = bounds.length - 1;
-            let colorIdx = Math.floor((binIdx / Math.max(1, numBins - 1)) * (basePalette.length - 1));
-            return basePalette[colorIdx];
+            const masterPalette = [
+                "#d32f2f", "#f44336", "#ff7043", "#ffa726", "#ffca28", "#ffeb3b", 
+                "#d4e157", "#9ccc65", "#66bb6a", "#43a047", "#2e7d32", 
+                "#26c6da", "#00acc1", "#29b6f6", "#0288d1", "#1565c0", 
+                "#3f51b5", "#5e35b1", "#4a148c" 
+            ];
+
+            let numBins = maxRainNormal / step;
+            let binIdx = Math.floor(value / step);
+            if (binIdx < 0) binIdx = 0;
+            let colorIdx = Math.floor((binIdx / Math.max(1, numBins - 1)) * (masterPalette.length - 1));
+            return masterPalette[colorIdx];
         }
 
         function getIMDColor(mm) {
@@ -1364,7 +1318,7 @@
                 for (let key in stationMap) {
                     const item = stationMap[key];
                     if (item.lat === 0 || item.lon === 0 || isNaN(item.lat) || isNaN(item.lon)) continue;
-                    const marker = L.circleMarker([item.lat, item.lon], { radius: 7, fillColor: getSeasonalColor(item.total, 'annual'), color: "white", weight: 1.5, opacity: 1, fillOpacity: 0.85 }).addTo(layers.station);
+                    const marker = L.circleMarker([item.lat, item.lon], { radius: 7, fillColor: getColor(item.total, 'annual'), color: "white", weight: 1.5, opacity: 1, fillOpacity: 0.85 }).addTo(layers.station);
 
                     const canvasId = `chart-${item.id}`;
                     let modeSpecificHTML = '';
@@ -1405,22 +1359,19 @@
             document.getElementById('continuousLegend').style.display = isDailyHeatmap ? 'none' : 'block';
             document.getElementById('imdLegendContainer').style.display = isDailyHeatmap ? 'block' : 'none';
 
-            // --- DYNAMIC WEB UI LEGEND FIX ---
             if (!isDailyHeatmap) {
                 let activeLegendMetric = (activeView === 'heatmap') ? hMetric : 'annual';
-                const bounds = seasonConfig[activeLegendMetric] || seasonConfig['annual'];
-                const maxR = bounds[bounds.length - 1];
+                let maxR = 2000;
+                if (activeLegendMetric === 'nem') maxR = 1200;
+                else if (activeLegendMetric === 'swm') maxR = 1000;
+                else if (activeLegendMetric === 'summer') maxR = 500;
+                else if (activeLegendMetric === 'winter') maxR = 200;
 
                 const lbls = document.getElementById('webContinuousLabels');
                 let mStr = maxR >= 1000 ? (maxR/1000 + 'k') : maxR;
-                
-                // Show key thresholds correctly based on active bound array
-                lbls.innerHTML = `<span>0</span><span>${bounds[Math.floor(bounds.length/4)]}</span><span>${bounds[Math.floor(bounds.length/2)]}</span><span>${bounds[Math.floor((bounds.length*3)/4)]}</span><span>${maxR}</span><span style="color:#ff00ff;">>${mStr}</span>`;
-                
-                document.getElementById('webContinuousBar').style.background = `linear-gradient(to right, ${basePalette.join(', ')})`;
+                lbls.innerHTML = `<span>0</span><span>${maxR*0.25}</span><span>${maxR*0.5}</span><span>${maxR*0.75}</span><span>${maxR}</span><span style="color:#9e9e9e;">>${mStr}</span>`;
             }
 
-            // DISTRICT BOUNDARY CHOROPLETH FILL (Native GeoJSON Layer)
             if (activeView === 'heatmap' && tnGeoJSONData) {
                 const geoJsonLayer = L.geoJSON(tnGeoJSONData, {
                     style: function(feature) {
@@ -1436,7 +1387,7 @@
                             else val = (matchedDist[hMetric] || 0) / div;
                         }
 
-                        const fillColor = (hMetric === 'daily') ? getIMDColor(val) : getSeasonalColor(val, hMetric);
+                        const fillColor = (hMetric === 'daily') ? getIMDColor(val) : getColor(val, hMetric);
 
                         return {
                             fillColor: fillColor,
@@ -1453,7 +1404,7 @@
                         let val = 0;
                         let displayName = rawName;
                         if (matchedDist && matchedDist.count > 0) {
-                            displayName = matchedDist.name; // Uses exact CSV data name
+                            displayName = matchedDist.name; 
                             const div = matchedDist.count;
                             if (hMetric === 'daily') val = matchedDist.todaySum / div;
                             else if (hMetric === 'annual') val = matchedDist.total / div;
@@ -1462,7 +1413,6 @@
 
                         layer.bindTooltip(`<b>${displayName} District</b><br>Rainfall Avg: <b>${val.toFixed(1)} mm</b>`, { sticky: true });
 
-                        // Bind full stats popup to the GeoJSON polygon
                         if (matchedDist && matchedDist.count > 0) {
                             const div = matchedDist.count;
                             const total = matchedDist.total / div;
@@ -1705,11 +1655,10 @@
             });
 
             if (!hasAnyData) {
-                htmlStr = `<div style="text-align:center; width: 100%; font-size:36px; color:var(--exp-text-dim); margin-top:50px; grid-column: 1 / -1;">No rainfall met the selected criteria.</div>`;
+                htmlStr = `<div style="text-align:center; width: 100%; font-size:36px; color:#bdc3c7; margin-top:50px; grid-column: 1 / -1;">No rainfall met the selected criteria.</div>`;
             }
 
             document.getElementById('exportDailyBodyContent').innerHTML = htmlStr;
-            targetDiv.dataset.exportTheme = document.getElementById('dailyExportTheme').value;
             triggerExportRender(targetDiv, 'reportModal');
         }
 
@@ -1747,9 +1696,9 @@
                 const hc = (col) => col === sortSelection ? 'col-highlight' : '';
                 htmlStr += `
                     <tr>
-                        <td style="text-align: center; color: var(--exp-text-dim2);">${sNo++}</td>
+                        <td style="text-align: center; color: #7f8c8d;">${sNo++}</td>
                         <td style="font-weight: bold;">${st.district}</td>
-                        <td style="font-weight: bold; color: var(--exp-text);">${st.name}</td>
+                        <td style="font-weight: bold; color: #ffffff;">${st.name}</td>
                         <td>${st.monthly[0].toFixed(1)}</td><td>${st.monthly[1].toFixed(1)}</td><td>${st.monthly[2].toFixed(1)}</td>
                         <td>${st.monthly[3].toFixed(1)}</td><td>${st.monthly[4].toFixed(1)}</td><td>${st.monthly[5].toFixed(1)}</td>
                         <td>${st.monthly[6].toFixed(1)}</td><td>${st.monthly[7].toFixed(1)}</td><td>${st.monthly[8].toFixed(1)}</td>
@@ -1760,14 +1709,13 @@
                         <td class="${hc('swm')}">${st.swm.toFixed(1)}</td>
                         <td class="${hc('nem')}">${st.nem.toFixed(1)}</td>
                         <td class="${hc('max')}">${st.maxRain.toFixed(1)}</td>
-                        <td style="font-size: 16px; color: var(--exp-text-dim);">${st.maxDate}</td>
+                        <td style="font-size: 16px; color: #bdc3c7;">${st.maxDate}</td>
                     </tr>
                 `;
             });
 
             document.getElementById('exportAnnualTableBody').innerHTML = htmlStr;
             const targetDiv = document.getElementById('exportAnnualWrapper');
-            targetDiv.dataset.exportTheme = document.getElementById('annualExportTheme').value;
             triggerExportRender(targetDiv, 'annualReportModal');
         }
 
@@ -1847,24 +1795,24 @@
                 return;
             }
 
-            const pointsCollection = turf.featureCollection(pts);
-            
-            // To prevent boundary cutoffs, generate the interpolation across the entire state bounding box
-            const tnBounds = L.geoJSON(tnGeoJSONData).getBounds();
-            const boundingBox = [
-                tnBounds.getWest() - 0.1, 
-                tnBounds.getSouth() - 0.1, 
-                tnBounds.getEast() + 0.1, 
-                tnBounds.getNorth() + 0.1
+            let maxRainNormal = 2000, step = 100;
+            if (metric === 'annual') { maxRainNormal = 2000; step = 100; }
+            else if (metric === 'nem') { maxRainNormal = 1200; step = 100; }
+            else if (metric === 'swm') { maxRainNormal = 1000; step = 100; }
+            else if (metric === 'summer') { maxRainNormal = 500; step = 50; }
+            else if (metric === 'winter') { maxRainNormal = 200; step = 20; } 
+
+            let numBins = maxRainNormal / step;
+
+            const masterPalette = [
+                "#d32f2f", "#f44336", "#ff7043", "#ffa726", "#ffca28", "#ffeb3b", 
+                "#d4e157", "#9ccc65", "#66bb6a", "#43a047", "#2e7d32", 
+                "#26c6da", "#00acc1", "#29b6f6", "#0288d1", "#1565c0", 
+                "#3f51b5", "#5e35b1", "#4a148c" 
             ];
-            
-            const grid = turf.interpolate(pointsCollection, 2.5, { 
-                gridType: 'hex', 
-                property: 'rain', 
-                units: 'kilometers', 
-                weight: 3,
-                bbox: boundingBox 
-            });
+
+            const pointsCollection = turf.featureCollection(pts);
+            const grid = turf.interpolate(pointsCollection, 2.5, { gridType: 'hex', property: 'rain', units: 'kilometers', weight: 3 });
 
             const filteredFeatures = [];
             turf.featureEach(grid, function (cell) {
@@ -1892,23 +1840,41 @@
                 exportIdwMapInstance.getPane('pointsPane').style.zIndex = 430;
             }
 
+            const tnBounds = L.geoJSON(tnGeoJSONData).getBounds();
             exportIdwMapInstance.eachLayer(l => exportIdwMapInstance.removeLayer(l));
 
             L.geoJSON(finalGrid, {
                 pane: 'gridPane',
                 style: function(feature) {
                     const val = feature.properties.rain;
-                    let color = isDaily ? getIMDColor(val) : getSeasonalColor(val, metric);
+                    let color;
+
+                    if (isDaily) {
+                        color = getIMDColor(val);
+                    } else {
+                        if (val >= maxRainNormal) {
+                            let overflowVal = val - maxRainNormal;
+                            let overflowIdx = Math.floor(overflowVal / 1000); 
+                            if (overflowIdx === 0) color = '#9e9e9e';      
+                            else if (overflowIdx === 1) color = '#616161'; 
+                            else color = '#212121';                        
+                        } else {
+                            let binIdx = Math.floor(val / step);
+                            if (binIdx < 0) binIdx = 0;
+                            let colorIdx = Math.floor((binIdx / Math.max(1, numBins - 1)) * (masterPalette.length - 1));
+                            color = masterPalette[colorIdx];
+                        }
+                    }
                     return { fillColor: color, fillOpacity: 0.95, weight: 2, color: color, stroke: true };
                 }
             }).addTo(exportIdwMapInstance);
 
             const maskCoords = generateInvertedMask(tnGeoJSONData);
-            L.polygon(maskCoords, { pane: 'maskPane', fillColor: 'var(--exp-bg-annual)', fillOpacity: 1, stroke: false }).addTo(exportIdwMapInstance);
+            L.polygon(maskCoords, { pane: 'maskPane', fillColor: '#1a1a2e', fillOpacity: 1, stroke: false }).addTo(exportIdwMapInstance);
 
             L.geoJSON(tnGeoJSONData, {
                 pane: 'boundsPane',
-                style: { fillColor: 'transparent', color: 'var(--exp-text-dim)', weight: 1.5, opacity: 0.9 }
+                style: { fillColor: 'transparent', color: 'rgba(255,255,255,0.4)', weight: 1.5, opacity: 0.9 }
             }).addTo(exportIdwMapInstance);
 
             const showStations = document.getElementById('idwShowStations').checked;
@@ -1916,7 +1882,7 @@
                 L.geoJSON(pointsCollection, {
                     pane: 'pointsPane',
                     pointToLayer: function (feature, latlng) {
-                        return L.circleMarker(latlng, { radius: 0.8, fillColor: "var(--exp-text)", color: "transparent", fillOpacity: 0.7 });
+                        return L.circleMarker(latlng, { radius: 0.8, fillColor: "#000000", color: "transparent", fillOpacity: 0.7 });
                     }
                 }).addTo(exportIdwMapInstance);
             }
@@ -1935,21 +1901,27 @@
                 legendCont.style.display = 'flex';
 
                 let seasonalLegendHTML = "";
-                const bounds = seasonConfig[metric] || seasonConfig['annual'];
-                let numBins = bounds.length - 1;
 
                 for (let i = 0; i < numBins; i++) {
-                    let lower = bounds[i];
-                    let upper = bounds[i + 1];
-                    let colorIdx = Math.floor((i / Math.max(1, numBins - 1)) * (basePalette.length - 1));
-                    let color = basePalette[colorIdx];
-                    let label = lower === 0 ? `1-${upper}` : `${lower + 1}-${upper}`;
-                    let textColor = color === '#FFFFFF' ? 'var(--exp-text-dim)' : color;
-                    
-                    seasonalLegendHTML += `<span style="color:${textColor}; white-space:nowrap; font-size:12px; font-weight:700;"><span class="legend-dot" style="background:${color}; border:1px solid rgba(255,255,255,0.4);"></span> ${label}</span>`;
+                    let lower = i * step;
+                    let upper = (i + 1) * step;
+                    let colorIdx = Math.floor((i / Math.max(1, numBins - 1)) * (masterPalette.length - 1));
+                    let color = masterPalette[colorIdx];
+                    let label = `${lower}-${upper}`;
+                    seasonalLegendHTML += `<span style="color:${color}; white-space:nowrap;"><span class="legend-dot" style="background:${color}; border:1px solid rgba(255,255,255,0.2);"></span> ${label}</span>`;
                 }
 
-                seasonalLegendHTML += `<span style="color:#ff00ff; white-space:nowrap; font-size:12px; font-weight:700;"><span class="legend-dot" style="background:#ff00ff; border:1px solid rgba(255,255,255,0.4);"></span> > ${bounds[bounds.length - 1]}</span>`;
+                if (maxRain > maxRainNormal) {
+                    seasonalLegendHTML += `<div style="width:100%; height:0; margin:2px 0;"></div>`; 
+                    seasonalLegendHTML += `<span style="color:#9e9e9e; white-space:nowrap;"><span class="legend-dot" style="background:#9e9e9e; border:1px solid rgba(255,255,255,0.2);"></span> ${maxRainNormal}-${maxRainNormal + 1000}</span>`;
+
+                    if (maxRain > maxRainNormal + 1000) {
+                        seasonalLegendHTML += `<span style="color:#616161; white-space:nowrap;"><span class="legend-dot" style="background:#616161; border:1px solid rgba(255,255,255,0.2);"></span> ${maxRainNormal + 1000}-${maxRainNormal + 2000}</span>`;
+                    }
+                    if (maxRain > maxRainNormal + 2000) {
+                        seasonalLegendHTML += `<span style="color:#212121; white-space:nowrap;"><span class="legend-dot" style="background:#212121; border:1px solid rgba(255,255,255,0.2);"></span> > ${maxRainNormal + 2000}</span>`;
+                    }
+                }
 
                 document.getElementById('seasonalLegendBlocks').innerHTML = seasonalLegendHTML;
             }
@@ -1958,7 +1930,6 @@
             activeModalSource = '';
 
             const targetDiv = document.getElementById('exportIdwWrapper');
-            targetDiv.dataset.exportTheme = document.getElementById('idwExportTheme').value;
             targetDiv.style.display = 'flex';
             exportIdwMapInstance.invalidateSize(true);
             exportIdwMapInstance.fitBounds(tnBounds);
@@ -1969,8 +1940,7 @@
                 previewContainer.innerHTML = '<span style="color: #fff; line-height: 100px;">Capturing High-Res Map...</span>';
                 document.getElementById('previewModal').style.display = 'flex';
 
-                const bgColor = getComputedStyle(targetDiv).backgroundColor;
-                html2canvas(targetDiv, { scale: 2, useCORS: true, backgroundColor: bgColor }).then(canvas => {
+                html2canvas(targetDiv, { scale: 2, useCORS: true, backgroundColor: "#1a1a2e" }).then(canvas => {
                     targetDiv.style.display = 'none';
                     finalImageBase64 = canvas.toDataURL('image/png');
                     previewContainer.innerHTML = `<img id="previewImage" src="${finalImageBase64}" />`;
@@ -1985,10 +1955,9 @@
             document.getElementById('previewModal').style.display = 'flex';
 
             targetDiv.style.display = 'flex';
-            const bgColor = getComputedStyle(targetDiv).backgroundColor;
 
             setTimeout(() => {
-                html2canvas(targetDiv, { scale: 2, backgroundColor: bgColor }).then(canvas => {
+                html2canvas(targetDiv, { scale: 2, backgroundColor: "#121212" }).then(canvas => {
                     targetDiv.style.display = 'none';
                     finalImageBase64 = canvas.toDataURL('image/png');
                     previewContainer.innerHTML = `<img id="previewImage" src="${finalImageBase64}" />`;
