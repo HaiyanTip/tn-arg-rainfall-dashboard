@@ -380903,3 +380903,1363 @@ date,district_name,station_name,total,latitude,longitude
 20-09-2026,Virudhunagar,Tiruchuli Taluk office AWS,0.0,9.5386,78.2019
 20-09-2026,Virudhunagar,Venkateswarapuram,0.0,9.5354,77.6223
 20-09-2026,Virudhunagar,Watrap ARG,0.8,9.639,77.6348
+21-09-2026,Ariyalur,Andimadam,34.8,11.33,79.36
+21-09-2026,Ariyalur,Kattathur North,20.8,11.3,79.34
+21-09-2026,Ariyalur,Irumbilikurichi,3.6,11.2,79.22
+21-09-2026,Ariyalur,Ariyalur ARG,0.8,11.14,79.08
+21-09-2026,Ariyalur,Nagamangalam,2.0,11.08,79.19
+21-09-2026,Ariyalur,Elakkurichy,1.2,10.95,79.17
+21-09-2026,Ariyalur,Sathamangalam,0.0,11.0,79.08
+21-09-2026,Ariyalur,T.Palur,2.8,11.1,79.37
+21-09-2026,Ariyalur,Keelapalur,0.0,11.04,79.07
+21-09-2026,Ariyalur,Melakaruppur,0.0,11.05,79.1
+21-09-2026,Ariyalur,Vikramangalam,0.0,11.04,79.23
+21-09-2026,Ariyalur,Thirumanur,0.0,10.93,79.1
+21-09-2026,Ariyalur,Elanthaikudam,6.0,10.93,79.03
+21-09-2026,Ariyalur,Namangunam,6.8,11.28,79.12
+21-09-2026,Ariyalur,Amanakanthondi,5.2,11.21,79.41
+21-09-2026,Ariyalur,Suthamalli,0.0,11.1,79.27
+21-09-2026,Ariyalur,Meensurutty,6.8,11.24,79.48
+21-09-2026,Ariyalur,Udayarpalayam,6.4,11.19,79.29
+21-09-2026,Coimbatore,Aliyar Dam,0.0,10.58,76.94
+21-09-2026,Coimbatore,Jallipatti,0.0,10.55,77.02
+21-09-2026,Coimbatore,Kottur,0.0,10.54,76.98
+21-09-2026,Coimbatore,Anaimalai,0.0,10.63,76.93
+21-09-2026,Coimbatore,Periyapodhu,0.0,10.61,76.88
+21-09-2026,Coimbatore,Kanjampalli,0.0,11.23,77.14
+21-09-2026,Coimbatore,Vadavalli,0.8,11.23,77.03
+21-09-2026,Coimbatore,Annur,4.4,11.24,77.1
+21-09-2026,Coimbatore,Pillayapalayam,0.0,11.19,77.09
+21-09-2026,Coimbatore,Keeranatham,2.8,11.11,76.99
+21-09-2026,Coimbatore,Sarcarsamakulam,0.4,11.14,77.03
+21-09-2026,Coimbatore,Singanallur,0.0,11.0,77.03
+21-09-2026,Coimbatore,Periyanaickanpalayam,47.2,11.15,76.95
+21-09-2026,Coimbatore,Naickepalayam,12.4,11.15,76.92
+21-09-2026,Coimbatore,Thudiyalur,14.0,11.08,76.94
+21-09-2026,Coimbatore,Chinnathadagam,34.8,11.08,76.86
+21-09-2026,Coimbatore,Velliyankadu,0.0,11.11,76.76
+21-09-2026,Coimbatore,Kothavadi,0.0,10.81,77.05
+21-09-2026,Coimbatore,Kinathukadavu,0.0,10.81,77.02
+21-09-2026,Coimbatore,Solanur,0.0,10.72,77.04
+21-09-2026,Coimbatore,Vadachittur,0.0,10.84,77.08
+21-09-2026,Coimbatore,Vellalore,0.0,10.97,77.03
+21-09-2026,Coimbatore,Madukkarai,0.0,10.9,76.96
+21-09-2026,Coimbatore,Othakalmandabam,0.0,10.87,77.0
+21-09-2026,Coimbatore,Myleripalayam,0.0,10.87,77.02
+21-09-2026,Coimbatore,Bellathi,0.0,11.26,77.0
+21-09-2026,Coimbatore,Chikkadasampalayam,0.0,11.31,76.95
+21-09-2026,Coimbatore,Karamadai,0.0,11.24,76.96
+21-09-2026,Coimbatore,Tholampalayam,0.0,11.18,76.83
+21-09-2026,Coimbatore,Erumburai,0.0,11.36,77.06
+21-09-2026,Coimbatore,Sirumugai,0.0,11.33,77.0
+21-09-2026,Coimbatore,Mooduthurai,0.0,11.35,77.12
+21-09-2026,Coimbatore,Poluvapatti,6.8,10.96,76.79
+21-09-2026,Coimbatore,Kuniyamuthur,0.0,10.96,76.95
+21-09-2026,Coimbatore,Thenkarai,20.4,10.95,76.84
+21-09-2026,Coimbatore,Thondamuthur,15.2,10.99,76.84
+21-09-2026,Coimbatore,Vellimalaipattinam,0.8,11.0,76.78
+21-09-2026,Coimbatore,Aachipatty,11.6,11.0,76.82
+21-09-2026,Coimbatore,Kolarpatty,0.0,10.63,77.11
+21-09-2026,Coimbatore,Sinjuvadi,0.0,10.6,77.13
+21-09-2026,Coimbatore,Gomangalam,0.0,10.64,77.16
+21-09-2026,Coimbatore,Negamam,0.0,10.74,77.1
+21-09-2026,Coimbatore,Pollachi ARG,0.0,10.66,77.0
+21-09-2026,Coimbatore,Ramapattinam,0.0,10.69,76.93
+21-09-2026,Coimbatore,Somanur,14.0,11.09,77.19
+21-09-2026,Coimbatore,Bogampatti,0.0,10.9,77.12
+21-09-2026,Coimbatore,Varappatti,0.0,10.87,77.19
+21-09-2026,Coimbatore,Valparai Taluk Office ARG,0.0,10.32,76.95
+21-09-2026,Coimbatore,Cincona ARG,20.0,10.28,76.98
+21-09-2026,Coimbatore,Lower Nirar Dam ARG,2.8,10.27,76.99
+21-09-2026,Coimbatore,Valparai VAO Office,45.2,10.33,76.96
+21-09-2026,Chengalpattu,Chengalpattu TNDRRA ARG,0.0,12.67,79.98
+21-09-2026,Chengalpattu,Palur,0.0,12.76,79.91
+21-09-2026,Chengalpattu,Singaperumalkoil,2.8,12.77,80.01
+21-09-2026,Chengalpattu,Cheyyur,0.0,12.35,80.0
+21-09-2026,Chengalpattu,Kovathur,0.0,12.45,80.11
+21-09-2026,Chengalpattu,Pavunjur,19.6,12.45,80.01
+21-09-2026,Chengalpattu,Lathur,31.6,12.46,80.01
+21-09-2026,Chengalpattu,Chithamur,0.0,12.41,79.89
+21-09-2026,Chengalpattu,Kokkarathangal,7.6,12.34,79.93
+21-09-2026,Chengalpattu,Acharapakkam,14.0,12.4,79.81
+21-09-2026,Chengalpattu,Athur,12.0,12.35,79.8
+21-09-2026,Chengalpattu,Zamin Endathur,26.4,12.46,79.93
+21-09-2026,Chengalpattu,Karunguzhi,18.0,12.54,79.9
+21-09-2026,Chengalpattu,L.Endathur,4.0,12.52,79.77
+21-09-2026,Chengalpattu,Kavathur,71.2,12.5,79.95
+21-09-2026,Chengalpattu,Onambakkam,0.4,12.39,79.96
+21-09-2026,Chengalpattu,Perumbakkam,16.0,12.51,79.81
+21-09-2026,Chengalpattu,Mamandur,0.0,12.66,79.94
+21-09-2026,Chengalpattu,Pozhichalur,1.6,12.99,80.14
+21-09-2026,Chengalpattu,Tambaram,0.0,12.93,80.13
+21-09-2026,Chengalpattu,Medavakkam,6.4,12.92,80.2
+21-09-2026,Chengalpattu,Perumbakkam,11.2,12.9,80.17
+21-09-2026,Chennai,Z 01 Ennore (W 03),0.0,13.2,80.32
+21-09-2026,Chennai,Z 01 Wimco nagar (W 05),0.0,13.18,80.31
+21-09-2026,Chennai,Z 01 Thiruvottiyur (W 11),0.0,13.16,80.3
+21-09-2026,Chennai,Z 02 Manali New town (W 15),0.0,13.21,80.28
+21-09-2026,Chennai,Z 02 Manali (W 17),0.0,13.18,80.22
+21-09-2026,Chennai,Z 02 Manali (W 18),0.0,13.18,80.26
+21-09-2026,Chennai,Z 02 Manali (W 19),0.0,13.17,80.25
+21-09-2026,Chennai,Z 02 Manali (W 21),0.0,13.16,80.27
+21-09-2026,Chennai,Z 03 Puzhal (W 22),0.0,13.16,80.2
+21-09-2026,Chennai,Z 03 Madhavaram (W 30),0.0,13.15,80.23
+21-09-2026,Chennai,Z 04 Tondiarpet (W 42),0.0,13.12,80.29
+21-09-2026,Chennai,Z 04 Kasimedu (W 43),0.0,13.12,80.3
+21-09-2026,Chennai,Z 05 Basin bridge (W 53),0.0,13.1,80.27
+21-09-2026,Chennai,Z 05 Chennai Central (W 58),0.0,13.08,80.27
+21-09-2026,Chennai,Z 05 Parrys (W 60),0.0,13.09,80.29
+21-09-2026,Chennai,Z 06 Kolathur (W 65),0.0,13.12,80.21
+21-09-2026,Chennai,Z 06 Perambur (W 67),0.0,13.11,80.23
+21-09-2026,Chennai,Z 07 Ambattur (W 81),0.0,13.12,80.15
+21-09-2026,Chennai,Z 07 Korattur (W 84),0.0,13.11,80.18
+21-09-2026,Chennai,Z 07 Ayapakkam (W 85),0.0,13.11,80.15
+21-09-2026,Chennai,Z 07 Korattur (W 86),0.4,13.1,80.17
+21-09-2026,Chennai,Z 08 Anna Nagar West (W 95),16.5,13.1,80.2
+21-09-2026,Chennai,Z 08 Aminjikarai (W 102),14.1,13.08,80.23
+21-09-2026,Chennai,Z 09 Nungambakkam (W 110),3.3,13.05,80.24
+21-09-2026,Chennai,Z 09 Ice House (W 120),0.0,13.05,80.28
+21-09-2026,Chennai,Z 10 Saligramam (W 129),18.4,13.06,80.2
+21-09-2026,Chennai,Z 10 Vadapalani (W 134),7.5,13.05,80.22
+21-09-2026,Chennai,Z 10 Saidapet (W 139),10.2,13.03,80.21
+21-09-2026,Chennai,Z 11 Nerkundram (W 144),22.8,13.06,80.18
+21-09-2026,Chennai,Z 11 Maduravoyal (W 146),0.0,13.05,80.16
+21-09-2026,Chennai,Z 11 Valasaravakkam (W 148),9.6,13.05,80.18
+21-09-2026,Chennai,Z 11 Valasaravakkam (W 149),19.0,13.05,80.19
+21-09-2026,Chennai,Z 11 Valasaravakkam (W 152),14.0,13.04,80.17
+21-09-2026,Chennai,Z 12 Alandhur (PAL),16.6,13.01,80.2
+21-09-2026,Chennai,Z 12 Meenambakkam (PAL),10.4,12.99,80.18
+21-09-2026,Chennai,Z 12 Mugalivakkam (W 156),2.6,13.02,80.17
+21-09-2026,Chennai,Z 13 Raja Annamalai puram (W 173),7.5,13.02,80.26
+21-09-2026,Chennai,Z 13 Adyar ( W 175),9.3,13.01,80.25
+21-09-2026,Chennai,Z 13 Velachery (W 178),0.0,12.99,80.22
+21-09-2026,Chennai,Z 14 Madipakkam (W 169),1.2,12.97,80.19
+21-09-2026,Chennai,Z 14 Perungudi (W 184),5.0,12.97,80.24
+21-09-2026,Chennai,Z 14 Medavakkam Jn (W 188),1.2,12.92,80.19
+21-09-2026,Chennai,Z 14 Madipakkam (W 188),2.2,12.96,80.2
+21-09-2026,Chennai,Z 14 Pallikaranai (W 189),3.0,12.93,80.2
+21-09-2026,Chennai,Z 14 Narayanapuram Lake (W 190),1.8,12.95,80.2
+21-09-2026,Chennai,Z 14 Pallikaranai (W 190),5.4,12.93,80.2
+21-09-2026,Chennai,Z 14 Medavakkam (W 191),10.8,12.92,80.2
+21-09-2026,Chennai,Z 15 Neelankarai (W 192),0.0,12.95,80.26
+21-09-2026,Chennai,Z 15 Injambakkam (W 194),23.8,12.92,80.25
+21-09-2026,Chennai,Z 15 Kannagi Nagar (W 196),18.8,12.93,80.24
+21-09-2026,Chennai,Z 15 Okkiyam Thoraipakkam (W 195),22.2,12.93,80.23
+21-09-2026,Chennai,Z 15 Sholinganallur (W 197),41.6,12.9,80.23
+21-09-2026,Chennai,Z 15 Uthandi (W 200),12.3,12.87,80.24
+21-09-2026,Chennai,Z 02 Manali New town (W 18),0.0,13.19,80.27
+21-09-2026,Chengalpattu,Mamallapuram TNDRRA ARG,4.0,12.62,80.19
+21-09-2026,Chengalpattu,Kelambakkam,38.0,12.8,80.23
+21-09-2026,Chengalpattu,Manampathi,0.8,12.66,80.12
+21-09-2026,Chengalpattu,Paiyanur,4.8,12.64,80.17
+21-09-2026,Chengalpattu,Thiruporur TNDRRA ARG,4.0,12.72,80.19
+21-09-2026,Chengalpattu,Nellikupam,5.6,12.83,80.16
+21-09-2026,Chennai,Sathangadu,0.0,13.15,80.3
+21-09-2026,Chennai,Edayanchavad,0.0,13.22,80.27
+21-09-2026,Chennai,Sadayankuppam,0.0,13.19,80.27
+21-09-2026,Chennai,Kadapakkam,0.0,13.19,80.26
+21-09-2026,Chennai,Kosapur,0.0,13.18,80.23
+21-09-2026,Chennai,Mathur TNDRRA ARG,0.0,13.17,80.25
+21-09-2026,Chennai,Balaji Nagar (Puzhal),0.0,13.17,80.22
+21-09-2026,Chennai,Puzhal TNDRRA ARG,0.0,13.16,80.2
+21-09-2026,Chennai,Kathirvedu,0.0,13.14,80.19
+21-09-2026,Chennai,Madhavaram,0.0,13.16,80.24
+21-09-2026,Chennai,Tondiarpat TNDRRA ARG,0.0,13.14,80.29
+21-09-2026,Chennai,Vepery,2.0,13.09,80.27
+21-09-2026,Chennai,Egmore,3.2,13.08,80.27
+21-09-2026,Chennai,Kolathur TNDRRA ARG,0.0,13.13,80.21
+21-09-2026,Chennai,Selaivoyal,0.0,13.12,80.23
+21-09-2026,Chennai,Pulianthope,3.6,13.1,80.27
+21-09-2026,Chennai,Oragadam (Ambattur),0.0,13.13,80.15
+21-09-2026,Chennai,Patravakkam,0.0,13.11,80.17
+21-09-2026,Chennai,Perumalpet,0.0,13.11,80.15
+21-09-2026,Chennai,Athipet,3.2,13.09,80.16
+21-09-2026,Chennai,Mogappair,0.0,13.08,80.17
+21-09-2026,Chennai,Villivakkam,0.0,13.11,80.2
+21-09-2026,Chennai,ICF,0.0,13.1,80.2
+21-09-2026,Chennai,Ayanavaram TNDRRA ARG,4.0,13.1,80.24
+21-09-2026,Chennai,Nungambakkam TNDRRA ARG,1.6,13.07,80.24
+21-09-2026,Chennai,Thousand Lights,0.0,13.07,80.25
+21-09-2026,Chennai,Saligramam TNDRRA ARG,14.4,13.05,80.2
+21-09-2026,Chennai,Ashok Nagar,0.0,13.04,80.22
+21-09-2026,Chennai,Nerkundram TNDRRA ARG,0.0,13.05,80.18
+21-09-2026,Tiruvallur,Porur,0.0,13.04,80.15
+21-09-2026,Chennai,Adambakkam,0.0,13.0,80.2
+21-09-2026,Chennai,Pazhavanthangal,4.0,12.98,80.18
+21-09-2026,Chennai,Guindy (Sipcot),0.0,13.02,80.21
+21-09-2026,Chennai,Thiruvanmiyur,6.4,12.98,80.25
+21-09-2026,Chennai,Puzhuthivakkam TNDRRA ARG,2.0,12.96,80.2
+21-09-2026,Chennai,Pallikaranai TNDRRA ARG,6.4,12.92,80.21
+21-09-2026,Chennai,Okkiyam Thoraipakkam TNDRRA ARG,20.4,12.93,80.24
+21-09-2026,Chennai,Injambakkam TNDRRA ARG,22.4,12.92,80.25
+21-09-2026,Chennai,Uthandi TNDRRA ARG,4.8,12.87,80.25
+21-09-2026,Cuddalore,Vadakrishnapuram,0.0,11.48,79.61
+21-09-2026,Cuddalore,Vayalamur,73.6,11.5,79.66
+21-09-2026,Cuddalore,Nanjalur,0.0,11.37,79.66
+21-09-2026,Cuddalore,Keerapalayam,8.0,11.44,79.65
+21-09-2026,Cuddalore,Orathur,0.8,11.42,79.59
+21-09-2026,Cuddalore,Uthamachozhamangalam,86.4,11.41,79.75
+21-09-2026,Cuddalore,Kudikadu,8.0,11.68,79.76
+21-09-2026,Cuddalore,Cuddalore ARG,12.4,11.72,79.77
+21-09-2026,Cuddalore,Kayalpattu,16.4,11.59,79.76
+21-09-2026,Cuddalore,Kalaiyur,0.4,11.81,79.71
+21-09-2026,Cuddalore,Puliyangudi,1.6,11.27,79.61
+21-09-2026,Cuddalore,M.Arasur,0.0,11.26,79.63
+21-09-2026,Cuddalore,T.Puthur,0.0,11.32,79.6
+21-09-2026,Cuddalore,Pazhanjanallur,0.0,11.28,79.51
+21-09-2026,Cuddalore,Therthanagiri,9.6,11.57,79.68
+21-09-2026,Cuddalore,Rasakuppam,52.0,11.56,79.58
+21-09-2026,Cuddalore,Thiruvamur,56.0,11.77,79.48
+21-09-2026,Cuddalore,Marungur,0.0,11.65,79.53
+21-09-2026,Cuddalore,Nellikuppam,90.8,11.78,79.67
+21-09-2026,Cuddalore,Aviyanur,0.0,11.85,79.47
+21-09-2026,Cuddalore,Poongunam,17.6,11.79,79.56
+21-09-2026,Cuddalore,Vadakailasam,24.8,11.76,79.55
+21-09-2026,Cuddalore,Melapalayur,33.2,11.47,79.38
+21-09-2026,Cuddalore,Sri Neduncheri,2.4,11.41,79.45
+21-09-2026,Cuddalore,Gunamangalam,52.0,11.43,79.38
+21-09-2026,Cuddalore,Avatti,0.0,11.48,79.08
+21-09-2026,Cuddalore,Mangalur,6.0,11.51,79.01
+21-09-2026,Cuddalore,Orangur,6.8,11.5,78.96
+21-09-2026,Cuddalore,Veppur,0.0,11.53,79.12
+21-09-2026,Cuddalore,A.Marur,23.6,11.62,79.09
+21-09-2026,Cuddalore,Mangalampettai,0.0,11.64,79.28
+21-09-2026,Cuddalore,Pazhaiyapattinam,56.8,11.6,79.36
+21-09-2026,Cuddalore,Karuvepilankurichi,14.0,11.47,79.32
+21-09-2026,Cuddalore,Erumanur,0.0,11.55,79.29
+21-09-2026,Dindigul,Athoor,0.0,10.29,77.85
+21-09-2026,Dindigul,Athoor,21.2,10.3,77.88
+21-09-2026,Dindigul,Ayyampalayam,13.2,10.23,77.75
+21-09-2026,Dindigul,Ambathurai,44.0,10.27,77.92
+21-09-2026,Dindigul,Kasavanampatti,25.6,10.37,77.87
+21-09-2026,Dindigul,Agaram,31.6,10.42,77.92
+21-09-2026,Dindigul,Alakkuvarpatti,32.4,10.42,77.98
+21-09-2026,Dindigul,Palakanuthu,0.8,10.47,77.79
+21-09-2026,Dindigul,Silvarpatty,32.4,10.44,77.92
+21-09-2026,Dindigul,Sirumalai,35.2,10.24,78.0
+21-09-2026,Dindigul,Mullipadi,36.8,10.4,78.02
+21-09-2026,Dindigul,Kambiliyampatti,34.0,10.37,78.12
+21-09-2026,Dindigul,Shanarpatti,29.6,10.29,78.05
+21-09-2026,Dindigul,Koovanuthu,32.0,10.3,78.03
+21-09-2026,Dindigul,Shanarpatti,18.4,10.28,78.07
+21-09-2026,Dindigul,Kottanatham,3.2,10.75,78.09
+21-09-2026,Dindigul,Palayam,9.6,10.68,78.11
+21-09-2026,Dindigul,R.Puthukottai,24.0,10.61,78.05
+21-09-2026,Dindigul,Kodaikanal Kookal,12.4,10.3,77.41
+21-09-2026,Dindigul,Kodaikanal Poondi,20.4,10.19,77.33
+21-09-2026,Dindigul,Kodaikanal Perumalmalai,0.8,10.27,77.55
+21-09-2026,Dindigul,Samuthirapatti,16.0,10.21,78.29
+21-09-2026,Dindigul,Nadumandalam Puthupatty,26.4,10.29,78.27
+21-09-2026,Dindigul,Nadumandalam,36.0,10.26,78.25
+21-09-2026,Dindigul,Reddiyapatti,26.0,10.15,78.2
+21-09-2026,Dindigul,Pudur,0.0,10.1,78.18
+21-09-2026,Dindigul,Senthurai,60.0,10.39,78.25
+21-09-2026,Dindigul,Kodangipatti,52.8,10.37,78.25
+21-09-2026,Dindigul,Nariyuthu,13.6,10.18,77.88
+21-09-2026,Dindigul,Mattaparai,39.6,10.09,77.91
+21-09-2026,Dindigul,Ethilodu,13.6,10.11,77.87
+21-09-2026,Dindigul,Viruveedu,0.0,10.08,77.78
+21-09-2026,Dindigul,Odaipatty,0.0,10.58,77.78
+21-09-2026,Dindigul,I. Vadipatty,0.4,10.62,77.75
+21-09-2026,Dindigul,Paruthiyur,40.0,10.66,77.6
+21-09-2026,Dindigul,Appiyampatty,10.0,10.66,77.64
+21-09-2026,Dindigul,Kallimandayam,6.8,10.59,77.69
+21-09-2026,Dindigul,Oddanchataram,2.4,10.48,77.73
+21-09-2026,Dindigul,Virupatchi,2.8,10.47,77.7
+21-09-2026,Dindigul,Puliyurnatham,0.8,10.53,77.83
+21-09-2026,Dindigul,Kethayurambu,0.4,10.51,77.83
+21-09-2026,Dindigul,Idaiyakottaii,8.0,10.62,77.84
+21-09-2026,Dindigul,Ayakudi (Palani),0.4,10.45,77.56
+21-09-2026,Dindigul,Pushpathur,0.0,10.55,77.39
+21-09-2026,Dindigul,Korikadavu,0.0,10.56,77.48
+21-09-2026,Dindigul,Neikarapatti,0.0,10.45,77.47
+21-09-2026,Dindigul,Balasamudram,0.0,10.42,77.49
+21-09-2026,Dindigul,Palar Porunthalar Dam,0.0,10.38,77.49
+21-09-2026,Dindigul,Pappampatti,0.0,10.44,77.4
+21-09-2026,Dindigul,R.Vadipatti,0.0,10.45,77.43
+21-09-2026,Dindigul,Keeranur,0.4,10.6,77.5
+21-09-2026,Dindigul,Ayyalur,0.8,10.49,78.15
+21-09-2026,Dindigul,Eriyodu,21.2,10.51,78.07
+21-09-2026,Dindigul,Padiyur,0.0,10.42,78.03
+21-09-2026,Dindigul,Vadamadurai,15.6,10.44,78.1
+21-09-2026,Dindigul,Vedasandur ARG,60.0,10.53,77.96
+21-09-2026,Dharmapuri,Velogoundanpala,39.2,12.13,78.16
+21-09-2026,Dharmapuri,Krishnapuram,0.0,12.21,78.25
+21-09-2026,Dharmapuri,Varnatheertham,10.0,12.06,78.48
+21-09-2026,Dharmapuri,Mampatti,32.4,12.17,78.54
+21-09-2026,Dharmapuri,Maruthipatti,27.2,12.15,78.44
+21-09-2026,Dharmapuri,Navalai,12.0,12.17,78.36
+21-09-2026,Dharmapuri,Paraiyapatti,0.0,12.14,78.47
+21-09-2026,Dharmapuri,Obilinayakanpatt,30.8,12.12,78.39
+21-09-2026,Dharmapuri,Theerthamalai,9.6,12.1,78.59
+21-09-2026,Dharmapuri,Sitlingi,6.0,11.99,78.67
+21-09-2026,Dharmapuri,Veppampatti,23.2,12.05,78.56
+21-09-2026,Dharmapuri,Bairnaikkanpatti,8.0,12.04,78.64
+21-09-2026,Dharmapuri,Periyapatti,11.6,12.1,78.71
+21-09-2026,Dharmapuri,Kambainallur,0.4,12.2,78.32
+21-09-2026,Dharmapuri,Karimangalam,0.0,12.3,78.2
+21-09-2026,Dharmapuri,Nariyanahalli,16.8,12.3,78.15
+21-09-2026,Dharmapuri,Baisuhalli,56.0,12.22,78.19
+21-09-2026,Dharmapuri,Indur,0.0,12.13,78.06
+21-09-2026,Dharmapuri,Pangunatham,16.0,12.12,78.01
+21-09-2026,Dharmapuri,Palayam,28.0,12.01,78.1
+21-09-2026,Dharmapuri,Thoppur,29.2,11.94,78.07
+21-09-2026,Dharmapuri,Marandhalli ARG,34.8,12.39,78.0
+21-09-2026,Dharmapuri,Namandahalli,39.6,12.46,77.97
+21-09-2026,Dharmapuri,Gummanur,26.8,12.45,78.02
+21-09-2026,Dharmapuri,Thirumalvadi,44.0,12.32,77.92
+21-09-2026,Dharmapuri,Pulikarai,19.2,12.21,78.12
+21-09-2026,Dharmapuri,Karukkanahalli,17.6,12.36,78.08
+21-09-2026,Dharmapuri,B.Mallapuram,24.8,11.98,78.25
+21-09-2026,Dharmapuri,Bairnatham,32.8,11.95,78.3
+21-09-2026,Dharmapuri,Kadathur,22.0,12.09,78.29
+21-09-2026,Dharmapuri,Paparapatti,0.8,12.2,78.05
+21-09-2026,Dharmapuri,Pikkili,30.0,12.24,78.01
+21-09-2026,Dharmapuri,Suriyakadi,48.0,11.93,78.57
+21-09-2026,Dharmapuri,S.Ammapalayam,55.2,11.82,78.56
+21-09-2026,Dharmapuri,Vattuvanahalli,20.0,12.18,77.97
+21-09-2026,Dharmapuri,Thenkaraikottai,52.4,12.01,78.4
+21-09-2026,Dharmapuri,Pethathampatti,32.4,11.99,78.47
+21-09-2026,Dharmapuri,Citheri,24.8,11.89,78.51
+21-09-2026,Dharmapuri,Neruppur,0.0,11.96,77.76
+21-09-2026,Dharmapuri,Pennagaram,0.4,12.13,77.89
+21-09-2026,Dharmapuri,Senganur,47.6,12.1,77.9
+21-09-2026,Dharmapuri,Perumbalai,54.8,11.96,77.94
+21-09-2026,Dharmapuri,Sunchalnattham,26.4,12.01,77.8
+21-09-2026,Dharmapuri,Nagamarai,0.0,11.92,77.77
+21-09-2026,Erode,Komarayanur,35.6,11.73,77.69
+21-09-2026,Erode,Illipili,26.4,11.65,77.68
+21-09-2026,Erode,Sankarapalayam,13.2,11.63,77.58
+21-09-2026,Erode,Burgur,72.4,11.58,77.59
+21-09-2026,Erode,Thattakarai,0.0,11.84,77.53
+21-09-2026,Erode,Bhavani ARG,14.0,11.45,77.68
+21-09-2026,Erode,Kavundapadi,13.6,11.43,77.56
+21-09-2026,Erode,Olagadam,15.2,11.56,77.65
+21-09-2026,Erode,Suriyampalayam,0.0,11.4,77.69
+21-09-2026,Erode,Surampatti,11.6,11.34,77.7
+21-09-2026,Erode,Nasiyanur,4.4,11.34,77.64
+21-09-2026,Erode,Alukuli,3.2,11.45,77.36
+21-09-2026,Erode,Savundapur,12.8,11.49,77.48
+21-09-2026,Erode,Siruvalur,6.8,11.37,77.46
+21-09-2026,Erode,Punjai Thuraiyampalayam,2.0,11.51,77.36
+21-09-2026,Erode,Kilampadi,42.4,11.19,77.85
+21-09-2026,Erode,Kodumudi ARG,21.6,11.08,77.89
+21-09-2026,Erode,Sivagiri (Erode),38.4,11.13,77.81
+21-09-2026,Erode,Arachalur,9.6,11.16,77.7
+21-09-2026,Erode,Aval Poondurai,26.0,11.23,77.7
+21-09-2026,Erode,Modakurichi ARG,24.0,11.23,77.78
+21-09-2026,Erode,Thalguni,2.0,11.38,77.41
+21-09-2026,Erode,Nambiyur ARG,9.6,11.35,77.33
+21-09-2026,Erode,Attavanaipidariyur,15.2,11.16,77.6
+21-09-2026,Tiruppur,Kodumanal,3.2,11.09,77.51
+21-09-2026,Erode,Thiruvachi,3.6,11.31,77.6
+21-09-2026,Erode,Karumandisellipalayam,1.6,11.28,77.59
+21-09-2026,Erode,Thingalur,2.8,11.32,77.49
+21-09-2026,Erode,Pungampadi,10.4,11.24,77.66
+21-09-2026,Erode,Senbagapudur,0.0,11.45,77.21
+21-09-2026,Erode,Iruddipalayam,6.8,11.66,77.28
+21-09-2026,Erode,Gundri,28.8,11.67,77.4
+21-09-2026,Erode,Punjaipuliyampatti,12.0,11.35,77.17
+21-09-2026,Erode,Kadambur,6.0,11.63,77.33
+21-09-2026,Erode,Puthupeerkadavu,1.6,11.52,77.12
+21-09-2026,Erode,Sikkarasampalayam,0.4,11.53,77.21
+21-09-2026,Erode,Malayadipudur,0.8,11.52,77.26
+21-09-2026,Erode,Thalavadi AWS,48.8,11.77,77.0
+21-09-2026,Erode,Thalamalai,10.0,11.62,77.0
+21-09-2026,Erode,Panakahalli,12.0,11.67,76.89
+21-09-2026,Erode,Hasanoor,6.8,11.66,77.14
+21-09-2026,Erode,Arulavadi,48.4,11.77,76.92
+21-09-2026,Erode,Thiginarai,55.2,11.72,76.96
+21-09-2026,Erode,Talamalai 2,3.2,11.73,77.27
+21-09-2026,Kallakurichi,Chinna Salem,36.4,11.63,78.87
+21-09-2026,Kallakurichi,Nainarpalayam,5.6,11.58,78.91
+21-09-2026,Kallakurichi,Pakkampadi,3.6,11.55,78.83
+21-09-2026,Kallakurichi,Manmalai,30.8,11.83,78.85
+21-09-2026,Kallakurichi,Indhili,26.0,11.69,78.93
+21-09-2026,Kallakurichi,Kallakurichi ARG,70.8,11.74,78.97
+21-09-2026,Kallakurichi,Mudiyanur,77.2,11.7,79.04
+21-09-2026,Kallakurichi,Varanjaram,52.4,11.65,79.08
+21-09-2026,Kallakurichi,Virugavur,68.0,11.69,79.04
+21-09-2026,Kallakurichi,Periyamambattu,30.8,11.74,79.08
+21-09-2026,Kallakurichi,Mundiyur,42.4,11.74,78.74
+21-09-2026,Kallakurichi,Vellimalai,33.2,11.8,78.71
+21-09-2026,Kallakurichi,Vadasiruvallur,37.2,11.88,78.92
+21-09-2026,Kallakurichi,Sangarapuram,33.6,11.88,78.91
+21-09-2026,Kallakurichi,Tirupalapandhal,43.2,11.94,79.13
+21-09-2026,Kallakurichi,Tirukoilur,24.8,11.96,79.19
+21-09-2026,Kallakurichi,Elavanasur Kottai,40.8,11.71,79.19
+21-09-2026,Kallakurichi,Pallavadi,36.4,11.82,79.17
+21-09-2026,Kallakurichi,Eraiyur,32.0,11.79,79.19
+21-09-2026,Kallakurichi,Kaattu Edaiyar,0.0,11.85,79.14
+21-09-2026,Kallakurichi,M.Kunnathur,41.2,11.81,79.27
+21-09-2026,Kallakurichi,Kalamarudhur,0.0,11.77,79.31
+21-09-2026,Kallakurichi,Sendhanadu,26.4,11.72,79.42
+21-09-2026,Kallakurichi,Senjikupam,44.4,11.76,79.38
+21-09-2026,Kallakurichi,Jampadi,54.0,12.0,79.05
+21-09-2026,Kallakurichi,Manalurpet,66.8,12.0,79.09
+21-09-2026,Kallakurichi,Kottalam,47.2,11.81,78.99
+21-09-2026,Kallakurichi,Lakkinayakkanpatti,65.6,12.0,78.87
+21-09-2026,Kallakurichi,Ponparappi,36.4,12.0,78.95
+21-09-2026,Karur,P.Anaipalayam,0.0,10.88,77.95
+21-09-2026,Karur,T.Vengidapuram,0.0,10.85,77.85
+21-09-2026,Karur,Vadakarai,1.6,10.89,77.79
+21-09-2026,Karur,Inunganur,0.0,10.69,77.83
+21-09-2026,Karur,Santhapadi,0.8,10.76,77.82
+21-09-2026,Karur,Periyamanjuveli,19.6,10.67,77.96
+21-09-2026,Karur,Esanatham,14.0,10.7,78.0
+21-09-2026,Karur,D.Edayapatti West,11.2,10.59,78.19
+21-09-2026,Karur,Palaviduthi,2.8,10.65,78.24
+21-09-2026,Karur,Kalayappatti,0.0,10.77,78.19
+21-09-2026,Karur,Baganatham,0.8,10.85,78.04
+21-09-2026,Karur,Velliyanai North,3.2,10.85,78.12
+21-09-2026,Karur,Jegathabi,0.4,10.84,78.16
+21-09-2026,Karur,Kallappalli,1.2,10.95,78.34
+21-09-2026,Karur,Krishnarayapuram,13.2,10.96,78.27
+21-09-2026,Karur,Renganathapuram South,11.6,10.92,78.19
+21-09-2026,Karur,Sivayam South,16.4,10.81,78.39
+21-09-2026,Karur,Pothuravuthanpatti,5.2,10.84,78.33
+21-09-2026,Karur,Kulithalai,31.2,10.94,78.42
+21-09-2026,Karur,Nallur (Karur),8.4,10.82,78.46
+21-09-2026,Karur,Suriyanur,0.0,10.85,78.58
+21-09-2026,Karur,Thogaimalai ARG,0.8,10.73,78.41
+21-09-2026,Karur,Manmangalam,3.6,11.03,78.05
+21-09-2026,Karur,Chinna Varapalayam,0.0,11.06,78.07
+21-09-2026,Karur,Munnur,27.2,10.99,77.91
+21-09-2026,Karur,Nedungur,20.4,10.95,77.94
+21-09-2026,Karur,Pugalur ARG,22.0,11.07,78.0
+21-09-2026,Karur,Thennilai South,5.6,10.95,77.84
+21-09-2026,Karur,Anjur,20.0,11.06,77.8
+21-09-2026,Krishnagiri,Anchetty ARG,16.0,12.31,77.81
+21-09-2026,Krishnagiri,Thoddamanju,45.2,12.36,77.72
+21-09-2026,Krishnagiri,Nattrampalayam,34.0,12.25,77.74
+21-09-2026,Krishnagiri,Biligundu,16.0,12.19,77.73
+21-09-2026,Krishnagiri,Kottaiyur,40.8,12.3,77.62
+21-09-2026,Krishnagiri,Pasinayanapalli,16.0,12.47,78.37
+21-09-2026,Krishnagiri,Modikuppam,48.4,12.46,78.29
+21-09-2026,Krishnagiri,Salinayanapalli,11.6,12.56,78.35
+21-09-2026,Krishnagiri,Varatanapalli,0.0,12.58,78.3
+21-09-2026,Krishnagiri,Orappam,15.2,12.54,78.28
+21-09-2026,Krishnagiri,Karandapalli,43.2,12.46,77.76
+21-09-2026,Krishnagiri,Manchi,29.2,12.43,77.8
+21-09-2026,Krishnagiri,Thadikkal,0.0,12.47,77.88
+21-09-2026,Krishnagiri,Bettamugilam,18.8,12.37,77.91
+21-09-2026,Krishnagiri,Thalikothanoor,58.8,12.57,77.69
+21-09-2026,Krishnagiri,Denkanikottai ARG,44.8,12.61,77.86
+21-09-2026,Krishnagiri,Rayakottai ARG,2.4,12.52,78.03
+21-09-2026,Krishnagiri,U.Kothapalli,26.4,12.55,77.94
+21-09-2026,Krishnagiri,Gummalapuram,22.4,12.66,77.67
+21-09-2026,Krishnagiri,Madhakondapalli,28.0,12.63,77.73
+21-09-2026,Krishnagiri,Thummanapalli,0.4,12.82,77.9
+21-09-2026,Krishnagiri,Nallur,1.2,12.79,77.83
+21-09-2026,Krishnagiri,Sevaganapalli,0.0,12.84,77.82
+21-09-2026,Krishnagiri,Hosur ARG,14.0,12.73,77.83
+21-09-2026,Krishnagiri,Gobanapalli,20.0,12.65,77.79
+21-09-2026,Krishnagiri,Sokadi,0.8,12.46,78.15
+21-09-2026,Krishnagiri,Jinjupalli,2.0,12.56,78.15
+21-09-2026,Krishnagiri,Alapatti,0.8,12.5,78.1
+21-09-2026,Krishnagiri,Kodipalli,0.0,12.63,78.19
+21-09-2026,Krishnagiri,Thalihali,37.2,12.4,78.25
+21-09-2026,Krishnagiri,Nachikuppam,4.4,12.72,78.16
+21-09-2026,Krishnagiri,Sonarhalli,3.2,12.37,78.44
+21-09-2026,Krishnagiri,Mathur,4.0,12.38,78.41
+21-09-2026,Krishnagiri,Jambukuttapatti,27.2,12.33,78.36
+21-09-2026,Krishnagiri,Kendikampatti,7.6,12.36,78.39
+21-09-2026,Krishnagiri,Nerigam,0.0,12.81,78.04
+21-09-2026,Krishnagiri,Shoolagiri AWS,0.0,12.66,78.02
+21-09-2026,Krishnagiri,Ankondapalli,0.0,12.73,78.0
+21-09-2026,Krishnagiri,Bedappalli,2.4,12.65,78.06
+21-09-2026,Krishnagiri,Addakurukki,1.2,12.69,77.95
+21-09-2026,Krishnagiri,Devasanapalli,12.4,12.62,77.95
+21-09-2026,Krishnagiri,Samanapalli,4.4,12.59,78.02
+21-09-2026,Krishnagiri,Panaimarathupatti,34.4,12.25,78.44
+21-09-2026,Krishnagiri,Samalpatti,21.2,12.31,78.49
+21-09-2026,Krishnagiri,Singarapettai,6.0,12.26,78.62
+21-09-2026,Krishnagiri,Maganoorpatti,5.2,12.33,78.58
+21-09-2026,Krishnagiri,Uthangarai AWS,62.8,12.26,78.53
+21-09-2026,Kanniyakumari,Kanniyakumari Arg,1.2,8.08,77.55
+21-09-2026,Kanniyakumari,Nagercoil ARG,16.0,8.18,77.42
+21-09-2026,Kanniyakumari,Dharmapuram,3.2,8.13,77.41
+21-09-2026,Kanniyakumari,Suchindram,7.6,8.16,77.46
+21-09-2026,Kanniyakumari,Kurunthancode,13.2,8.18,77.34
+21-09-2026,Kanniyakumari,Kallukootam,0.8,8.19,77.29
+21-09-2026,Kanniyakumari,Colachel B,0.0,8.18,77.26
+21-09-2026,Kanniyakumari,Chunkankadai,8.0,8.2,77.38
+21-09-2026,Kanniyakumari,Chithirankodu,23.6,8.3,77.32
+21-09-2026,Kanniyakumari,Paloor,5.6,8.25,77.23
+21-09-2026,Kanniyakumari,Ezhudesam,1.2,8.27,77.15
+21-09-2026,Kanniyakumari,Sulore,55.2,8.34,77.38
+21-09-2026,Kanniyakumari,Ponmanai,0.0,8.35,77.33
+21-09-2026,Kanniyakumari,Thumbacode,56.0,8.39,77.3
+21-09-2026,Kanniyakumari,Cherukole,17.6,8.3,77.26
+21-09-2026,Kanniyakumari,Pechiparai ARG,34.4,8.41,77.39
+21-09-2026,Kanniyakumari,Kalikesam,34.8,8.41,77.39
+21-09-2026,Kanniyakumari,Keeriparai ARG,30.8,8.4,77.41
+21-09-2026,Kanniyakumari,Thadikarakonam,48.8,8.33,77.42
+21-09-2026,Kanniyakumari,Boothapandy ARG,32.8,8.26,77.45
+21-09-2026,Kanniyakumari,Thovalai,30.0,8.23,77.51
+21-09-2026,Kanniyakumari,Poigai Dam ARG,35.2,8.27,77.5
+21-09-2026,Kanniyakumari,Arumanai,32.0,8.38,77.25
+21-09-2026,Kanniyakumari,Mylar,41.2,8.48,77.29
+21-09-2026,Kanniyakumari,Chittar Dam 2 (Sivalogam) ARG,64.4,8.43,77.25
+21-09-2026,Kanniyakumari,Edaicode,34.0,8.4,77.19
+21-09-2026,Kancheepuram,Killar,10.8,12.87,79.57
+21-09-2026,Kancheepuram,Paranthur A,0.0,12.94,79.74
+21-09-2026,Kancheepuram,Sirukaveripakkam,0.0,12.86,79.68
+21-09-2026,Kancheepuram,Kottavakkam,0.0,12.95,79.72
+21-09-2026,Kancheepuram,Kolapakkam,1.2,13.01,80.15
+21-09-2026,Kancheepuram,Sriperumbuthur ARG,0.0,12.96,79.93
+21-09-2026,Kancheepuram,pennalur,0.0,12.97,79.96
+21-09-2026,Kancheepuram,Thandalam,0.4,13.01,80.0
+21-09-2026,Kancheepuram,Maduramangalam,0.0,12.95,79.82
+21-09-2026,Kancheepuram,Mannur,0.0,13.02,79.96
+21-09-2026,Kancheepuram,Kunnavakkam,0.0,12.66,79.81
+21-09-2026,Kancheepuram,Vedapalayam,35.6,12.61,79.73
+21-09-2026,Kancheepuram,Uthiramerur AWS,21.6,12.61,79.73
+21-09-2026,Kancheepuram,Magaral,0.0,12.72,79.75
+21-09-2026,Kancheepuram,Theneri,0.8,12.85,79.85
+21-09-2026,Kancheepuram,Walajabad AWS,1.2,12.79,79.82
+21-09-2026,Madurai,Kalligudi,4.4,9.69,77.97
+21-09-2026,Madurai,Sivarakottai,9.6,9.74,77.98
+21-09-2026,Madurai,Koodakovil,11.2,9.76,78.08
+21-09-2026,Madurai,Sathamangalam,0.0,9.92,78.15
+21-09-2026,Madurai,Kunnathur,0.0,9.91,78.26
+21-09-2026,Madurai,Nagamalai Pudukottai,18.4,9.93,78.05
+21-09-2026,Madurai,Karungalakudi,30.8,10.16,78.37
+21-09-2026,Madurai,Kottampatti,0.0,10.22,78.38
+21-09-2026,Madurai,Melavalavu,0.0,10.11,78.31
+21-09-2026,Madurai,Melur,0.0,10.03,78.33
+21-09-2026,Madurai,Thiruvathavur,22.0,9.96,78.32
+21-09-2026,Madurai,Vellalur,0.0,10.0,78.41
+21-09-2026,Madurai,Saptur,6.4,9.77,77.74
+21-09-2026,Madurai,Elumalai,41.6,9.88,77.69
+21-09-2026,Madurai,Mothagam,3.6,9.68,77.81
+21-09-2026,Madurai,Peraiyur,0.0,9.74,77.79
+21-09-2026,Madurai,Sedapatti,0.0,9.82,77.8
+21-09-2026,Madurai,Nilaiyur,0.0,9.86,78.06
+21-09-2026,Madurai,Thirupparankundram,13.6,9.88,78.05
+21-09-2026,Madurai,Valayankulam,10.4,9.81,78.1
+21-09-2026,Madurai,Checkanurani,4.0,9.94,77.97
+21-09-2026,Madurai,Pannikundu,0.0,9.85,77.9
+21-09-2026,Madurai,Thirumangalam,8.8,9.83,77.99
+21-09-2026,Madurai,Sinduupatti,3.2,9.9,77.86
+21-09-2026,Madurai,Usilampatti ARG,12.0,9.96,77.79
+21-09-2026,Madurai,Utthappanaiyakanur,4.0,10.04,77.79
+21-09-2026,Madurai,Seemanuthu,12.8,9.98,77.79
+21-09-2026,Madurai,Allanganallur,0.0,10.05,78.08
+21-09-2026,Madurai,Katchaikatti,0.0,10.08,78.0
+21-09-2026,Madurai,Kulasekarankottai,0.0,10.07,77.98
+21-09-2026,Madurai,Thathampatti,0.0,10.07,77.98
+21-09-2026,Madurai,Palamedu,0.4,10.1,78.11
+21-09-2026,Madurai,Thanichiam,35.2,10.03,78.01
+21-09-2026,Madurai,Thenkarai,0.0,10.02,77.95
+21-09-2026,Mayiladuthurai,Manganallur,0.0,11.03,79.65
+21-09-2026,Mayiladuthurai,Palaiyur,7.6,10.99,79.56
+21-09-2026,Mayiladuthurai,Manalmedu ARG,5.2,11.2,79.6
+21-09-2026,Mayiladuthurai,Mayiladuthurai ARG,0.0,11.1,79.65
+21-09-2026,Mayiladuthurai,Thiruvalaputhur,0.0,11.21,79.63
+21-09-2026,Mayiladuthurai,Mahendirapalli,0.0,11.36,79.79
+21-09-2026,Mayiladuthurai,Madhanam,0.0,11.3,79.76
+21-09-2026,Mayiladuthurai,Thirumailadi,14.8,11.33,79.72
+21-09-2026,Mayiladuthurai,Sirkali ARG,0.0,11.23,79.74
+21-09-2026,Mayiladuthurai,Thiruvengadu,6.8,11.18,79.81
+21-09-2026,Mayiladuthurai,Thipuernur,0.4,11.19,79.68
+21-09-2026,Mayiladuthurai,Sembanarkoil,4.4,11.11,79.74
+21-09-2026,Mayiladuthurai,Maruthampallam,1.2,11.11,79.84
+21-09-2026,Mayiladuthurai,Tharangambadi ARG,3.2,11.03,79.84
+21-09-2026,Mayiladuthurai,Neduvasal ARG,2.8,11.04,79.76
+21-09-2026,Nagapattinam,Thevur,8.4,10.73,79.73
+21-09-2026,Nagapattinam,Velankanni ARG,14.4,10.68,79.85
+21-09-2026,Nagapattinam,Nagapattinam TNDRRA ARG,3.2,10.78,79.84
+21-09-2026,Nagapattinam,Thirukkannapuram,2.4,10.87,79.7
+21-09-2026,Nagapattinam,Prinjimoolai,0.8,10.57,79.72
+21-09-2026,Nagapattinam,Valivalam,6.4,10.65,79.69
+21-09-2026,Nagapattinam,Mulakarai,9.6,10.47,79.68
+21-09-2026,Nagapattinam,Kariyapattinam,0.4,10.47,79.74
+21-09-2026,Nagapattinam,Thagattur,2.0,10.41,79.69
+21-09-2026,Nagapattinam,Thopputhurai,36.4,10.39,79.85
+21-09-2026,Nagapattinam,Kodiyakkarai ARG,34.8,10.29,79.82
+21-09-2026,Nilgiris,Yedapalli,0.0,11.38,76.81
+21-09-2026,Nilgiris,Ketti ARG,0.0,11.38,76.73
+21-09-2026,Nilgiris,Kolakombai,9.2,11.29,76.74
+21-09-2026,Nilgiris,Srimadurai,0.0,11.55,76.49
+21-09-2026,Nilgiris,Padanthorai,0.0,11.53,76.46
+21-09-2026,Nilgiris,Kengarai,0.0,11.41,76.93
+21-09-2026,Nilgiris,Denad,1.6,11.44,76.95
+21-09-2026,Nilgiris,Konavakorai,0.4,11.4,76.89
+21-09-2026,Nilgiris,Kotagiri,0.0,11.42,76.86
+21-09-2026,Nilgiris,Kallampalayam,21.2,11.52,77.0
+21-09-2026,Nilgiris,Kodanad,2.8,11.49,76.9
+21-09-2026,Nilgiris,Kilkundah,0.0,11.27,76.65
+21-09-2026,Nilgiris,Erumad,14.8,11.57,76.26
+21-09-2026,Nilgiris,Barwood ARG,0.4,11.43,76.49
+21-09-2026,Nilgiris,Pandalur ARG,0.4,11.49,76.34
+21-09-2026,Nilgiris,Masinagudi,0.0,11.58,76.65
+21-09-2026,Nilgiris,Thuneri,0.4,11.46,76.75
+21-09-2026,Nilgiris,Kuruthukuli North,0.0,11.4,76.64
+21-09-2026,Nilgiris,Anaikatty,0.0,11.55,76.76
+21-09-2026,Nilgiris,Sandynallah ARG,0.0,11.44,76.64
+21-09-2026,Nilgiris,Naduvattam Post Office,0.0,11.48,76.54
+21-09-2026,Nilgiris,Kuruthukuli South,0.0,11.39,76.64
+21-09-2026,Namakkal,Kolli Hills Peraikkarinadu,0.0,11.4,78.31
+21-09-2026,Namakkal,Kolli Hills Vazhavanthinadu,68.8,11.31,78.35
+21-09-2026,Namakkal,Kolli Hills Ariyurnadu,0.0,11.26,78.38
+21-09-2026,Namakkal,Aanangur,29.2,11.39,77.83
+21-09-2026,Namakkal,Kumarapalayam,36.4,11.09,78.07
+21-09-2026,Namakkal,Valayapatti,9.6,11.12,78.23
+21-09-2026,Namakkal,Keerambur,5.2,11.2,78.09
+21-09-2026,Namakkal,Vasanthapuram,19.2,11.19,78.19
+21-09-2026,Namakkal,Kadhiranallur,74.4,11.39,78.2
+21-09-2026,Namakkal,Sellappampatti,32.4,11.31,78.17
+21-09-2026,Namakkal,Vadakarai Aathur,24.0,11.14,77.89
+21-09-2026,Namakkal,Nallur,19.6,11.27,77.95
+21-09-2026,Namakkal,Paundamangalam,45.2,11.12,77.98
+21-09-2026,Namakkal,Pillur,0.0,11.2,78.02
+21-09-2026,Namakkal,Mangalapuram,0.0,11.57,78.38
+21-09-2026,Namakkal,Mullukurichi,0.0,11.45,78.4
+21-09-2026,Namakkal,Malayalapatty,0.0,11.46,78.4
+21-09-2026,Namakkal,Namagiiipettai,12.8,11.46,78.26
+21-09-2026,Namakkal,Rasipuram,58.0,11.46,78.19
+21-09-2026,Namakkal,Anaipalayam,0.0,11.43,78.16
+21-09-2026,Namakkal,Athanur,13.6,11.5,78.15
+21-09-2026,Namakkal,Alanganatham,9.2,11.19,78.25
+21-09-2026,Namakkal,Erumapatti,3.2,11.16,78.29
+21-09-2026,Namakkal,Karavallicombai,0.0,11.33,78.32
+21-09-2026,Namakkal,Senthamangalam,9.2,11.28,78.23
+21-09-2026,Namakkal,Agaram,55.6,11.38,78.01
+21-09-2026,Namakkal,Mallasamudram,61.2,11.49,78.03
+21-09-2026,Namakkal,Koothampoondi,72.4,11.33,78.02
+21-09-2026,Namakkal,Molasi,17.6,11.26,77.86
+21-09-2026,Namakkal,Chithalandur,21.2,11.31,77.92
+21-09-2026,Namakkal,Tiruchengode,21.2,11.38,77.89
+21-09-2026,Namakkal,Nagarpalayam,1.2,11.42,78.08
+21-09-2026,Pudukkottai,Vennavalkudi,0.8,10.31,78.94
+21-09-2026,Pudukkottai,Aranthangi,2.0,10.17,79.0
+21-09-2026,Pudukkottai,Arasarkulam Melpathi,0.0,10.2,79.1
+21-09-2026,Pudukkottai,Kalakudi,5.6,10.15,79.11
+21-09-2026,Pudukkottai,Maramaddakki,0.0,10.29,79.01
+21-09-2026,Pudukkottai,Poovatrakkudi,0.4,10.24,79.04
+21-09-2026,Pudukkottai,Pirantani,11.2,10.1,79.07
+21-09-2026,Pudukkottai,Mimisal ARG,22.0,9.92,79.14
+21-09-2026,Pudukkottai,Ponbethi,5.6,9.97,79.02
+21-09-2026,Pudukkottai,Kovilur,0.8,10.57,79.01
+21-09-2026,Pudukkottai,Sothupalai,0.0,10.56,78.97
+21-09-2026,Pudukkottai,Kallakottai,0.0,10.52,79.11
+21-09-2026,Pudukkottai,Ariyanipatti,0.0,10.64,79.03
+21-09-2026,Pudukkottai,Illuppur,0.0,10.52,78.62
+21-09-2026,Pudukkottai,Irundirappatti,0.0,10.54,78.64
+21-09-2026,Pudukkottai,Perumanadu,0.0,10.38,78.74
+21-09-2026,Pudukkottai,Kudumiyanmalai ARG,0.0,10.41,78.67
+21-09-2026,Pudukkottai,Karambakudi,0.0,10.46,79.12
+21-09-2026,Pudukkottai,Malaiyur,0.8,10.43,79.02
+21-09-2026,Pudukkottai,Karuppattipatti,1.2,10.48,79.05
+21-09-2026,Pudukkottai,Keeranur ARG,0.0,10.57,78.79
+21-09-2026,Pudukkottai,Killukottai,0.0,10.66,78.92
+21-09-2026,Pudukkottai,Chettipatti,0.0,10.67,78.83
+21-09-2026,Pudukkottai,Udayalipatti,0.0,10.58,78.89
+21-09-2026,Pudukkottai,Narthamalai,0.0,10.51,78.76
+21-09-2026,Pudukkottai,Manamelkudi ARG,11.6,10.04,79.23
+21-09-2026,Pudukkottai,Perumaruthur,2.4,10.07,79.11
+21-09-2026,Pudukkottai,Kottaippattinam,24.0,9.98,79.2
+21-09-2026,Pudukkottai,Karaiyur,0.0,10.37,78.6
+21-09-2026,Pudukkottai,Ponnamaravathi,3.6,10.27,78.54
+21-09-2026,Pudukkottai,Pudukkottai ARG,0.0,10.38,78.82
+21-09-2026,Pudukkottai,Kadayakudi,0.0,10.33,78.83
+21-09-2026,Pudukkottai,Puthambur,0.0,10.47,78.85
+21-09-2026,Pudukkottai,Perungalur ARG,0.0,10.49,78.93
+21-09-2026,Pudukkottai,Agavayal,16.8,10.17,78.91
+21-09-2026,Pudukkottai,Kottur,0.4,10.32,78.72
+21-09-2026,Pudukkottai,Arimalam ARG,0.8,10.26,78.89
+21-09-2026,Pudukkottai,Thirumayam ARG,0.0,10.24,78.74
+21-09-2026,Pudukkottai,Panaiyapatti,1.6,10.31,78.68
+21-09-2026,Pudukkottai,Kodumbalur,0.0,10.55,78.5
+21-09-2026,Pudukkottai,Neerpalani,0.0,10.62,78.71
+21-09-2026,Pudukkottai,Viralimalai ARG,0.0,10.61,78.55
+21-09-2026,Pudukkottai,Boothakudi,0.0,10.65,78.57
+21-09-2026,Perambalur,Kannapadi,0.8,11.1,78.73
+21-09-2026,Perambalur,Padalur,0.8,11.11,78.84
+21-09-2026,Perambalur,Irur,0.0,11.13,78.84
+21-09-2026,Perambalur,Kolakkanatham,0.0,11.12,78.95
+21-09-2026,Perambalur,Koothur,0.8,11.15,79.01
+21-09-2026,Perambalur,Maruvathur,0.8,11.22,78.96
+21-09-2026,Perambalur,Olaipadi,4.0,11.32,79.06
+21-09-2026,Perambalur,Thungapuram,0.0,11.29,79.1
+21-09-2026,Perambalur,Kunnam,1.6,11.24,79.02
+21-09-2026,Perambalur,Melapuliyur,2.4,11.27,78.77
+21-09-2026,Perambalur,Siruvachur,2.8,11.19,78.87
+21-09-2026,Perambalur,Poolambadi,5.6,11.41,78.71
+21-09-2026,Perambalur,Noothapur,8.8,11.47,78.8
+21-09-2026,Ramanathapuram,Appanur,25.6,9.26,78.48
+21-09-2026,Ramanathapuram,Kadaladi,14.8,9.23,78.5
+21-09-2026,Ramanathapuram,Keelakidram,0.0,9.2,78.6
+21-09-2026,Ramanathapuram,Sikkal,42.8,9.24,78.64
+21-09-2026,Ramanathapuram,S.Tharaikudi,0.0,9.16,78.38
+21-09-2026,Ramanathapuram,Kakudi,0.0,9.45,78.37
+21-09-2026,Ramanathapuram,Abiramam,42.4,9.45,78.44
+21-09-2026,Ramanathapuram,Mandalamanickam,74.4,9.46,78.34
+21-09-2026,Ramanathapuram,Kovilankulam,34.8,9.28,78.42
+21-09-2026,Ramanathapuram,Perunali,5.6,9.24,78.32
+21-09-2026,Ramanathapuram,Keelathuval,56.0,9.42,78.55
+21-09-2026,Ramanathapuram,Kanjirankudi,10.4,9.29,78.83
+21-09-2026,Ramanathapuram,Utrakosamangai,36.0,9.32,78.74
+21-09-2026,Ramanathapuram,Nalaiurkkai,36.0,9.3,78.7
+21-09-2026,Ramanathapuram,Kakkor,64.8,9.35,78.57
+21-09-2026,Ramanathapuram,Pullandai,26.0,9.25,78.79
+21-09-2026,Ramanathapuram,Melakudmaloor,48.0,9.48,78.47
+21-09-2026,Ramanathapuram,Mudukulathur,2.0,9.36,78.52
+21-09-2026,Ramanathapuram,Theiru Veli,53.6,9.32,78.62
+21-09-2026,Ramanathapuram,Kodikulam,20.4,9.36,78.7
+21-09-2026,Ramanathapuram,Bogalur,15.6,9.4,78.71
+21-09-2026,Ramanathapuram,Kiliyur,31.2,9.48,78.77
+21-09-2026,Ramanathapuram,Manjur,20.0,9.46,78.65
+21-09-2026,Ramanathapuram,Karadarthakudi,49.2,9.56,78.74
+21-09-2026,Ramanathapuram,Vaniyavalam,20.8,9.55,78.69
+21-09-2026,Ramanathapuram,Urappuli,15.6,9.49,78.66
+21-09-2026,Ramanathapuram,Parthibanur,43.2,9.61,78.45
+21-09-2026,Ramanathapuram,Pamban ARG,0.0,9.28,79.23
+21-09-2026,Ramanathapuram,Anandur,87.2,9.74,78.77
+21-09-2026,Ramanathapuram,Sanaveli,70.4,9.68,78.87
+21-09-2026,Ramanathapuram,Uppur,0.0,9.61,78.93
+21-09-2026,Ramanathapuram,Chitturvadi,27.2,9.65,78.92
+21-09-2026,Ramanathapuram,Chittrakottai,43.2,9.43,78.9
+21-09-2026,Ramanathapuram,Devipattinam,0.8,9.48,78.89
+21-09-2026,Ramanathapuram,Enmanam Kondan,4.4,9.31,79.01
+21-09-2026,Ramanathapuram,Mandapam AWS,1.6,9.28,79.14
+21-09-2026,Ramanathapuram,Therpogi,0.0,9.39,78.93
+21-09-2026,Ramanathapuram,Perunkulam,6.0,9.34,78.95
+21-09-2026,Ramanathapuram,Landhai,13.2,9.37,78.77
+21-09-2026,Ramanathapuram,Mangalakudi,57.2,9.86,78.97
+21-09-2026,Ramanathapuram,Pullur,10.8,9.84,79.03
+21-09-2026,Ramanathapuram,Tiruvadanai,63.6,9.78,78.92
+21-09-2026,Ramanathapuram,Kadambakkudi,67.6,9.78,78.92
+21-09-2026,Ramanathapuram,Karugalakudi,55.2,9.77,78.99
+21-09-2026,Ramanathapuram,Sekkanthidal,61.2,9.74,78.96
+21-09-2026,Ranipet,Kavanoor,0.0,13.11,79.69
+21-09-2026,Ranipet,Thakkolam TNDRRA ARG,0.0,13.02,79.73
+21-09-2026,Ranipet,Attupakkam,0.0,12.99,79.66
+21-09-2026,Ranipet,Paranji,0.0,13.1,79.53
+21-09-2026,Ranipet,Mecheri,0.0,12.88,79.37
+21-09-2026,Ranipet,Pattanam,0.0,12.81,79.23
+21-09-2026,Ranipet,Kavanur,0.0,12.84,79.27
+21-09-2026,Ranipet,Mambakkam,0.0,12.68,79.4
+21-09-2026,Ranipet,Kaveripakkam Lake,0.0,12.95,79.46
+21-09-2026,Ranipet,Kaveripakkam,0.0,12.9,79.46
+21-09-2026,Ranipet,Nemili TNDRRA AWS,0.0,12.99,79.62
+21-09-2026,Ranipet,Sampathurayanpet,0.0,13.02,79.64
+21-09-2026,Ranipet,Nedumpuli,0.0,12.93,79.57
+21-09-2026,Ranipet,Kodaikkal,0.0,13.07,79.41
+21-09-2026,Ranipet,Velam,0.0,12.99,79.37
+21-09-2026,Ranipet,Ranipet ARG,0.0,12.94,79.32
+21-09-2026,Ranipet,Arunkundram,0.0,12.88,79.26
+21-09-2026,Ranipet,Walajah TNDRRA ARG,0.0,12.93,79.36
+21-09-2026,Salem,Appammasamuthiran,0.4,11.61,78.58
+21-09-2026,Salem,Maligaikarai,18.8,11.57,78.5
+21-09-2026,Salem,Thandavarayapuram,48.0,11.59,78.56
+21-09-2026,Salem,Edappadi ARG,1.2,11.58,77.85
+21-09-2026,Salem,Konganapuram,23.6,11.57,77.9
+21-09-2026,Salem,Pappampadi,38.0,11.64,77.94
+21-09-2026,Salem,Yarikadandipatti,10.0,11.6,77.9
+21-09-2026,Salem,Chittoor (Salem),4.0,11.64,77.82
+21-09-2026,Salem,Pakkanadu,0.0,11.67,77.79
+21-09-2026,Salem,Pallakkadu,6.8,11.53,78.65
+21-09-2026,Salem,Belur,4.0,11.42,78.57
+21-09-2026,Salem,Nagiyampatti,12.8,11.47,78.49
+21-09-2026,Salem,Pachamalai Hills,3.6,11.33,78.56
+21-09-2026,Salem,Veppadai,0.0,11.38,78.65
+21-09-2026,Salem,Veppilai,42.0,11.96,78.15
+21-09-2026,Salem,Gundukkal,0.4,11.91,78.13
+21-09-2026,Salem,Ponnampalayam,21.2,11.95,78.21
+21-09-2026,Salem,Konakapadi,52.8,11.89,78.04
+21-09-2026,Salem,Poosaripatti,0.0,11.84,78.07
+21-09-2026,Salem,Kaveripuram,10.4,11.91,77.71
+21-09-2026,Salem,Alamarathupatti,0.8,11.84,77.75
+21-09-2026,Salem,Lakkampatti,24.4,11.84,77.66
+21-09-2026,Salem,Mecheri,40.0,11.83,77.94
+21-09-2026,Salem,Nangavalli,0.0,11.75,77.88
+21-09-2026,Salem,Kannamoochi,12.8,11.72,77.72
+21-09-2026,Salem,Pottaneri,9.6,11.82,77.89
+21-09-2026,Salem,Karupur,55.6,11.71,78.09
+21-09-2026,Salem,Omalur AWS,52.4,11.74,78.04
+21-09-2026,Salem,K.R. Thoppur,59.2,11.68,78.01
+21-09-2026,Salem,Desavilakku,46.8,11.65,77.97
+21-09-2026,Salem,Karumandurai,26.4,11.82,78.63
+21-09-2026,Salem,Erramasamuthiram,13.6,11.65,78.52
+21-09-2026,Salem,Edaiyappatty,63.2,11.75,78.49
+21-09-2026,Salem,Panamarathupatti,64.4,11.56,78.16
+21-09-2026,Salem,Kamalapatti,0.0,11.59,78.28
+21-09-2026,Salem,Udayapatty,39.6,11.67,78.21
+21-09-2026,Salem,Valasaiyur,0.0,11.7,78.25
+21-09-2026,Salem,Kandanpalayam,0.0,11.57,77.97
+21-09-2026,Salem,Selliyampalayam,58.8,11.56,78.01
+21-09-2026,Salem,Vadugappatty,18.4,11.48,77.92
+21-09-2026,Salem,Sankari,0.0,11.48,77.87
+21-09-2026,Salem,Katheri,19.6,11.46,77.73
+21-09-2026,Salem,Koneripatti,24.4,11.52,77.74
+21-09-2026,Salem,Veerapandi,47.6,11.59,78.08
+21-09-2026,Salem,Alagapuram,50.4,11.67,78.12
+21-09-2026,Salem,Majaragollappatti,6.8,11.67,78.06
+21-09-2026,Salem,Deviyakurichi,39.2,11.58,78.74
+21-09-2026,Salem,Siruvachur,23.6,11.64,78.75
+21-09-2026,Salem,Veeraganoor,0.0,11.48,78.74
+21-09-2026,Salem,Belur,59.2,11.7,78.41
+21-09-2026,Salem,Kottimadava,54.4,11.82,78.42
+21-09-2026,Salem,Karipatti,28.4,11.67,78.28
+21-09-2026,Salem,Singipuram,60.0,11.63,78.41
+21-09-2026,Salem,Sarkar Valapady,54.8,11.66,78.4
+21-09-2026,Salem,Yercaud Kombuthukki,0.0,11.85,78.3
+21-09-2026,Salem,Yercaud Manjakuttai,30.4,11.82,78.24
+21-09-2026,Salem,Yercaud Gundur,51.6,11.75,78.2
+21-09-2026,Sivagangai,Devakottai,7.2,9.97,78.8
+21-09-2026,Sivagangai,Kandiyur,0.4,9.94,78.94
+21-09-2026,Sivagangai,Perattukottai,4.8,10.0,78.81
+21-09-2026,Sivagangai,Thitakottai,0.0,9.85,78.86
+21-09-2026,Sivagangai,Selugai,1.6,9.76,78.88
+21-09-2026,Sivagangai,Marani,2.4,9.85,78.74
+21-09-2026,Sivagangai,Salaigramam,0.0,9.61,78.71
+21-09-2026,Sivagangai,Sooranam,0.0,9.69,78.72
+21-09-2026,Sivagangai,Thayamangalam,0.0,9.69,78.6
+21-09-2026,Sivagangai,Kalaiyarkovil,8.8,9.85,78.63
+21-09-2026,Sivagangai,Satharasankottai,9.2,9.76,78.53
+21-09-2026,Sivagangai,Kollangudi,5.2,9.86,78.6
+21-09-2026,Sivagangai,Nattarasankottai,3.6,9.87,78.55
+21-09-2026,Sivagangai,Mudikkarai,0.4,9.8,78.6
+21-09-2026,Sivagangai,Silukkapatti,2.4,9.78,78.69
+21-09-2026,Sivagangai,Sethur,0.0,9.69,78.68
+21-09-2026,Sivagangai,Kallal,0.0,9.99,78.66
+21-09-2026,Sivagangai,Aranmanai Siruvayal,0.0,9.96,78.66
+21-09-2026,Sivagangai,Amaravathi Pudur,8.8,10.02,78.77
+21-09-2026,Sivagangai,Pallathur,14.0,10.15,78.8
+21-09-2026,Sivagangai,Sakkottai,3.6,10.1,78.85
+21-09-2026,Sivagangai,Vediyarenthal,48.0,9.64,78.48
+21-09-2026,Sivagangai,Muthanendal,14.4,9.75,78.39
+21-09-2026,Sivagangai,Manamadurai,73.6,9.71,78.46
+21-09-2026,Sivagangai,Vaiyapuripatti,0.0,10.21,78.46
+21-09-2026,Sivagangai,A.Melaiyur,0.0,10.11,78.49
+21-09-2026,Sivagangai,Erumaipatti,0.0,10.07,78.49
+21-09-2026,Sivagangai,Ulagampatti,4.8,10.33,78.5
+21-09-2026,Sivagangai,Okkur,2.0,9.94,78.52
+21-09-2026,Sivagangai,Thamarakki,19.6,9.92,78.38
+21-09-2026,Sivagangai,Melachalur,9.6,9.93,78.46
+21-09-2026,Sivagangai,Kadaneri,13.6,9.96,78.57
+21-09-2026,Sivagangai,Kottagudi,1.2,9.85,78.46
+21-09-2026,Sivagangai,Mudikandam,13.6,9.88,78.39
+21-09-2026,Sivagangai,Konthagai,0.0,9.84,78.18
+21-09-2026,Sivagangai,Thiruppachethi (North),12.8,9.79,78.35
+21-09-2026,Sivagangai,Thiruppuvanam,0.0,9.82,78.27
+21-09-2026,Sivagangai,Thiruppuvanam AWS,44.4,9.82,78.27
+21-09-2026,Sivagangai,Ilayathangudi,23.6,10.2,78.65
+21-09-2026,Sivagangai,Nachiyapuram,2.4,10.08,78.67
+21-09-2026,Sivagangai,Nerkuppai,0.0,10.22,78.54
+21-09-2026,Sivagangai,Thirukostiyur,0.0,10.06,78.56
+21-09-2026,Sivagangai,Thiruppathur,23.6,10.11,78.6
+21-09-2026,Theni,Thimmarasanayakkanur,5.6,10.0,77.68
+21-09-2026,Theni,Gandamanur,0.0,9.92,77.52
+21-09-2026,Theni,Mayiladumparai,10.0,9.74,77.52
+21-09-2026,Theni,Kadamalaikundu,5.6,9.81,77.5
+21-09-2026,Theni,Kumananthoulu,10.4,9.76,77.48
+21-09-2026,Theni,Varusanadu,13.2,9.73,77.52
+21-09-2026,Theni,Rajadhani,2.8,9.94,77.59
+21-09-2026,Theni,Balakombai,8.4,9.9,77.62
+21-09-2026,Theni,Bodimettu Hills,38.0,10.02,77.26
+21-09-2026,Theni,Bodinayakkanur,8.8,10.0,77.35
+21-09-2026,Theni,Uppukottai,3.2,9.96,77.41
+21-09-2026,Theni,Meenatchipuram,0.0,9.99,77.37
+21-09-2026,Theni,Endapulli Pudhupatti,4.4,10.13,77.58
+21-09-2026,Theni,Dewathanpatti,5.2,10.15,77.64
+21-09-2026,Theni,Lakshmipuram,3.6,10.07,77.51
+21-09-2026,Theni,Theni,3.2,10.02,77.48
+21-09-2026,Theni,Aranmanai Pudhur,1.6,10.0,77.49
+21-09-2026,Theni,Chinnaovalapuram,3.2,9.79,77.38
+21-09-2026,Theni,Cumbum ARG,1.2,9.73,77.28
+21-09-2026,Theni,Manalar Dam,10.4,9.64,77.35
+21-09-2026,Theni,Surulipatti,0.8,9.71,77.3
+21-09-2026,Theni,Markaiyankottai,2.0,9.85,77.36
+21-09-2026,Theni,Pannaipuram,3.2,9.87,77.28
+21-09-2026,Theni,Thevaram,2.4,9.89,77.28
+21-09-2026,Theni,Mela Gudalur,2.8,9.63,77.2
+21-09-2026,Theni,Suruliyar Hydroelectric Power Plant,3.6,9.63,77.27
+21-09-2026,Theni,Uthamapalayam ARG,3.2,9.81,77.33
+21-09-2026,Tenkasi,Maranthai,0.0,8.82,77.57
+21-09-2026,Tenkasi,Nallur,0.0,8.86,77.52
+21-09-2026,Tenkasi,Alangulam,0.4,8.87,77.49
+21-09-2026,Tenkasi,Nettur,0.0,8.91,77.54
+21-09-2026,Tenkasi,Vennilingapuram,0.0,8.94,77.57
+21-09-2026,Tenkasi,Kuthapanjan,0.4,8.83,77.47
+21-09-2026,Tenkasi,Kallampuli,0.0,9.04,77.41
+21-09-2026,Tenkasi,Ayikudi ARG,0.8,9.0,77.35
+21-09-2026,Tenkasi,Periyasamypuram,0.0,9.11,77.42
+21-09-2026,Tenkasi,Chockampatti,0.0,9.13,77.36
+21-09-2026,Tenkasi,Kadayanallur,1.6,9.07,77.35
+21-09-2026,Tenkasi,Puliyangudi,0.4,9.17,77.4
+21-09-2026,Tenkasi,Karivalamvanthanallur,3.2,9.27,77.55
+21-09-2026,Tenkasi,Sankarankovil ARG,6.4,9.18,77.55
+21-09-2026,Tenkasi,Kalappakulam,0.4,9.1,77.49
+21-09-2026,Tenkasi,Shencotttai ARG,0.4,8.97,77.25
+21-09-2026,Tenkasi,Kadaloor,1.2,9.28,77.46
+21-09-2026,Tenkasi,Nelkattum Seval,1.2,9.24,77.46
+21-09-2026,Tenkasi,Pothigai Solai,1.2,9.28,77.37
+21-09-2026,Tenkasi,Naranapuram,0.8,9.27,77.4
+21-09-2026,Tenkasi,Pathanpillai Kudiyrippu,10.0,8.79,77.31
+21-09-2026,Tenkasi,Sivasailam,8.0,8.78,77.35
+21-09-2026,Tirunelveli,Kadana Nathi Dam,10.0,8.8,77.31
+21-09-2026,Tenkasi,Alwarkurichi,0.0,8.79,77.38
+21-09-2026,Tenkasi,Kilakadayam,3.2,8.84,77.37
+21-09-2026,Tenkasi,Govindaperi,3.2,8.82,77.34
+21-09-2026,Tenkasi,Avudaiyanur,2.4,8.87,77.39
+21-09-2026,Tenkasi,Kutralam,0.0,8.93,77.27
+21-09-2026,Tenkasi,Tenkasi ARG,1.2,8.97,77.3
+21-09-2026,Tenkasi,Azagapuri,7.2,9.22,77.62
+21-09-2026,Tenkasi,Pazhankottai,3.6,9.13,77.69
+21-09-2026,Tenkasi,Tiruvengadam,9.2,9.27,77.67
+21-09-2026,Tenkasi,Vellakulam,7.2,9.24,77.67
+21-09-2026,Tenkasi,Navaneethakrishnapuram,0.0,9.01,77.51
+21-09-2026,Tenkasi,Balapathiramapuram,0.0,9.05,77.58
+21-09-2026,Tenkasi,Veerakeralampudhur,0.0,8.93,77.45
+21-09-2026,Tiruvallur,Avadi TNDRRA ARG,0.0,13.11,80.11
+21-09-2026,Tiruvallur,Morai TNDRRA ARG,0.0,13.18,80.09
+21-09-2026,Tiruvallur,Peddikuppam,0.0,13.42,80.13
+21-09-2026,Tiruvallur,Gummidipoondi AWS,0.0,13.43,80.12
+21-09-2026,Tiruvallur,Madharpakkam,0.0,13.44,80.0
+21-09-2026,Tiruvallur,Sepedu,0.0,13.35,80.04
+21-09-2026,Tiruvallur,Gnayiru,0.0,13.26,80.22
+21-09-2026,Tiruvallur,Thiruvellavoyal,0.0,13.34,80.28
+21-09-2026,Tiruvallur,Kadapakkam,0.0,13.38,80.29
+21-09-2026,Tiruvallur,Naravarikuppam,0.0,13.36,80.19
+21-09-2026,Tiruvallur,Redhills TNDRRA ARG,0.0,13.2,80.19
+21-09-2026,Tiruvallur,Thirupalaivanam,0.0,13.4,80.25
+21-09-2026,Tiruvallur,Erumbi,0.0,13.12,79.4
+21-09-2026,Tiruvallur,RK Pet TNDRRA AWS,0.0,13.15,79.43
+21-09-2026,Tiruvallur,Mappedu,0.0,13.03,79.86
+21-09-2026,Tiruvallur,Poondi ARG,0.0,13.21,79.88
+21-09-2026,Tiruvallur,Keelanur,0.4,13.2,79.96
+21-09-2026,Tiruvallur,Melnallathur TNDRRA ARG,0.0,13.09,79.91
+21-09-2026,Tiruvallur,Suryanagaram,0.0,13.2,79.57
+21-09-2026,Tiruvallur,K.G.Kandigai,0.0,13.18,79.51
+21-09-2026,Tiruvallur,Lakshmapuram,3.2,13.21,79.7
+21-09-2026,Tiruvallur,Manavur,0.0,13.1,79.8
+21-09-2026,Tiruvallur,Nallatur,0.0,13.27,79.65
+21-09-2026,Tiruvallur,Tiruttani TNDRRA AWS,0.0,13.19,79.62
+21-09-2026,Tiruvallur,Pennalurpettai,0.0,13.31,79.86
+21-09-2026,Tiruvallur,Periapalayam ARG,0.0,13.31,80.04
+21-09-2026,Tiruvallur,Periapalayam AWS,0.0,13.31,80.04
+21-09-2026,Thanjavur,Agarapettai,0.0,10.85,78.91
+21-09-2026,Thanjavur,Veeramarasampettai,0.0,10.76,78.96
+21-09-2026,Thanjavur,Perumandi,0.8,10.98,79.38
+21-09-2026,Thanjavur,Nachiyarkovil,0.0,10.92,79.45
+21-09-2026,Thanjavur,Echankottai,0.0,10.65,79.17
+21-09-2026,Thanjavur,Palanputhur,0.4,10.61,79.27
+21-09-2026,Thanjavur,Vettikadu,0.0,10.57,79.2
+21-09-2026,Thanjavur,Pinnaiyur,0.0,10.58,79.23
+21-09-2026,Thanjavur,Pachur,0.0,10.62,79.15
+21-09-2026,Thanjavur,Thirumangalakkottai Malaiyur,0.4,10.59,79.32
+21-09-2026,Thanjavur,Kabisthalam,0.0,10.94,79.25
+21-09-2026,Thanjavur,Melattur,0.0,10.86,79.24
+21-09-2026,Thanjavur,Saliyamangalam,0.0,10.78,79.27
+21-09-2026,Thanjavur,Uthayamudaiyan,0.4,10.32,79.31
+21-09-2026,Thanjavur,Keelakurichi,8.8,10.54,79.42
+21-09-2026,Thanjavur,Athambai,0.0,10.45,79.26
+21-09-2026,Thanjavur,Adirampattinam TNDRRA ARG,0.0,10.34,79.39
+21-09-2026,Thanjavur,Ottankaduukkadai,0.0,10.35,79.25
+21-09-2026,Thanjavur,Krishnapuram,1.6,10.36,79.18
+21-09-2026,Thanjavur,Thuvarankurichi,1.2,10.4,79.38
+21-09-2026,Pudukkottai,Periyanayagipuram,0.0,10.33,79.14
+21-09-2026,Thanjavur,Kuruvikarambai,20.8,10.29,79.25
+21-09-2026,Thanjavur,Nattanikkottai,9.2,10.29,79.21
+21-09-2026,Thanjavur,Perumagalur,34.4,10.2,79.2
+21-09-2026,Thanjavur,Marungulam,0.0,10.68,79.14
+21-09-2026,Thanjavur,Mathur,17.2,10.88,79.16
+21-09-2026,Thanjavur,Neelagiri,2.0,10.76,79.1
+21-09-2026,Thanjavur,Vallam ARG,0.0,10.72,79.06
+21-09-2026,Thanjavur,Kandiyur,10.4,10.86,79.11
+21-09-2026,Thanjavur,Naducauvery,2.4,10.86,79.04
+21-09-2026,Thanjavur,Maruthuvakudi,11.2,11.02,79.49
+21-09-2026,Thanjavur,Mullukudi,4.8,11.09,79.53
+21-09-2026,Thanjavur,Veppathur,2.8,11.01,79.43
+21-09-2026,Tirunelveli,Vikramasingapuram,9.6,8.71,77.36
+21-09-2026,Tirunelveli,Singampatti,3.2,8.67,77.45
+21-09-2026,Tirunelveli,South Veeravanallur,1.6,8.66,77.51
+21-09-2026,Tirunelveli,Pappakudi,1.6,8.75,77.5
+21-09-2026,Tirunelveli,Kattarankulam,0.0,8.91,77.68
+21-09-2026,Tirunelveli,Manur,0.0,8.86,77.65
+21-09-2026,Tirunelveli,Vagaikulam,0.0,8.91,77.63
+21-09-2026,Tirunelveli,Devarkulam,0.0,8.96,77.63
+21-09-2026,Tirunelveli,Vanniconendal,0.0,9.0,77.63
+21-09-2026,Tirunelveli,Eruvadi,0.0,8.43,77.6
+21-09-2026,Tirunelveli,Oochikulam,3.6,8.5,77.58
+21-09-2026,Tirunelveli,Nambi Kovil,53.6,8.43,77.5
+21-09-2026,Tirunelveli,Idaiyankulam,2.8,8.58,77.58
+21-09-2026,Tirunelveli,Kalakad Mundanthurai Tiger Reserve,0.0,8.53,77.45
+21-09-2026,Tirunelveli,Vadakkupachaiyar Dam,0.4,8.54,77.52
+21-09-2026,Tirunelveli,Vadakarai,4.4,8.54,77.55
+21-09-2026,Tirunelveli,Muninjipatti,15.6,8.51,77.8
+21-09-2026,Tirunelveli,Perumpathu,0.0,8.49,77.65
+21-09-2026,Tirunelveli,Panankulam,4.0,8.56,77.67
+21-09-2026,Tirunelveli,Melapattam,8.8,8.76,77.78
+21-09-2026,Tirunelveli,Muneerpallam,0.0,8.68,77.7
+21-09-2026,Tirunelveli,Kokkirakulam,26.8,8.73,77.72
+21-09-2026,Tirunelveli,Sivanthipatti,0.0,8.64,77.78
+21-09-2026,Tirunelveli,Karungulam,12.4,8.17,77.58
+21-09-2026,Tirunelveli,Erukandurai,7.6,8.19,77.65
+21-09-2026,Tirunelveli,Chettikulam,7.6,8.16,77.62
+21-09-2026,Tirunelveli,Rosemiyapuarm,13.6,8.35,77.56
+21-09-2026,Kanniyakumari,Mahendragiri,29.6,8.29,77.56
+21-09-2026,Tirunelveli,Thiruvanbalapuram,2.4,8.25,77.78
+21-09-2026,Tirunelveli,Aanikulam,0.0,8.4,77.67
+21-09-2026,Tirunelveli,Valliyoor,0.4,8.39,77.61
+21-09-2026,Tirunelveli,Tisayanvillai,4.4,8.34,77.87
+21-09-2026,Tirunelveli,Kuttam,4.4,8.32,77.94
+21-09-2026,Tirunelveli,Saturangam,0.0,8.31,77.76
+21-09-2026,Tirunelveli,Idayangudi,1.6,8.31,77.88
+21-09-2026,Tirunelveli,North Vijayanarayanam,17.2,8.42,77.79
+21-09-2026,Tirunelveli,Mannarpuram,0.8,8.37,77.81
+21-09-2026,Tirunelveli,Ittamozhi,3.6,8.39,77.85
+21-09-2026,Tirunelveli,Gangaikondan Lake,0.8,8.84,77.79
+21-09-2026,Tirunelveli,Seetharpanallur,0.0,8.79,77.6
+21-09-2026,Tirunelveli,Suthamalli,0.0,8.7,77.63
+21-09-2026,Tiruppur,Avinashi (East),0.0,11.19,77.27
+21-09-2026,Tiruppur,Thirumurugan Poondi,0.0,11.16,77.31
+21-09-2026,Tiruppur,Karuvalur,0.0,11.21,77.19
+21-09-2026,Tiruppur,Punjaithamaraikulam,6.0,11.27,77.28
+21-09-2026,Tiruppur,Sevur,1.2,11.25,77.24
+21-09-2026,Tiruppur,Alangiyam,0.0,10.65,77.49
+21-09-2026,Tiruppur,Nallampalayam,4.4,10.74,77.62
+21-09-2026,Tiruppur,Kolathupalayam,7.2,10.76,77.58
+21-09-2026,Tiruppur,Dharapuram ARG,15.2,10.73,77.53
+21-09-2026,Tiruppur,Kannivadi,6.4,10.81,77.78
+21-09-2026,Tiruppur,Manurpalyam,0.0,10.81,77.33
+21-09-2026,Tiruppur,Erakampatti,0.8,10.83,77.39
+21-09-2026,Tiruppur,Kundadam ARG,16.4,10.85,77.45
+21-09-2026,Tiruppur,Madathupalayam,8.0,10.77,77.49
+21-09-2026,Tiruppur,Govindhapuram,0.0,10.71,77.42
+21-09-2026,Tiruppur,Sankarandapalayam,14.0,10.83,77.59
+21-09-2026,Tiruppur,Thottiyapalayam,14.0,10.84,77.63
+21-09-2026,Tiruppur,Thammareddipalayam,0.0,11.09,77.51
+21-09-2026,Tiruppur,Kangeyam ARG,7.2,10.99,77.53
+21-09-2026,Tiruppur,Nathakadaiyur,9.2,11.09,77.66
+21-09-2026,Tiruppur,Thittampalayam,18.0,11.1,77.56
+21-09-2026,Tiruppur,Keetapalayam,19.6,11.08,77.69
+21-09-2026,Tiruppur,Uthiyur,12.0,10.89,77.53
+21-09-2026,Tiruppur,Vellakovil ARG,7.2,10.95,77.72
+21-09-2026,Tiruppur,Uthamapalayam (Tiruppur),6.0,10.9,77.67
+21-09-2026,Tiruppur,Olappalayam,3.6,10.96,77.64
+21-09-2026,Tiruppur,Valliyarachal,46.4,11.01,77.68
+21-09-2026,Tiruppur,Madathukulam,0.0,10.56,77.36
+21-09-2026,Tiruppur,Karatholuvu,0.0,10.62,77.38
+21-09-2026,Tiruppur,Thungavi,0.0,10.63,77.33
+21-09-2026,Tiruppur,Arulpuram,0.8,11.04,77.31
+21-09-2026,Tiruppur,Panikampatti,0.0,10.97,77.25
+21-09-2026,Tiruppur,Velarasikallipalayam,28.0,10.91,77.38
+21-09-2026,Tiruppur,Kethanur,0.8,10.91,77.26
+21-09-2026,Tiruppur,Elavanthi,10.4,10.92,77.31
+21-09-2026,Tiruppur,Kottaimuttampalayam,39.6,10.94,77.3
+21-09-2026,Tiruppur,Kombakadu Pudur,24.8,11.05,77.19
+21-09-2026,Tiruppur,Nallur,1.2,11.1,77.39
+21-09-2026,Tiruppur,Koduvai,11.6,10.94,77.44
+21-09-2026,Tiruppur,Kandiankoil,10.0,11.01,77.47
+21-09-2026,Tiruppur,Poolavadi,0.0,10.74,77.31
+21-09-2026,Tiruppur,Amaravathy Dam ARG,0.0,10.43,77.26
+21-09-2026,Tiruppur,Elayamuthur,0.0,10.49,77.3
+21-09-2026,Tiruppur,Manupatti,0.0,10.49,77.24
+21-09-2026,Tiruppur,Pallapalayam,0.0,10.53,77.22
+21-09-2026,Tiruppur,Pethappampatti,0.0,10.68,77.22
+21-09-2026,Tiruppur,Karattumadam,0.0,10.54,77.1
+21-09-2026,Tiruppur,Thirumoorthy Dam ARG,0.0,10.49,77.15
+21-09-2026,Tiruppur,Kunnathur,14.0,11.27,77.41
+21-09-2026,Tirupathur,Nachiyarkuppam,0.8,12.73,78.71
+21-09-2026,Tirupathur,Madhanur,0.8,12.87,78.85
+21-09-2026,Tirupathur,Venkatasamuthiram,0.0,12.8,78.69
+21-09-2026,Tirupathur,Pachur,0.4,12.59,78.46
+21-09-2026,Tirupathur,Bandarapalli,0.4,12.57,78.5
+21-09-2026,Tirupathur,Yelagiri Hills,5.6,12.58,78.65
+21-09-2026,Tirupathur,Jolarpettai,0.0,12.57,78.57
+21-09-2026,Tirupathur,Sundarampalli,6.8,12.41,78.45
+21-09-2026,Tirupathur,Koratti,6.4,12.43,78.56
+21-09-2026,Tirupathur,Jawadhu Hills,2.8,12.4,78.69
+21-09-2026,Tirupathur,Tirupattur TNDRRA ARG,0.4,12.5,78.57
+21-09-2026,Tirupathur,Beemakulam,0.0,12.58,78.81
+21-09-2026,Tirupathur,Ambalur,0.4,12.67,78.56
+21-09-2026,Tirupathur,Girisamuthiram,0.0,12.7,78.65
+21-09-2026,Thiruchirappalli,Malvoy,0.0,11.05,78.96
+21-09-2026,Thiruchirappalli,Komakudi,0.0,10.9,78.88
+21-09-2026,Thiruchirappalli,Adikudi,0.0,10.87,78.86
+21-09-2026,Thiruchirappalli,Peruvalapur,10.4,11.01,78.87
+21-09-2026,Thiruchirappalli,Pullambadi,0.4,10.95,78.91
+21-09-2026,Thiruchirappalli,Samuthiram,0.0,10.65,78.49
+21-09-2026,Thiruchirappalli,Kottapatti,6.8,10.66,78.41
+21-09-2026,Thiruchirappalli,Kavalkaranppatti,7.6,10.51,78.38
+21-09-2026,Thiruchirappalli,Vaiyampatti,7.2,10.55,78.29
+21-09-2026,Thiruchirappalli,Thangammapatty,7.6,10.5,78.18
+21-09-2026,Thiruchirappalli,Aniyapur,3.6,10.67,78.33
+21-09-2026,Thiruchirappalli,Ayanporuvai,0.4,10.41,78.48
+21-09-2026,Thiruchirappalli,Thuvarankurichi,14.8,10.38,78.39
+21-09-2026,Thiruchirappalli,Thethur,4.4,10.32,78.36
+21-09-2026,Thiruchirappalli,Ikkaraikosikurichi,0.0,10.36,78.31
+21-09-2026,Thiruchirappalli,Thottiyapatty,8.4,10.51,78.48
+21-09-2026,Thiruchirappalli,Edumalai,0.4,11.05,78.73
+21-09-2026,Thiruchirappalli,Thirupainjeeli,0.0,10.94,78.64
+21-09-2026,Thiruchirappalli,Amur,0.0,10.91,78.55
+21-09-2026,Thiruchirappalli,Sukkampatti,0.4,11.0,78.57
+21-09-2026,Thiruchirappalli,Musiri,16.8,10.95,78.45
+21-09-2026,Thiruchirappalli,Pulivalam,1.2,11.01,78.64
+21-09-2026,Thiruchirappalli,Thumbalam,0.0,11.03,78.43
+21-09-2026,Thiruchirappalli,Anjalam,10.0,11.08,78.4
+21-09-2026,Thiruchirappalli,Thathaiyangarpet ARG,20.0,11.12,78.45
+21-09-2026,Thiruchirappalli,Ayilapettai,0.0,10.84,78.58
+21-09-2026,Thiruchirappalli,Thayanur,0.0,10.79,78.58
+21-09-2026,Thiruchirappalli,Mattapparai Patti,0.4,10.73,78.63
+21-09-2026,Thiruchirappalli,Woraiyur,0.0,10.83,78.66
+21-09-2026,Thiruchirappalli,Elupatti,13.2,11.05,78.27
+21-09-2026,Thiruchirappalli,Unniyur,0.0,11.0,78.18
+21-09-2026,Thiruchirappalli,Navalpattu,0.0,10.73,78.76
+21-09-2026,Thiruchirappalli,Sooriyur,0.0,10.66,78.79
+21-09-2026,Thiruchirappalli,Theneripatti,0.0,10.71,78.84
+21-09-2026,Thiruchirappalli,Vengur,0.0,10.82,78.77
+21-09-2026,Thiruchirappalli,Erakudi,0.0,11.19,78.51
+21-09-2026,Thiruchirappalli,Naduvalur,0.0,11.1,78.65
+21-09-2026,Thiruchirappalli,Kannanur,0.8,11.09,78.55
+21-09-2026,Thiruchirappalli,Sengatupatti,1.6,11.2,78.65
+21-09-2026,Thiruchirappalli,Govindapuram,0.0,11.17,78.6
+21-09-2026,Thiruchirappalli,Perumalpalayam,1.2,11.21,78.58
+21-09-2026,Thoothukudi,Themangulam,0.0,8.59,77.96
+21-09-2026,Thoothukudi,Eral,0.0,8.63,78.02
+21-09-2026,Thoothukudi,Cholapuram,2.8,9.05,78.03
+21-09-2026,Thoothukudi,Kadalaiyur,11.2,9.2,77.94
+21-09-2026,Thoothukudi,Masarpatti,8.4,9.29,78.04
+21-09-2026,Thoothukudi,Padarnthapuli,0.0,9.14,78.04
+21-09-2026,Thoothukudi,Chettikurichi,0.4,9.06,77.75
+21-09-2026,Thoothukudi,Vanaramutti,4.8,9.14,77.79
+21-09-2026,Thoothukudi,Kurumalai,1.2,9.05,77.86
+21-09-2026,Thoothukudi,Kamanaicanpatti,0.8,9.08,77.94
+21-09-2026,Thoothukudi,Akilandapuram,0.8,8.98,77.8
+21-09-2026,Thoothukudi,Pannikulam,0.4,8.95,77.82
+21-09-2026,Thoothukudi,Kayathar AWS,0.0,8.95,77.77
+21-09-2026,Thoothukudi,Ilaiyarasanenthal,7.6,9.22,77.79
+21-09-2026,Thoothukudi,Uthupattti,1.6,9.11,77.85
+21-09-2026,Thoothukudi,Kovilpatti TNDRRA ARG,22.4,9.17,77.87
+21-09-2026,Thoothukudi,Melapandiyapuram,0.0,8.86,77.94
+21-09-2026,Thoothukudi,Ottapidaram ARG,15.6,8.91,78.02
+21-09-2026,Thoothukudi,Araikulam,5.6,8.92,77.97
+21-09-2026,Thoothukudi,Naraikinaru,0.0,8.86,77.84
+21-09-2026,Thoothukudi,Pasuvanthanai,0.4,9.0,77.96
+21-09-2026,Thoothukudi,Vedanatham,0.0,8.97,78.15
+21-09-2026,Thoothukudi,Thattarmadam,0.4,8.37,77.94
+21-09-2026,Thoothukudi,Nedunkulam,7.6,8.46,77.86
+21-09-2026,Thoothukudi,Pannamparai,5.6,8.46,77.94
+21-09-2026,Thoothukudi,Seydunganallur,0.0,8.67,77.83
+21-09-2026,Thoothukudi,Cherakulam,0.0,8.57,77.82
+21-09-2026,Thoothukudi,Srivaikuntam ARG,0.0,8.63,77.91
+21-09-2026,Thoothukudi,Vallanadu,4.0,8.72,77.85
+21-09-2026,Thoothukudi,Puthukottai (Thoothukudi),2.8,8.74,78.05
+21-09-2026,Thoothukudi,Thoothukudi TNDRRA ARG,0.0,8.8,78.14
+21-09-2026,Thoothukudi,Davispuram,0.0,8.84,78.15
+21-09-2026,Thoothukudi,Kayalpattinam,0.0,8.57,78.12
+21-09-2026,Thoothukudi,Mela Tiruchendur,0.0,8.49,78.07
+21-09-2026,Thoothukudi,Ammanpuram,0.0,8.56,78.06
+21-09-2026,Thoothukudi,Paramankurichi,0.0,8.48,78.04
+21-09-2026,Thoothukudi,Manapadu,0.0,8.37,78.06
+21-09-2026,Thoothukudi,Madhalapuram,3.6,9.27,78.22
+21-09-2026,Thoothukudi,Kadalkudi,2.0,9.21,78.24
+21-09-2026,Thoothukudi,Kulathur,0.0,9.0,78.19
+21-09-2026,Thoothukudi,Nagalapuram,0.0,9.23,78.14
+21-09-2026,Thoothukudi,Sivagnanapuram,0.8,9.06,78.09
+21-09-2026,Thoothukudi,Vembar,0.0,9.08,78.36
+21-09-2026,Thoothukudi,Surangudi,0.0,9.11,78.32
+21-09-2026,Thoothukudi,Ariyanayaki Puram,0.4,9.11,78.25
+21-09-2026,Thoothukudi,Kuralayampatti,0.0,9.12,78.2
+21-09-2026,Tiruvannamalai,Agrapalayam,0.4,12.71,79.25
+21-09-2026,Tiruvannamalai,Arani ARG,0.0,12.67,79.28
+21-09-2026,Tiruvannamalai,Kunnathur,0.0,12.69,79.23
+21-09-2026,Tiruvannamalai,Sathiyavijayanagaram,0.0,12.68,79.31
+21-09-2026,Tiruvannamalai,Devikapuram,33.2,12.5,79.25
+21-09-2026,Tiruvannamalai,Periya Kozhappalur,0.0,12.55,79.35
+21-09-2026,Tiruvannamalai,Nedungunam,4.4,12.46,79.37
+21-09-2026,Tiruvannamalai,Chengam ARG,7.6,12.31,78.79
+21-09-2026,Tiruvannamalai,Alaputhur,4.8,12.35,78.79
+21-09-2026,Tiruvannamalai,Nayambadi,0.0,12.38,79.01
+21-09-2026,Tiruvannamalai,Eraiyur,20.8,12.28,78.89
+21-09-2026,Tiruvannamalai,Elangunni,8.0,12.14,78.68
+21-09-2026,Tiruvannamalai,Pinjur,5.2,12.27,78.86
+21-09-2026,Tiruvannamalai,Aratavadi,3.6,12.23,78.8
+21-09-2026,Tiruvannamalai,Paliyapattu,31.2,12.27,78.99
+21-09-2026,Tiruvannamalai,Kanji,17.6,12.38,78.97
+21-09-2026,Tiruvannamalai,Arukavoor,0.8,12.64,79.54
+21-09-2026,Tiruvannamalai,Cheyyar AWS,4.8,12.67,79.54
+21-09-2026,Tiruvannamalai,Thethurai,21.2,12.61,79.63
+21-09-2026,Tiruvannamalai,Vaachanur,30.8,12.59,79.66
+21-09-2026,Tiruvannamalai,Arugavoor,0.8,12.69,79.51
+21-09-2026,Tiruvannamalai,Vakkadai,0.8,12.63,79.47
+21-09-2026,Tiruvannamalai,Nammiyampattu,0.0,12.68,78.99
+21-09-2026,Tiruvannamalai,Mulakaddu,8.8,12.63,78.91
+21-09-2026,Tiruvannamalai,Puliyur,27.2,12.48,78.84
+21-09-2026,Tiruvannamalai,Jamunamarathur ARG,30.4,12.6,78.89
+21-09-2026,Tiruvannamalai,Mattavettu,13.6,12.39,78.93
+21-09-2026,Tiruvannamalai,Kalasapakkam ARG,3.2,12.43,79.1
+21-09-2026,Tiruvannamalai,Padagam,16.0,12.42,79.19
+21-09-2026,Tiruvannamalai,Adamangalam,4.4,12.47,78.99
+21-09-2026,Tiruvannamalai,Kilpennathur,8.0,12.25,79.22
+21-09-2026,Tiruvannamalai,Kattumalaiynur,0.0,12.19,79.17
+21-09-2026,Tiruvannamalai,Avoor,12.4,12.13,79.2
+21-09-2026,Tiruvannamalai,Kelur,7.6,12.59,79.17
+21-09-2026,Tiruvannamalai,Mandakolathur,6.4,12.52,79.2
+21-09-2026,Tiruvannamalai,Modaiyur,2.4,12.51,79.22
+21-09-2026,Tiruvannamalai,Santhavasal,5.2,12.65,79.16
+21-09-2026,Tiruvannamalai,Padavedu,10.0,12.66,79.11
+21-09-2026,Tiruvannamalai,Alliyabad,0.0,12.66,79.2
+21-09-2026,Tiruvannamalai,Thandramapattu aRG,56.4,12.16,78.94
+21-09-2026,Tiruvannamalai,Kannakandhal,16.0,12.22,78.94
+21-09-2026,Tiruvannamalai,Thenmudiyanur,0.0,12.13,78.95
+21-09-2026,Tiruvannamalai,Thandramapattu AWS,51.6,12.16,78.94
+21-09-2026,Tiruvannamalai,Thanipadi,20.4,12.11,78.84
+21-09-2026,Tiruvannamalai,Pudurchekkadi,0.0,12.04,78.81
+21-09-2026,Tiruvannamalai,Vanapuram,68.4,12.11,79.02
+21-09-2026,Tiruvannamalai,Naidumangalam,9.6,12.4,79.1
+21-09-2026,Tiruvannamalai,Thurinjapuram,6.4,12.32,79.09
+21-09-2026,Tiruvannamalai,Tiruvannamalai TNDRRA ARG,39.2,12.23,79.08
+21-09-2026,Tiruvannamalai,Veraiyur,5.6,12.09,79.13
+21-09-2026,Tiruvannamalai,Vedal,0.0,12.38,79.47
+21-09-2026,Tiruvannamalai,Mazhaiyur,4.0,12.49,79.46
+21-09-2026,Tiruvannamalai,Punnai,5.6,12.44,79.66
+21-09-2026,Tiruvannamalai,Peranamallur,1.2,12.56,79.43
+21-09-2026,Tiruvannamalai,Thellar,16.8,12.41,79.55
+21-09-2026,Tiruvannamalai,Vengunam,5.6,12.52,79.6
+21-09-2026,Tiruvannamalai,Aarasoor,18.0,12.52,79.54
+21-09-2026,Tiruvannamalai,Dusi,0.0,12.77,79.68
+21-09-2026,Tiruvannamalai,Pokkasamuthiram,0.0,12.82,79.51
+21-09-2026,Thiruvarur,Koothanallur,0.0,10.72,79.52
+21-09-2026,Thiruvarur,Kamalapuram,0.0,10.74,79.58
+21-09-2026,Thiruvarur,Vadapathimangalam,1.6,10.7,79.58
+21-09-2026,Thiruvarur,Melathichamangalam,5.2,10.81,79.48
+21-09-2026,Thiruvarur,Vadugakudi,1.6,10.95,79.59
+21-09-2026,Thiruvarur,Mazhavarayanallur,0.0,10.65,79.51
+21-09-2026,Thiruvarur,Mannudi,0.0,10.67,79.45
+21-09-2026,Thiruvarur,Thalayamangalam,3.6,10.59,79.48
+21-09-2026,Thiruvarur,Manargudi ARG,2.8,10.54,79.55
+21-09-2026,Thiruvarur,Kandithampettai,5.2,10.6,79.43
+21-09-2026,Thiruvarur,Udayamarthandapuram,0.0,10.44,79.56
+21-09-2026,Thiruvarur,Therku Kadu,0.4,10.42,79.6
+21-09-2026,Thiruvarur,Muthupettai ARG,0.0,10.4,79.5
+21-09-2026,Thiruvarur,Thekkukadu,0.0,10.41,79.49
+21-09-2026,Thiruvarur,Kuruchimoolai,0.0,10.55,79.55
+21-09-2026,Thiruvarur,Kollapuram,0.8,10.95,79.71
+21-09-2026,Thiruvarur,Muddikondan,6.0,10.89,79.64
+21-09-2026,Thiruvarur,Peralam,3.2,10.96,79.66
+21-09-2026,Thiruvarur,Arichapuram,0.0,10.71,79.47
+21-09-2026,Thiruvarur,Abivirutheeswaram,0.0,10.79,79.48
+21-09-2026,Thiruvarur,Needamangalam ARG,0.0,10.77,79.42
+21-09-2026,Thiruvarur,Thaplampuliyur,7.6,10.74,79.66
+21-09-2026,Thiruvarur,Manakkal,0.0,10.82,79.57
+21-09-2026,Thiruvarur,Tiruvarur,6.0,10.77,79.63
+21-09-2026,Thiruvarur,Alathampadi,0.0,10.61,79.66
+21-09-2026,Thiruvarur,Edaiyur,0.0,10.47,79.59
+21-09-2026,Thiruvarur,Thiruthuraipoondi AWS,0.0,10.54,79.63
+21-09-2026,Thiruvarur,Aavoor,0.0,10.9,79.33
+21-09-2026,Vellore,Melpallipattu,64.0,12.74,78.83
+21-09-2026,Vellore,Agaram,0.0,12.82,78.89
+21-09-2026,Vellore,Anaicut ARG,16.8,12.87,78.99
+21-09-2026,Vellore,Melarasampattu,0.0,12.69,78.88
+21-09-2026,Vellore,Odugathur,23.6,12.77,78.88
+21-09-2026,Vellore,Pallikonda,0.0,12.91,78.94
+21-09-2026,Vellore,Ussoor,0.0,12.87,79.06
+21-09-2026,Vellore,Vizhuthonipalayam,0.0,13.05,78.91
+21-09-2026,Vellore,Kottamitta,0.0,13.04,78.86
+21-09-2026,Vellore,Valathur,0.0,12.88,78.83
+21-09-2026,Vellore,Kalpudur,0.0,12.99,79.13
+21-09-2026,Vellore,Katpadi AWS,0.0,12.97,79.13
+21-09-2026,Vellore,Melpadi,0.0,13.06,79.28
+21-09-2026,Vellore,Thiruvalam,0.0,12.98,79.27
+21-09-2026,Vellore,KV Kuppam,0.0,12.96,79.0
+21-09-2026,Vellore,Kalampattu,0.0,13.01,79.04
+21-09-2026,Vellore,Melpatti,10.8,12.86,78.79
+21-09-2026,Vellore,Ananthagiri,0.0,12.97,78.73
+21-09-2026,Vellore,Kaniyambadi,0.0,12.79,79.14
+21-09-2026,Vellore,Thuthipet,0.0,12.86,79.12
+21-09-2026,Vellore,Virupakshipuram,0.0,12.89,79.14
+21-09-2026,Vellore,Balamathi Hills,0.0,12.89,79.17
+21-09-2026,Vellore,Melmonavur,0.0,12.92,79.09
+21-09-2026,Virudhunagar,Aruppukottai ARG,0.0,9.5,78.1
+21-09-2026,Virudhunagar,Reddiapatti,31.6,9.43,78.21
+21-09-2026,Virudhunagar,Amanakunatham,0.0,9.46,78.05
+21-09-2026,Virudhunagar,Paralachi,2.8,9.34,78.27
+21-09-2026,Virudhunagar,Kalkurichi,10.4,9.6,78.1
+21-09-2026,Virudhunagar,Aviyur,6.0,9.75,78.09
+21-09-2026,Virudhunagar,Kariyapatti ARG,0.0,9.67,78.1
+21-09-2026,Virudhunagar,Mudukankulam,38.4,9.66,78.2
+21-09-2026,Virudhunagar,Cholapuram,47.6,9.37,77.56
+21-09-2026,Virudhunagar,Rajapalayam ARG,28.8,9.46,77.55
+21-09-2026,Virudhunagar,Sethur,6.8,9.41,77.49
+21-09-2026,Virudhunagar,Karisalpatti,20.8,9.26,77.86
+21-09-2026,Virudhunagar,Kundalakkuttu,0.0,9.39,78.03
+21-09-2026,Virudhunagar,Chinnakamanpatti,23.2,9.41,77.87
+21-09-2026,Virudhunagar,Sattur Taluk Office,0.8,9.35,77.92
+21-09-2026,Virudhunagar,Sattur AWS,60.4,9.36,77.92
+21-09-2026,Virudhunagar,Mangalam,46.0,9.57,77.76
+21-09-2026,Virudhunagar,Kamanayakkanpatti,0.0,9.61,77.8
+21-09-2026,Virudhunagar,Sivakasi,10.4,9.46,77.78
+21-09-2026,Virudhunagar,Malli,0.0,9.5,77.69
+21-09-2026,Virudhunagar,Venkateswarapuram,31.2,9.54,77.62
+21-09-2026,Virudhunagar,Pulvaikarai,30.8,9.71,78.22
+21-09-2026,Virudhunagar,Irunchirai,41.6,9.64,78.34
+21-09-2026,Virudhunagar,Theli,14.4,9.65,78.38
+21-09-2026,Virudhunagar,Andiyenthal,30.0,9.59,78.37
+21-09-2026,Virudhunagar,Tiruchuli ARG,0.0,9.54,78.2
+21-09-2026,Virudhunagar,Tiruchuli Taluk office AWS,75.2,9.54,78.2
+21-09-2026,Virudhunagar,Sethupuram,55.2,9.49,78.26
+21-09-2026,Virudhunagar,Alangulam (Virudhunagar),42.8,9.37,77.68
+21-09-2026,Virudhunagar,Sankarapandiyapuram,0.0,9.29,77.79
+21-09-2026,Virudhunagar,Amathur,28.8,9.56,77.86
+21-09-2026,Virudhunagar,Sankaralingapuram,26.8,9.51,77.89
+21-09-2026,Virudhunagar,Chinnamoopanpatti,18.8,9.6,77.95
+21-09-2026,Virudhunagar,Kottaiyur,6.0,9.65,77.7
+21-09-2026,Virudhunagar,Watrap ARG,4.4,9.64,77.63
+21-09-2026,Villupuram,Chittampoondi,66.4,12.19,79.42
+21-09-2026,Villupuram,Gingee ARG,36.8,12.25,79.42
+21-09-2026,Villupuram,Mel Ollakkur,26.8,12.34,79.49
+21-09-2026,Villupuram,Pazhavalam,5.6,12.14,79.27
+21-09-2026,Villupuram,Semmedu ARG,4.0,12.24,79.28
+21-09-2026,Villupuram,Vallam (Villupuram),9.6,12.25,79.52
+21-09-2026,Villupuram,Thaiyur,27.2,12.21,79.48
+21-09-2026,Villupuram,Vasanthakrishnapuram,16.8,12.03,79.19
+21-09-2026,Villupuram,Kandachipuram,67.6,12.04,79.31
+21-09-2026,Villupuram,Mugaiyur,31.2,11.98,79.31
+21-09-2026,Villupuram,Birammadesam,0.4,12.2,79.78
+21-09-2026,Villupuram,Marakkanam ARG,5.6,12.19,79.94
+21-09-2026,Villupuram,Siruvadi,29.6,12.21,79.84
+21-09-2026,Villupuram,Avalurpet,4.0,12.34,79.24
+21-09-2026,Villupuram,Nolambai,5.6,12.44,79.33
+21-09-2026,Villupuram,Edapattu,19.6,12.42,79.24
+21-09-2026,Villupuram,Thorapadi,4.4,12.31,79.32
+21-09-2026,Villupuram,Melmalaiyanur,15.2,12.34,79.33
+21-09-2026,Villupuram,Sathampadi,0.4,12.37,79.36
+21-09-2026,Villupuram,Arasur,12.8,11.84,79.43
+21-09-2026,Villupuram,Sithalingamadam,40.4,11.93,79.28
+21-09-2026,Villupuram,Pennaivalam,30.0,11.88,79.29
+21-09-2026,Villupuram,Thiruvennainallur ARG,47.2,11.87,79.37
+21-09-2026,Villupuram,Marangiyur,0.0,11.92,79.37
+21-09-2026,Villupuram,Avanipur,29.6,12.28,79.82
+21-09-2026,Villupuram,Mailam TNDRRA ARG,24.8,12.13,79.62
+21-09-2026,Villupuram,Pallipakkam,14.0,12.29,79.74
+21-09-2026,Villupuram,Kotteripattu,9.2,12.16,79.6
+21-09-2026,Villupuram,Perani,2.0,12.12,79.55
+21-09-2026,Villupuram,Ommandur,4.4,12.16,79.69
+21-09-2026,Villupuram,Tindivanam ARG,1.2,12.21,79.64
+21-09-2026,Villupuram,Vadasiruvalur,13.6,12.33,79.58
+21-09-2026,Villupuram,Melpakkam,0.0,12.28,79.66
+21-09-2026,Villupuram,Nemili (Villupuram),1.2,12.05,79.65
+21-09-2026,Villupuram,Karattai,2.4,12.13,79.82
+21-09-2026,Villupuram,Vanur,0.8,12.02,79.73
+21-09-2026,Villupuram,Mathur,2.8,12.04,79.84
+21-09-2026,Villupuram,Poothurai,0.4,11.97,79.76
+21-09-2026,Villupuram,Kakkanur,87.6,12.03,79.39
+21-09-2026,Villupuram,Anniyur,73.6,12.07,79.4
+21-09-2026,Villupuram,Nangathur,52.8,12.12,79.42
+21-09-2026,Villupuram,Vembi,0.0,12.07,79.47
+21-09-2026,Villupuram,Esalam,34.8,12.11,79.51
+21-09-2026,Villupuram,Radhapuram,63.2,12.0,79.59
+21-09-2026,Villupuram,Pakkiripalayam,2.4,11.98,79.7
+21-09-2026,Villupuram,Mundiyampakkam ARG,1.2,12.0,79.52
+21-09-2026,Villupuram,Vikravandi,5.2,12.04,79.54
+21-09-2026,Villupuram,Vellazhankuppam,24.0,11.86,79.68
+21-09-2026,Villupuram,Pakkam,32.4,11.86,79.68
+21-09-2026,Villupuram,Sorappur,46.0,11.85,79.64
+21-09-2026,Villupuram,Kanai,0.0,11.96,79.42
+21-09-2026,Villupuram,Valavanur,48.0,11.92,79.58
+21-09-2026,Villupuram,Villupuram ARG,13.6,11.93,79.48
