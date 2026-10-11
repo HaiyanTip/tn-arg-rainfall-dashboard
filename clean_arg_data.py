@@ -1,5 +1,6 @@
-﻿import pandas as pd
+import os
 import re
+import pandas as pd
 
 def get_base_name(name):
     n = str(name).lower()
@@ -20,100 +21,118 @@ def get_base_name(name):
     n = re.sub(r'[^a-z0-9]', '', n)
     return n.strip()
 
-raw_file = 'tndrra_2026_summary.csv'
-df = pd.read_csv(raw_file)
+def clean_data(raw_file='tndrra_2026_summary.csv'):
+    if not os.path.exists(raw_file):
+        # Fallback to search for any summary file
+        candidates = [f for f in os.listdir('.') if f.startswith('tndrra_') and f.endswith('_summary.csv') and 'cleaned' not in f]
+        if candidates:
+            raw_file = candidates[0]
+        else:
+            print(f"Warning: Raw summary file not found ({raw_file}).")
+            return
 
-df['base_name'] = df['station_name'].apply(get_base_name)
+    print(f"Reading raw data from {raw_file}...")
+    df = pd.read_csv(raw_file)
 
-canonical_mapping = {}
-canonical_coords = {}
+    df['base_name'] = df['station_name'].apply(get_base_name)
 
-districts = df['district_name'].unique()
+    canonical_mapping = {}
+    canonical_coords = {}
 
-for dist in districts:
-    dist_df = df[df['district_name'] == dist]
-    unique_stations = dist_df['station_name'].unique()
-    
-    station_info = []
-    for st in unique_stations:
-        st_data = dist_df[dist_df['station_name'] == st]
-        dates = set(st_data['date'].unique())
-        count = len(st_data)
-        lat = st_data['latitude'].median()
-        lon = st_data['longitude'].median()
-        bname = st_data['base_name'].iloc[0]
-        station_info.append({
-            'name': st,
-            'bname': bname,
-            'dates': dates,
-            'count': count,
-            'lat': lat,
-            'lon': lon
-        })
-        
-    station_info.sort(key=lambda x: x['count'], reverse=True)
-    
-    clusters = [] 
-    
-    for info in station_info:
-        placed = False
-        for cluster in clusters:
-            if len(cluster['dates'].intersection(info['dates'])) == 0:
-                same_name = (cluster['bname'] == info['bname'])
-                substring_match = (cluster['bname'] in info['bname'] or info['bname'] in cluster['bname'])
-                dist_sq = (cluster['lat'] - info['lat'])**2 + (cluster['lon'] - info['lon'])**2
-                close_coords = dist_sq < 0.0025 # ~5km radius roughly
-                
-                if same_name or (substring_match and close_coords):
-                    cluster['names'].append(info['name'])
-                    cluster['dates'].update(info['dates'])
-                    placed = True
-                    break
-        
-        if not placed:
-            clusters.append({
-                'names': [info['name']],
-                'dates': set(info['dates']),
-                'master_name': info['name'],
-                'bname': info['bname'],
-                'lat': info['lat'],
-                'lon': info['lon']
+    districts = df['district_name'].unique()
+
+    for dist in districts:
+        dist_df = df[df['district_name'] == dist]
+        unique_stations = dist_df['station_name'].unique()
+
+        station_info = []
+        for st in unique_stations:
+            st_data = dist_df[dist_df['station_name'] == st]
+            dates = set(st_data['date'].unique())
+            count = len(st_data)
+            lat = st_data['latitude'].median()
+            lon = st_data['longitude'].median()
+            bname = st_data['base_name'].iloc[0]
+            station_info.append({
+                'name': st,
+                'bname': bname,
+                'dates': dates,
+                'count': count,
+                'lat': lat,
+                'lon': lon
             })
-    
-    for cluster in clusters:
-        best_name = cluster['names'][0]
-        for n in cluster['names']:
-            if len(n) < len(best_name):
-                best_name = n
-        cluster['master_name'] = best_name
-        
-        m_name = cluster['master_name']
-        m_lat = cluster['lat']
-        m_lon = cluster['lon']
-        for name in cluster['names']:
-            canonical_mapping[(dist, name)] = m_name
-            canonical_coords[(dist, name)] = (m_lat, m_lon)
 
-def map_name(row):
-    return canonical_mapping.get((row['district_name'], row['station_name']), row['station_name'])
-    
-def map_lat(row):
-    return canonical_coords.get((row['district_name'], row['station_name']), (row['latitude'], row['longitude']))[0]
-    
-def map_lon(row):
-    return canonical_coords.get((row['district_name'], row['station_name']), (row['latitude'], row['longitude']))[1]
+        station_info.sort(key=lambda x: x['count'], reverse=True)
 
-df['clean_station_name'] = df.apply(map_name, axis=1)
-df['clean_lat'] = df.apply(map_lat, axis=1)
-df['clean_lon'] = df.apply(map_lon, axis=1)
+        clusters = []
 
-clean_df = df[['date', 'district_name', 'clean_station_name', 'total', 'clean_lat', 'clean_lon']].copy()
-clean_df.columns = ['date', 'district_name', 'station_name', 'total', 'latitude', 'longitude']
+        for info in station_info:
+            placed = False
+            for cluster in clusters:
+                if len(cluster['dates'].intersection(info['dates'])) == 0:
+                    same_name = (cluster['bname'] == info['bname'])
+                    substring_match = (cluster['bname'] in info['bname'] or info['bname'] in cluster['bname'])
+                    dist_sq = (cluster['lat'] - info['lat'])**2 + (cluster['lon'] - info['lon'])**2
+                    close_coords = dist_sq < 0.0025  # ~5km radius roughly
 
-final_df = clean_df.groupby(['date', 'district_name', 'station_name', 'latitude', 'longitude'], as_index=False).max()
-try:
-    final_df.to_csv('tndrra_2026_cleaned_summary_v2.csv', index=False)
-except PermissionError:
-    print("Could not overwrite tndrra_2026_cleaned_summary_v2.csv. Using v2 instead.")
-    final_df.to_csv('tndrra_2026_cleaned_summary.csv', index=False)
-    # also update engine.js/rainfall24h.html to v2 just in case
+                    if same_name or (substring_match and close_coords):
+                        cluster['names'].append(info['name'])
+                        cluster['dates'].update(info['dates'])
+                        placed = True
+                        break
+
+            if not placed:
+                clusters.append({
+                    'names': [info['name']],
+                    'dates': set(info['dates']),
+                    'master_name': info['name'],
+                    'bname': info['bname'],
+                    'lat': info['lat'],
+                    'lon': info['lon']
+                })
+
+        for cluster in clusters:
+            best_name = cluster['names'][0]
+            for n in cluster['names']:
+                if len(n) < len(best_name):
+                    best_name = n
+            cluster['master_name'] = best_name
+
+            m_name = cluster['master_name']
+            m_lat = cluster['lat']
+            m_lon = cluster['lon']
+            for name in cluster['names']:
+                canonical_mapping[(dist, name)] = m_name
+                canonical_coords[(dist, name)] = (m_lat, m_lon)
+
+    def map_name(row):
+        return canonical_mapping.get((row['district_name'], row['station_name']), row['station_name'])
+
+    def map_lat(row):
+        return canonical_coords.get((row['district_name'], row['station_name']), (row['latitude'], row['longitude']))[0]
+
+    def map_lon(row):
+        return canonical_coords.get((row['district_name'], row['station_name']), (row['latitude'], row['longitude']))[1]
+
+    df['clean_station_name'] = df.apply(map_name, axis=1)
+    df['clean_lat'] = df.apply(map_lat, axis=1)
+    df['clean_lon'] = df.apply(map_lon, axis=1)
+
+    clean_df = df[['date', 'district_name', 'clean_station_name', 'total', 'clean_lat', 'clean_lon']].copy()
+    clean_df.columns = ['date', 'district_name', 'station_name', 'total', 'latitude', 'longitude']
+
+    final_df = clean_df.groupby(['date', 'district_name', 'station_name', 'latitude', 'longitude'], as_index=False).max()
+
+    prefix = raw_file.replace('_summary.csv', '')
+    out_file1 = f"{prefix}_cleaned_summary.csv"
+    out_file2 = f"{prefix}_cleaned_summary_v2.csv"
+
+    for out_path in [out_file1, out_file2]:
+        try:
+            final_df.to_csv(out_path, index=False)
+            print(f"  [OK] Cleaned data saved to {out_path}")
+        except PermissionError:
+            print(f"  [WARN] Could not write {out_path} (file locked).")
+
+if __name__ == '__main__':
+    clean_data()

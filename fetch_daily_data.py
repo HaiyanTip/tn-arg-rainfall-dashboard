@@ -1,10 +1,17 @@
 import os
+import sys
 import time
 from datetime import datetime, timedelta
 import pandas as pd
 import pytz
 import requests
 import urllib3
+
+if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
 
 # Suppress SSL certificate warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -67,7 +74,7 @@ def fetch_single_day_tndrra(target_date_obj):
                 combined_monthly = combined_monthly[primary_cols + remaining_cols]
 
                 combined_monthly.to_csv(monthly_csv, index=False)
-                print(f"  ✔ Updated raw monthly file: {monthly_csv}")
+                print(f"  [OK] Updated raw monthly file: {monthly_csv}")
 
                 # -------------------------------------------------------------
                 # STEP B: UPDATE THE SUMMARY CSV (No Hourly Columns)
@@ -89,18 +96,18 @@ def fetch_single_day_tndrra(target_date_obj):
                 combined_summary = combined_summary[final_summary_cols]
 
                 combined_summary.to_csv(summary_csv, index=False)
-                print(f"  ✔ Updated summary file: {summary_csv}")
+                print(f"  [OK] Updated summary file: {summary_csv}")
                 return True
 
             else:
-                print(f"  ⚠ No station records returned in JSON for {display_date_str}.")
+                print(f"  [WARN] No station records returned in JSON for {display_date_str}.")
                 return False
         else:
-            print(f"  ✖ Server returned HTTP status code: {response.status_code} for {display_date_str}")
+            print(f"  [ERROR] Server returned HTTP status code: {response.status_code} for {display_date_str}")
             return False
 
     except Exception as e:
-        print(f"  ✖ Error fetching {display_date_str}: {e}")
+        print(f"  [ERROR] Error fetching {display_date_str}: {e}")
         return False
 
 def get_tndrra_dates_to_sync():
@@ -150,3 +157,13 @@ if __name__ == "__main__":
         fetch_single_day_tndrra(date_item)
 
     print("\nTNDRRA Update complete!")
+
+    # Auto-run clean_arg_data to generate cleaned summary CSV
+    try:
+        import clean_arg_data
+        print("\nCleaning station aliases and generating cleaned summary CSV...")
+        clean_arg_data.clean_data()
+        print("[OK] Cleaned summary CSV ready!")
+    except Exception as e:
+        print(f"[WARN] Warning: Could not run clean_arg_data automatically: {e}")
+
