@@ -445009,3 +445009,1319 @@ date,district_name,station_name,total,latitude,longitude
 06-11-2026,Chennai,Z 04 Coronation Nagar (Div 41),16.0,13.13,80.28
 06-11-2026,Chennai,Z 05 Pudupet (Div 63),0.4,13.07,80.26
 06-11-2026,Chennai,Z 05 Cemetery Road (Div 51),17.8,13.11,80.29
+07-11-2026,Ariyalur,Kattathur North,2.0,11.3,79.34
+07-11-2026,Ariyalur,Irumbilikurichi,10.0,11.2,79.22
+07-11-2026,Ariyalur,Ariyalur ARG,0.4,11.14,79.08
+07-11-2026,Ariyalur,Nagamangalam,0.0,11.08,79.19
+07-11-2026,Ariyalur,Elakkurichy,1.2,10.95,79.17
+07-11-2026,Ariyalur,T.Palur,0.4,11.1,79.37
+07-11-2026,Ariyalur,Keelapalur,2.8,11.04,79.07
+07-11-2026,Ariyalur,Melakaruppur,1.6,11.05,79.1
+07-11-2026,Ariyalur,Vikramangalam,5.6,11.04,79.23
+07-11-2026,Ariyalur,Thirumanur,4.4,10.93,79.1
+07-11-2026,Ariyalur,Elanthaikudam,0.8,10.93,79.03
+07-11-2026,Ariyalur,Kuvagam,1.2,11.28,79.28
+07-11-2026,Ariyalur,Namangunam,1.6,11.28,79.12
+07-11-2026,Ariyalur,Asaveevankudikadu,8.8,11.32,79.21
+07-11-2026,Ariyalur,Amanakanthondi,0.0,11.21,79.41
+07-11-2026,Ariyalur,Suthamalli,0.0,11.1,79.27
+07-11-2026,Ariyalur,Meensurutty,1.6,11.24,79.48
+07-11-2026,Ariyalur,Udayarpalayam,2.0,11.19,79.29
+07-11-2026,Ariyalur,Andimadam,0.0,11.33,79.36
+07-11-2026,Ariyalur,Sathamangalam,0.4,11.0,79.08
+07-11-2026,Ariyalur,Jayankondam,3.2,11.22,79.36
+07-11-2026,Chengalpattu,Chengalpattu TNDRRA ARG,0.0,12.67,79.98
+07-11-2026,Chengalpattu,Palur,0.0,12.76,79.91
+07-11-2026,Chengalpattu,Singaperumalkoil,0.0,12.77,80.01
+07-11-2026,Chengalpattu,Cheyyur,0.0,12.35,80.0
+07-11-2026,Chengalpattu,Pavunjur,1.6,12.45,80.01
+07-11-2026,Chengalpattu,Chithamur,0.0,12.41,79.89
+07-11-2026,Chengalpattu,Acharapakkam,5.2,12.4,79.81
+07-11-2026,Chengalpattu,Athur,5.6,12.35,79.8
+07-11-2026,Chengalpattu,Zamin Endathur,2.4,12.46,79.93
+07-11-2026,Chengalpattu,L.Endathur,5.2,12.52,79.77
+07-11-2026,Chengalpattu,Kavathur,0.4,12.5,79.95
+07-11-2026,Chengalpattu,Perumbakkam,6.8,12.51,79.81
+07-11-2026,Chengalpattu,Pozhichalur,18.4,12.99,80.14
+07-11-2026,Chengalpattu,Medavakkam,2.4,12.92,80.2
+07-11-2026,Chengalpattu,Perumbakkam,8.0,12.9,80.17
+07-11-2026,Chengalpattu,Mamallapuram TNDRRA ARG,2.0,12.62,80.19
+07-11-2026,Chengalpattu,Thirukazhukundram TNDRRA ARG,0.0,12.62,80.06
+07-11-2026,Chengalpattu,Thiruporur TNDRRA ARG,1.6,12.72,80.19
+07-11-2026,Chengalpattu,Nellikupam,1.2,12.83,80.16
+07-11-2026,Chengalpattu,Lathur,4.0,12.46,80.01
+07-11-2026,Chengalpattu,Kelambakkam,2.0,12.8,80.23
+07-11-2026,Chennai,Z 01 Kathivakkam (W 02),43.8,13.22,80.32
+07-11-2026,Chennai,Z 01 Ennore (W 03),32.6,13.2,80.32
+07-11-2026,Chennai,Z 01 Wimco nagar (W 05),27.8,13.18,80.31
+07-11-2026,Chennai,Z 01 Thiruvottiyur (W 11),24.6,13.16,80.3
+07-11-2026,Chennai,Z 02 Manali New town (W 15),29.0,13.19,80.27
+07-11-2026,Chennai,Z 02 Manali (W 17),21.3,13.16,80.27
+07-11-2026,Chennai,Z 02 Manali (W 18),21.0,13.18,80.22
+07-11-2026,Chennai,Z 02 Manali (W 19),22.0,13.18,80.26
+07-11-2026,Chennai,Z 02 Manali (W 21),20.6,13.17,80.25
+07-11-2026,Chennai,Z 03 Puzhal (W 22),17.4,13.16,80.2
+07-11-2026,Chennai,Z 03 Madhavaram (W 30),8.4,13.15,80.23
+07-11-2026,Chennai,Z 04 Tondiarpet (W 42),10.8,13.12,80.29
+07-11-2026,Chennai,Z 04 Kasimedu (W 43),6.2,13.12,80.3
+07-11-2026,Chennai,Z 05 Basin bridge (W 53),2.7,13.1,80.27
+07-11-2026,Chennai,Z 05 Chennai Central (W 58),14.7,13.08,80.27
+07-11-2026,Chennai,Z 05 Parrys (W 60),2.6,13.09,80.29
+07-11-2026,Chennai,Z 06 Kolathur (W 65),7.8,13.12,80.21
+07-11-2026,Chennai,Z 06 Perambur (W 67),13.8,13.11,80.23
+07-11-2026,Chennai,Z 07 Ambattur (W 81),8.8,13.12,80.15
+07-11-2026,Chennai,Z 07 Korattur (W 84),5.4,13.11,80.18
+07-11-2026,Chennai,Z 07 Ayapakkam (W 85),8.1,13.11,80.15
+07-11-2026,Chennai,Z 07 Korattur (W 86),10.4,13.1,80.17
+07-11-2026,Chennai,Z 08 Anna Nagar West (W 95),17.1,13.1,80.2
+07-11-2026,Chennai,Z 08 Aminjikarai (W 102),6.3,13.08,80.23
+07-11-2026,Chennai,Z 09 Nungambakkam (W 110),24.0,13.05,80.24
+07-11-2026,Chennai,Z 09 Ice House (W 120),13.5,13.05,80.28
+07-11-2026,Chennai,Z 10 Saligramam (W 129),35.4,13.06,80.2
+07-11-2026,Chennai,Z 10 Vadapalani (W 134),33.0,13.05,80.22
+07-11-2026,Chennai,Z 10 Saidapet (W 139),21.2,13.03,80.21
+07-11-2026,Chennai,Z 11 Nerkundram (W 144),16.2,13.06,80.18
+07-11-2026,Chennai,Z 11 Maduravoyal (W 146),15.9,13.05,80.16
+07-11-2026,Chennai,Z 11 Valasaravakkam (W 148),53.4,13.05,80.18
+07-11-2026,Chennai,Z 11 Valasaravakkam (W 149),17.0,13.05,80.19
+07-11-2026,Chennai,Z 11 Valasaravakkam (W 152),38.6,13.04,80.17
+07-11-2026,Chennai,Z 12 Alandhur (PAL),6.0,13.01,80.2
+07-11-2026,Chennai,Z 12 Meenambakkam (PAL),17.6,12.99,80.18
+07-11-2026,Chennai,Z 12 Mugalivakkam (W 156),23.4,13.02,80.17
+07-11-2026,Chennai,Z 13 Raja Annamalai puram (W 173),42.6,13.02,80.26
+07-11-2026,Chennai,Z 13 Adyar ( W 175),34.8,13.01,80.25
+07-11-2026,Chennai,Z 13 Velachery (W 178),1.2,12.99,80.22
+07-11-2026,Chennai,Z 14 Madipakkam (W 169),13.2,12.97,80.19
+07-11-2026,Chennai,Z 14 Perungudi (W 184),1.6,12.97,80.24
+07-11-2026,Chennai,Z 14 Medavakkam Jn (W 188),2.4,12.92,80.19
+07-11-2026,Chennai,Z 14 Madipakkam (W 188),8.6,12.96,80.2
+07-11-2026,Chennai,Z 14 Pallikaranai (W 189),2.8,12.93,80.2
+07-11-2026,Chennai,Z 14 Narayanapuram Lake (W 190),3.4,12.95,80.2
+07-11-2026,Chennai,Z 14 Pallikaranai (W 190),3.2,12.93,80.2
+07-11-2026,Chennai,Z 14 Medavakkam (W 191),4.2,12.92,80.2
+07-11-2026,Chennai,Z 15 Neelankarai (W 192),1.0,12.95,80.26
+07-11-2026,Chennai,Z 15 Injambakkam (W 194),3.4,12.92,80.25
+07-11-2026,Chennai,Z 15 Kannagi Nagar (W 196),6.6,12.93,80.24
+07-11-2026,Chennai,Z 15 Okkiyam Thoraipakkam (W 195),10.2,12.93,80.23
+07-11-2026,Chennai,Z 15 Sholinganallur (W 197),6.6,12.9,80.23
+07-11-2026,Chennai,Z 15 Uthandi (W 200),4.8,12.87,80.24
+07-11-2026,Chennai,Z 02 Manali New town (W 18),12.6,13.19,80.27
+07-11-2026,Chennai,Sathangadu,24.8,13.15,80.3
+07-11-2026,Chennai,Kadapakkam,29.2,13.19,80.26
+07-11-2026,Chennai,Kosapur,21.2,13.18,80.23
+07-11-2026,Chennai,Mathur TNDRRA ARG,14.4,13.17,80.25
+07-11-2026,Chennai,Balaji Nagar (Puzhal),20.4,13.17,80.22
+07-11-2026,Chennai,Puzhal TNDRRA ARG,12.8,13.16,80.2
+07-11-2026,Chennai,Kathirvedu,6.0,13.14,80.19
+07-11-2026,Chennai,Tondiarpat TNDRRA ARG,14.8,13.14,80.29
+07-11-2026,Chennai,Vepery,4.8,13.09,80.27
+07-11-2026,Chennai,Egmore,12.4,13.08,80.27
+07-11-2026,Chennai,Pulianthope,0.8,13.1,80.27
+07-11-2026,Chennai,Oragadam (Ambattur),0.0,13.13,80.15
+07-11-2026,Chennai,Korattur TNDRRA ARG,0.0,13.12,80.19
+07-11-2026,Chennai,Patravakkam,0.0,13.11,80.17
+07-11-2026,Chennai,ICF,12.0,13.1,80.2
+07-11-2026,Chennai,Nungambakkam TNDRRA ARG,17.2,13.07,80.24
+07-11-2026,Chennai,Saligramam TNDRRA ARG,5.6,13.05,80.2
+07-11-2026,Chennai,Puzhuthivakkam TNDRRA ARG,19.2,12.96,80.2
+07-11-2026,Chennai,Pallikaranai TNDRRA ARG,4.0,12.92,80.21
+07-11-2026,Chennai,Okkiyam Thoraipakkam TNDRRA ARG,6.4,12.93,80.24
+07-11-2026,Chennai,Injambakkam TNDRRA ARG,4.0,12.92,80.25
+07-11-2026,Chennai,Uthandi TNDRRA ARG,14.8,12.87,80.25
+07-11-2026,Chennai,Z 01 Kargil Nagar (Div 7),24.4,13.17,80.29
+07-11-2026,Chennai,Z 03 Madhavaram [ZO],10.2,13.14,80.22
+07-11-2026,Chennai,Z 03 Madhavaram (Div 27),14.0,13.15,80.24
+07-11-2026,Chennai,Z 03 Madhavaram (Div 33),8.6,13.13,80.21
+07-11-2026,Chennai,Z 04 BB Road [LS] (Div 45),0.8,13.11,80.25
+07-11-2026,Chennai,Z 04 Erukanchery (Div 35),14.6,13.13,80.25
+07-11-2026,Chennai,Z 04 Mullai Nagar (Div 37),27.8,13.13,80.27
+07-11-2026,Chennai,Z 04 Coronation Nagar (Div 41),12.0,13.13,80.28
+07-11-2026,Chennai,Z 05 Pudupet (Div 63),18.8,13.07,80.26
+07-11-2026,Chennai,Z 05 Cemetery Road (Div 51),1.8,13.11,80.29
+07-11-2026,Coimbatore,Aliyar Dam,1.2,10.58,76.94
+07-11-2026,Coimbatore,Jallipatti,0.0,10.55,77.02
+07-11-2026,Coimbatore,Kottur,0.0,10.54,76.98
+07-11-2026,Coimbatore,Anaimalai,0.0,10.63,76.93
+07-11-2026,Coimbatore,Periyapodhu,0.0,10.61,76.88
+07-11-2026,Coimbatore,Kanjampalli,9.2,11.23,77.14
+07-11-2026,Coimbatore,Annur,5.6,11.24,77.1
+07-11-2026,Coimbatore,Pillayapalayam,0.0,11.19,77.09
+07-11-2026,Coimbatore,Singanallur,0.0,11.0,77.03
+07-11-2026,Coimbatore,Naickepalayam,0.0,11.15,76.92
+07-11-2026,Coimbatore,Chinnathadagam,7.2,11.08,76.86
+07-11-2026,Coimbatore,Velliyankadu,0.0,11.11,76.76
+07-11-2026,Coimbatore,Solanur,0.0,10.72,77.04
+07-11-2026,Coimbatore,Vadachittur,22.8,10.84,77.08
+07-11-2026,Coimbatore,Vellalore,5.6,10.97,77.03
+07-11-2026,Coimbatore,Madukkarai,14.4,10.9,76.96
+07-11-2026,Coimbatore,Othakalmandabam,8.8,10.87,77.0
+07-11-2026,Coimbatore,Myleripalayam,0.0,10.87,77.02
+07-11-2026,Coimbatore,Chikkadasampalayam,8.8,11.31,76.95
+07-11-2026,Coimbatore,Karamadai,10.0,11.24,76.96
+07-11-2026,Coimbatore,Tholampalayam,3.6,11.18,76.83
+07-11-2026,Coimbatore,Erumburai,0.0,11.36,77.06
+07-11-2026,Coimbatore,Mooduthurai,0.0,11.35,77.12
+07-11-2026,Coimbatore,Poluvapatti,1.6,10.96,76.79
+07-11-2026,Coimbatore,Kuniyamuthur,0.0,10.96,76.95
+07-11-2026,Coimbatore,Thenkarai,3.2,10.95,76.84
+07-11-2026,Coimbatore,Thondamuthur,8.8,10.99,76.84
+07-11-2026,Coimbatore,Vellimalaipattinam,1.6,11.0,76.78
+07-11-2026,Coimbatore,Kolarpatty,0.0,10.63,77.11
+07-11-2026,Coimbatore,Sinjuvadi,0.0,10.6,77.13
+07-11-2026,Coimbatore,Negamam,10.8,10.74,77.1
+07-11-2026,Coimbatore,Ramapattinam,0.0,10.69,76.93
+07-11-2026,Coimbatore,Somanur,2.0,11.09,77.19
+07-11-2026,Coimbatore,Arasur,5.2,11.08,77.12
+07-11-2026,Coimbatore,Sellakarichal,13.2,10.95,77.17
+07-11-2026,Coimbatore,Bogampatti,10.8,10.9,77.12
+07-11-2026,Coimbatore,Varappatti,0.0,10.87,77.19
+07-11-2026,Coimbatore,Valparai Taluk Office ARG,0.0,10.32,76.95
+07-11-2026,Coimbatore,Cincona ARG,0.0,10.28,76.98
+07-11-2026,Coimbatore,Valparai VAO Office,0.0,10.33,76.96
+07-11-2026,Coimbatore,Sarcarsamakulam,18.8,11.14,77.03
+07-11-2026,Coimbatore,Thudiyalur,0.0,11.08,76.94
+07-11-2026,Coimbatore,Kinathukadavu,16.0,10.81,77.02
+07-11-2026,Coimbatore,Aachipatty,0.8,11.0,76.82
+07-11-2026,Cuddalore,Vadakrishnapuram,0.0,11.48,79.61
+07-11-2026,Cuddalore,Vayalamur,2.8,11.5,79.66
+07-11-2026,Cuddalore,Nanjalur,0.0,11.37,79.66
+07-11-2026,Cuddalore,Uthamachozhamangalam,3.6,11.41,79.75
+07-11-2026,Cuddalore,Cuddalore ARG,29.2,11.72,79.77
+07-11-2026,Cuddalore,Kayalpattu,12.8,11.59,79.76
+07-11-2026,Cuddalore,Pathirikuppam,6.8,11.75,79.73
+07-11-2026,Cuddalore,M.Arasur,0.0,11.26,79.63
+07-11-2026,Cuddalore,T.Puthur,0.0,11.32,79.6
+07-11-2026,Cuddalore,Pazhanjanallur,0.0,11.28,79.51
+07-11-2026,Cuddalore,Therthanagiri,3.6,11.57,79.68
+07-11-2026,Cuddalore,Thiruvamur,0.0,11.77,79.48
+07-11-2026,Cuddalore,Perperiyankuppam,0.0,11.66,79.48
+07-11-2026,Cuddalore,Marungur,0.0,11.65,79.53
+07-11-2026,Cuddalore,Nellikuppam,0.0,11.78,79.67
+07-11-2026,Cuddalore,Aviyanur,0.0,11.85,79.47
+07-11-2026,Cuddalore,Poongunam,2.8,11.79,79.56
+07-11-2026,Cuddalore,Vadakailasam,2.8,11.76,79.55
+07-11-2026,Cuddalore,Melapalayur,0.8,11.47,79.38
+07-11-2026,Cuddalore,Sri Neduncheri,0.0,11.41,79.45
+07-11-2026,Cuddalore,Gunamangalam,0.0,11.43,79.38
+07-11-2026,Cuddalore,Thozhudur ARG,0.0,11.42,78.99
+07-11-2026,Cuddalore,Avatti,0.0,11.48,79.08
+07-11-2026,Cuddalore,Mangalur,14.0,11.51,79.01
+07-11-2026,Cuddalore,Orangur,3.6,11.5,78.96
+07-11-2026,Cuddalore,Veppur,0.0,11.53,79.12
+07-11-2026,Cuddalore,A.Marur,0.4,11.62,79.09
+07-11-2026,Cuddalore,Dharmanallur,0.0,11.46,79.49
+07-11-2026,Cuddalore,Mangalampettai,0.0,11.64,79.28
+07-11-2026,Cuddalore,Pazhaiyapattinam,0.0,11.6,79.36
+07-11-2026,Cuddalore,Mandarakuppam,0.0,11.54,79.48
+07-11-2026,Cuddalore,Karuvepilankurichi,6.8,11.47,79.32
+07-11-2026,Cuddalore,Erumanur,0.4,11.55,79.29
+07-11-2026,Cuddalore,Keerapalayam,5.2,11.44,79.65
+07-11-2026,Cuddalore,Puliyangudi,0.4,11.27,79.61
+07-11-2026,Cuddalore,Rasakuppam,0.0,11.56,79.58
+07-11-2026,Cuddalore,Thethampattu,1.2,11.39,79.43
+07-11-2026,Dharmapuri,Krishnapuram,0.0,12.21,78.25
+07-11-2026,Dharmapuri,Mampatti,0.0,12.17,78.54
+07-11-2026,Dharmapuri,Maruthipatti,0.0,12.15,78.44
+07-11-2026,Dharmapuri,Navalai,5.6,12.17,78.36
+07-11-2026,Dharmapuri,M.Vellampatti,0.0,12.16,78.43
+07-11-2026,Dharmapuri,Paraiyapatti,0.0,12.14,78.47
+07-11-2026,Dharmapuri,Theerthamalai,1.2,12.1,78.59
+07-11-2026,Dharmapuri,Sitlingi,0.0,11.99,78.67
+07-11-2026,Dharmapuri,Veppampatti,0.4,12.05,78.56
+07-11-2026,Dharmapuri,Bairnaikkanpatti,0.0,12.04,78.64
+07-11-2026,Dharmapuri,Periyapatti,4.8,12.1,78.71
+07-11-2026,Dharmapuri,Kambainallur,0.8,12.2,78.32
+07-11-2026,Dharmapuri,Karimangalam,0.0,12.3,78.2
+07-11-2026,Dharmapuri,Nariyanahalli,0.0,12.3,78.15
+07-11-2026,Dharmapuri,Baisuhalli,0.0,12.22,78.19
+07-11-2026,Dharmapuri,Indur,0.0,12.13,78.06
+07-11-2026,Dharmapuri,Pangunatham,0.0,12.12,78.01
+07-11-2026,Dharmapuri,Palayam,14.4,12.01,78.1
+07-11-2026,Dharmapuri,Thoppur,0.0,11.94,78.07
+07-11-2026,Dharmapuri,Marandhalli ARG,0.8,12.39,78.0
+07-11-2026,Dharmapuri,Namandahalli,2.4,12.46,77.97
+07-11-2026,Dharmapuri,Gummanur,0.4,12.45,78.02
+07-11-2026,Dharmapuri,Thirumalvadi,0.4,12.32,77.92
+07-11-2026,Dharmapuri,Karukkanahalli,0.0,12.36,78.08
+07-11-2026,Dharmapuri,B.Mallapuram,8.8,11.98,78.25
+07-11-2026,Dharmapuri,Bairnatham,1.6,11.95,78.3
+07-11-2026,Dharmapuri,Kethureddipatti,3.2,12.02,78.3
+07-11-2026,Dharmapuri,Kadathur,0.0,12.09,78.29
+07-11-2026,Dharmapuri,Paparapatti,0.8,12.2,78.05
+07-11-2026,Dharmapuri,Pikkili,0.0,12.24,78.01
+07-11-2026,Dharmapuri,Suriyakadi,10.0,11.93,78.57
+07-11-2026,Dharmapuri,S.Ammapalayam,0.0,11.82,78.56
+07-11-2026,Dharmapuri,Vattuvanahalli,0.0,12.18,77.97
+07-11-2026,Dharmapuri,Thenkaraikottai,0.8,12.01,78.4
+07-11-2026,Dharmapuri,Pethathampatti,0.4,11.99,78.47
+07-11-2026,Dharmapuri,Citheri,1.2,11.89,78.51
+07-11-2026,Dharmapuri,Neruppur,0.4,11.96,77.76
+07-11-2026,Dharmapuri,Pennagaram,0.0,12.13,77.89
+07-11-2026,Dharmapuri,Senganur,0.0,12.1,77.9
+07-11-2026,Dharmapuri,Perumbalai,0.8,11.96,77.94
+07-11-2026,Dharmapuri,Kalappambadi,0.0,12.03,77.93
+07-11-2026,Dharmapuri,Sunchalnattham,0.0,12.01,77.8
+07-11-2026,Dharmapuri,Nagamarai,0.0,11.92,77.77
+07-11-2026,Dharmapuri,Velogoundanpala,10.8,12.13,78.16
+07-11-2026,Dharmapuri,Varnatheertham,0.0,12.06,78.48
+07-11-2026,Dharmapuri,Obilinayakanpatt,0.8,12.12,78.39
+07-11-2026,Dindigul,Athoor,0.0,10.29,77.85
+07-11-2026,Dindigul,Ayyampalayam,3.6,10.23,77.75
+07-11-2026,Dindigul,Ambathurai,6.8,10.27,77.92
+07-11-2026,Dindigul,Kasavanampatti,0.0,10.37,77.87
+07-11-2026,Dindigul,Agaram,0.0,10.42,77.92
+07-11-2026,Dindigul,Alakkuvarpatti,0.8,10.42,77.98
+07-11-2026,Dindigul,Palakanuthu,2.0,10.47,77.79
+07-11-2026,Dindigul,Sirumalai,0.4,10.24,78.0
+07-11-2026,Dindigul,Mullipadi,0.8,10.4,78.02
+07-11-2026,Dindigul,Kambiliyampatti,0.0,10.37,78.12
+07-11-2026,Dindigul,Koovanuthu,0.4,10.3,78.03
+07-11-2026,Dindigul,Shanarpatti,0.0,10.28,78.07
+07-11-2026,Dindigul,Kottanatham,0.4,10.75,78.09
+07-11-2026,Dindigul,Palayam,0.0,10.68,78.11
+07-11-2026,Dindigul,R.Puthukottai,4.8,10.61,78.05
+07-11-2026,Dindigul,Kodaikanal Poondi,0.0,10.19,77.33
+07-11-2026,Dindigul,Kodaikanal ARG,0.0,10.24,77.5
+07-11-2026,Dindigul,Nadumandalam Puthupatty,6.0,10.29,78.27
+07-11-2026,Dindigul,Nadumandalam,1.2,10.26,78.25
+07-11-2026,Dindigul,Reddiyapatti,3.6,10.15,78.2
+07-11-2026,Dindigul,Pudur,0.0,10.1,78.18
+07-11-2026,Dindigul,Senthurai,4.8,10.39,78.25
+07-11-2026,Dindigul,Kodangipatti,2.8,10.37,78.25
+07-11-2026,Dindigul,Nariyuthu,4.4,10.18,77.88
+07-11-2026,Dindigul,Mattaparai,6.8,10.09,77.91
+07-11-2026,Dindigul,Ethilodu,5.2,10.11,77.87
+07-11-2026,Dindigul,Viruveedu,0.0,10.08,77.78
+07-11-2026,Dindigul,Odaipatty,0.0,10.58,77.78
+07-11-2026,Dindigul,I. Vadipatty,2.4,10.62,77.75
+07-11-2026,Dindigul,Paruthiyur,2.0,10.66,77.6
+07-11-2026,Dindigul,Appiyampatty,8.0,10.66,77.64
+07-11-2026,Dindigul,Kallimandayam,2.4,10.59,77.69
+07-11-2026,Dindigul,Virupatchi,9.6,10.47,77.7
+07-11-2026,Dindigul,Puliyurnatham,6.0,10.53,77.83
+07-11-2026,Dindigul,Kethayurambu,1.6,10.51,77.83
+07-11-2026,Dindigul,Idaiyakottaii,5.6,10.62,77.84
+07-11-2026,Dindigul,Ayakudi (Palani),0.8,10.45,77.56
+07-11-2026,Dindigul,Pushpathur,0.0,10.55,77.39
+07-11-2026,Dindigul,Korikadavu,0.0,10.56,77.48
+07-11-2026,Dindigul,Neikarapatti,0.0,10.45,77.47
+07-11-2026,Dindigul,Balasamudram,0.0,10.42,77.49
+07-11-2026,Dindigul,Palar Porunthalar Dam,0.0,10.38,77.49
+07-11-2026,Dindigul,Pappampatti,0.0,10.44,77.4
+07-11-2026,Dindigul,R.Vadipatti,0.0,10.45,77.43
+07-11-2026,Dindigul,Keeranur,0.0,10.6,77.5
+07-11-2026,Dindigul,Ayyalur,0.0,10.49,78.15
+07-11-2026,Dindigul,Eriyodu,0.0,10.51,78.07
+07-11-2026,Dindigul,Vadamadurai,0.0,10.44,78.1
+07-11-2026,Dindigul,Vedasandur ARG,8.8,10.53,77.96
+07-11-2026,Dindigul,Athoor,0.8,10.3,77.88
+07-11-2026,Dindigul,Silvarpatty,1.6,10.44,77.92
+07-11-2026,Dindigul,Samuthirapatti,2.0,10.21,78.29
+07-11-2026,Dindigul,Oddanchataram,2.8,10.48,77.73
+07-11-2026,Dindigul,Padiyur,0.0,10.42,78.03
+07-11-2026,Erode,Komarayanur,14.0,11.73,77.69
+07-11-2026,Erode,Illipili,7.2,11.65,77.68
+07-11-2026,Erode,Ammapettai,0.8,11.64,77.73
+07-11-2026,Erode,Sankarapalayam,5.2,11.63,77.58
+07-11-2026,Erode,Burgur,8.8,11.58,77.59
+07-11-2026,Erode,Thattakarai,4.8,11.84,77.53
+07-11-2026,Erode,Bhavani ARG,0.8,11.45,77.68
+07-11-2026,Erode,Kavundapadi,7.2,11.43,77.56
+07-11-2026,Erode,Olagadam,3.2,11.56,77.65
+07-11-2026,Erode,Suriyampalayam,0.0,11.4,77.69
+07-11-2026,Erode,Surampatti,22.4,11.34,77.7
+07-11-2026,Erode,Nasiyanur,10.8,11.34,77.64
+07-11-2026,Erode,Alukuli,10.4,11.45,77.36
+07-11-2026,Erode,Savundapur,10.0,11.49,77.48
+07-11-2026,Erode,Siruvalur,40.4,11.37,77.46
+07-11-2026,Erode,Punjai Thuraiyampalayam,9.6,11.51,77.36
+07-11-2026,Erode,Kilampadi,10.0,11.19,77.85
+07-11-2026,Erode,Kodumudi ARG,0.0,11.08,77.89
+07-11-2026,Erode,Sivagiri (Erode),3.2,11.13,77.81
+07-11-2026,Erode,Arachalur,16.8,11.16,77.7
+07-11-2026,Erode,Vadugapatti,8.4,11.15,77.74
+07-11-2026,Erode,Modakurichi ARG,9.2,11.23,77.78
+07-11-2026,Erode,Thalguni,23.2,11.38,77.41
+07-11-2026,Erode,Nambiyur ARG,20.8,11.35,77.33
+07-11-2026,Erode,Attavanaipidariyur,15.2,11.16,77.6
+07-11-2026,Erode,Thiruvachi,25.2,11.31,77.6
+07-11-2026,Erode,Karumandisellipalayam,12.4,11.28,77.59
+07-11-2026,Erode,Thingalur,40.8,11.32,77.49
+07-11-2026,Erode,Pungampadi,16.8,11.24,77.66
+07-11-2026,Erode,Senbagapudur,10.0,11.45,77.21
+07-11-2026,Erode,Iruddipalayam,2.0,11.66,77.28
+07-11-2026,Erode,Gundri,0.8,11.67,77.4
+07-11-2026,Erode,Punjaipuliyampatti,11.2,11.35,77.17
+07-11-2026,Erode,Kadambur,0.4,11.63,77.33
+07-11-2026,Erode,Puthupeerkadavu,4.4,11.52,77.12
+07-11-2026,Erode,Sikkarasampalayam,11.2,11.53,77.21
+07-11-2026,Erode,Malayadipudur,8.8,11.52,77.26
+07-11-2026,Erode,Thalamalai,0.4,11.62,77.0
+07-11-2026,Erode,Panakahalli,2.4,11.67,76.89
+07-11-2026,Erode,Hasanoor,8.0,11.66,77.14
+07-11-2026,Erode,Arulavadi,0.0,11.77,76.92
+07-11-2026,Erode,Thiginarai,0.0,11.72,76.96
+07-11-2026,Erode,Talamalai 2,2.0,11.73,77.27
+07-11-2026,Erode,Aval Poondurai,12.8,11.23,77.7
+07-11-2026,Erode,Thalavadi AWS,0.0,11.77,77.0
+07-11-2026,Kallakurichi,Chinna Salem,2.8,11.63,78.87
+07-11-2026,Kallakurichi,Nainarpalayam,0.0,11.58,78.91
+07-11-2026,Kallakurichi,Pakkampadi,0.8,11.55,78.83
+07-11-2026,Kallakurichi,Manmalai,18.0,11.83,78.85
+07-11-2026,Kallakurichi,Indhili,5.6,11.69,78.93
+07-11-2026,Kallakurichi,Kallakurichi ARG,7.6,11.74,78.97
+07-11-2026,Kallakurichi,Mudiyanur,0.0,11.7,79.04
+07-11-2026,Kallakurichi,Periyamambattu,0.0,11.74,79.08
+07-11-2026,Kallakurichi,Serapattu,9.2,11.98,78.78
+07-11-2026,Kallakurichi,Mundiyur,15.6,11.74,78.74
+07-11-2026,Kallakurichi,Vellimalai,2.8,11.8,78.71
+07-11-2026,Kallakurichi,Vadasiruvallur,8.0,11.88,78.92
+07-11-2026,Kallakurichi,Tirupalapandhal,4.0,11.94,79.13
+07-11-2026,Kallakurichi,Tirukoilur,0.0,11.96,79.19
+07-11-2026,Kallakurichi,Elavanasur Kottai,0.0,11.71,79.19
+07-11-2026,Kallakurichi,Pallavadi,0.0,11.82,79.17
+07-11-2026,Kallakurichi,Eraiyur,0.0,11.79,79.19
+07-11-2026,Kallakurichi,M.Kunnathur,0.0,11.81,79.27
+07-11-2026,Kallakurichi,Kalamarudhur,0.0,11.77,79.31
+07-11-2026,Kallakurichi,Sendhanadu,0.0,11.72,79.42
+07-11-2026,Kallakurichi,Senjikupam,0.0,11.76,79.38
+07-11-2026,Kallakurichi,Jampadi,0.0,12.0,79.05
+07-11-2026,Kallakurichi,Manalurpet,1.2,12.0,79.09
+07-11-2026,Kallakurichi,Kottalam,1.6,11.81,78.99
+07-11-2026,Kallakurichi,Lakkinayakkanpatti,1.2,12.0,78.87
+07-11-2026,Kallakurichi,Ponparappi,0.0,12.0,78.95
+07-11-2026,Kallakurichi,Sangarapuram,7.2,11.88,78.91
+07-11-2026,Kancheepuram,Sityampakkam,0.0,12.88,79.77
+07-11-2026,Kancheepuram,Killar,4.8,12.87,79.57
+07-11-2026,Kancheepuram,Sirukaveripakkam,6.0,12.86,79.68
+07-11-2026,Kancheepuram,Kottavakkam,3.2,12.95,79.72
+07-11-2026,Kancheepuram,Kolapakkam,38.0,13.01,80.15
+07-11-2026,Kancheepuram,Sriperumbuthur ARG,30.4,12.96,79.93
+07-11-2026,Kancheepuram,Thandalam,28.0,13.01,80.0
+07-11-2026,Kancheepuram,Somangalam,17.2,12.95,80.04
+07-11-2026,Kancheepuram,Maduramangalam,7.6,12.95,79.82
+07-11-2026,Kancheepuram,Mannur,17.2,13.02,79.96
+07-11-2026,Kancheepuram,Kunnavakkam,0.4,12.66,79.81
+07-11-2026,Kancheepuram,Vedapalayam,0.4,12.61,79.73
+07-11-2026,Kancheepuram,Magaral,0.0,12.72,79.75
+07-11-2026,Kancheepuram,Theneri,0.8,12.85,79.85
+07-11-2026,Kancheepuram,Arumbuliyur,0.0,12.75,79.86
+07-11-2026,Kancheepuram,pennalur,24.4,12.97,79.96
+07-11-2026,Kancheepuram,Uthiramerur AWS,0.0,12.61,79.73
+07-11-2026,Kancheepuram,Walajabad AWS,0.0,12.79,79.82
+07-11-2026,Kanniyakumari,Kanniyakumari Arg,10.4,8.08,77.55
+07-11-2026,Kanniyakumari,Nagercoil ARG,17.6,8.18,77.42
+07-11-2026,Kanniyakumari,Dharmapuram,13.6,8.13,77.41
+07-11-2026,Kanniyakumari,Suchindram,19.6,8.16,77.46
+07-11-2026,Kanniyakumari,Kallukootam,11.6,8.19,77.29
+07-11-2026,Kanniyakumari,Colachel B,27.2,8.18,77.26
+07-11-2026,Kanniyakumari,Chunkankadai,18.0,8.2,77.38
+07-11-2026,Kanniyakumari,Chithirankodu,14.4,8.3,77.32
+07-11-2026,Kanniyakumari,Paloor,11.6,8.25,77.23
+07-11-2026,Kanniyakumari,Ezhudesam,6.4,8.27,77.15
+07-11-2026,Kanniyakumari,Sulore,6.0,8.34,77.38
+07-11-2026,Kanniyakumari,Ponmanai,0.0,8.35,77.33
+07-11-2026,Kanniyakumari,Thumbacode,6.0,8.39,77.3
+07-11-2026,Kanniyakumari,Cherukole,11.6,8.3,77.26
+07-11-2026,Kanniyakumari,Pechiparai ARG,4.0,8.41,77.39
+07-11-2026,Kanniyakumari,Kalikesam,5.2,8.41,77.39
+07-11-2026,Kanniyakumari,Keeriparai ARG,6.8,8.4,77.41
+07-11-2026,Kanniyakumari,Thadikarakonam,6.8,8.33,77.42
+07-11-2026,Kanniyakumari,Poigai Dam ARG,26.0,8.27,77.5
+07-11-2026,Kanniyakumari,Arumanai,4.4,8.38,77.25
+07-11-2026,Kanniyakumari,Mylar,3.2,8.48,77.29
+07-11-2026,Kanniyakumari,Chittar Dam 2 (Sivalogam) ARG,6.4,8.43,77.25
+07-11-2026,Kanniyakumari,Edaicode,5.6,8.4,77.19
+07-11-2026,Kanniyakumari,Mahendragiri,17.2,8.29,77.56
+07-11-2026,Kanniyakumari,Kurunthancode,12.4,8.18,77.34
+07-11-2026,Karur,T.Vengidapuram,0.0,10.85,77.85
+07-11-2026,Karur,Vadakarai,0.0,10.89,77.79
+07-11-2026,Karur,Inunganur,0.0,10.69,77.83
+07-11-2026,Karur,Santhapadi,0.0,10.76,77.82
+07-11-2026,Karur,Esanatham,2.0,10.7,78.0
+07-11-2026,Karur,D.Edayapatti West,0.4,10.59,78.19
+07-11-2026,Karur,Palaviduthi,0.4,10.65,78.24
+07-11-2026,Karur,Kalayappatti,0.0,10.77,78.19
+07-11-2026,Karur,Kosur,0.4,10.74,78.33
+07-11-2026,Karur,Velliyanai North,0.0,10.85,78.12
+07-11-2026,Karur,Jegathabi,0.4,10.84,78.16
+07-11-2026,Karur,Kallappalli,0.0,10.95,78.34
+07-11-2026,Karur,Renganathapuram South,2.8,10.92,78.19
+07-11-2026,Karur,Sivayam South,0.0,10.81,78.39
+07-11-2026,Karur,Pothuravuthanpatti,0.0,10.84,78.33
+07-11-2026,Karur,Kulithalai,0.0,10.94,78.42
+07-11-2026,Karur,Nallur (Karur),0.0,10.82,78.46
+07-11-2026,Karur,Suriyanur,1.6,10.85,78.58
+07-11-2026,Karur,Thogaimalai ARG,0.0,10.73,78.41
+07-11-2026,Karur,Kalladai,0.0,10.74,78.48
+07-11-2026,Karur,Manmangalam,0.0,11.03,78.05
+07-11-2026,Karur,Thalapatti,0.0,10.89,78.03
+07-11-2026,Karur,Chinna Varapalayam,0.0,11.06,78.07
+07-11-2026,Karur,Munnur,0.4,10.99,77.91
+07-11-2026,Karur,Nedungur,2.4,10.95,77.94
+07-11-2026,Karur,Pugalur ARG,0.0,11.07,78.0
+07-11-2026,Karur,Thennilai South,0.8,10.95,77.84
+07-11-2026,Krishnagiri,Anchetty ARG,0.0,12.31,77.81
+07-11-2026,Krishnagiri,Thoddamanju,1.2,12.36,77.72
+07-11-2026,Krishnagiri,Nattrampalayam,0.0,12.25,77.74
+07-11-2026,Krishnagiri,Kottaiyur,3.6,12.3,77.62
+07-11-2026,Krishnagiri,Pasinayanapalli,0.0,12.47,78.37
+07-11-2026,Krishnagiri,Salinayanapalli,0.0,12.56,78.35
+07-11-2026,Krishnagiri,Varatanapalli,0.0,12.58,78.3
+07-11-2026,Krishnagiri,Orappam,0.0,12.54,78.28
+07-11-2026,Krishnagiri,Karandapalli,9.2,12.46,77.76
+07-11-2026,Krishnagiri,Manchi,0.0,12.43,77.8
+07-11-2026,Krishnagiri,Thadikkal,2.4,12.47,77.88
+07-11-2026,Krishnagiri,Bettamugilam,0.4,12.37,77.91
+07-11-2026,Krishnagiri,Thalikothanoor,0.0,12.57,77.69
+07-11-2026,Krishnagiri,Kakkadasam,1.2,12.56,77.72
+07-11-2026,Krishnagiri,Denkanikottai ARG,10.8,12.61,77.86
+07-11-2026,Krishnagiri,Rayakottai ARG,5.6,12.52,78.03
+07-11-2026,Krishnagiri,U.Kothapalli,0.4,12.55,77.94
+07-11-2026,Krishnagiri,Gummalapuram,0.4,12.66,77.67
+07-11-2026,Krishnagiri,Madhakondapalli,0.0,12.63,77.73
+07-11-2026,Krishnagiri,Thummanapalli,3.6,12.82,77.9
+07-11-2026,Krishnagiri,Sevaganapalli,8.8,12.84,77.82
+07-11-2026,Krishnagiri,Hosur ARG,0.0,12.73,77.83
+07-11-2026,Krishnagiri,Gobanapalli,0.0,12.65,77.79
+07-11-2026,Krishnagiri,Sokadi,0.4,12.46,78.15
+07-11-2026,Krishnagiri,Naralpalli,0.0,12.62,78.25
+07-11-2026,Krishnagiri,Kuruburapalli,0.0,12.6,78.13
+07-11-2026,Krishnagiri,Kodipalli,0.0,12.63,78.19
+07-11-2026,Krishnagiri,Nerlagiri,0.0,12.75,78.13
+07-11-2026,Krishnagiri,Nachikuppam,0.0,12.72,78.16
+07-11-2026,Krishnagiri,Kaveripattinam ARG,0.4,12.31,78.31
+07-11-2026,Krishnagiri,Sonarhalli,2.8,12.37,78.44
+07-11-2026,Krishnagiri,Jambukuttapatti,0.8,12.33,78.36
+07-11-2026,Krishnagiri,Kendikampatti,0.4,12.36,78.39
+07-11-2026,Krishnagiri,Nerigam,0.0,12.81,78.04
+07-11-2026,Krishnagiri,Bedappalli,0.0,12.65,78.06
+07-11-2026,Krishnagiri,Addakurukki,0.8,12.69,77.95
+07-11-2026,Krishnagiri,Devasanapalli,0.0,12.62,77.95
+07-11-2026,Krishnagiri,Samanapalli,4.0,12.59,78.02
+07-11-2026,Krishnagiri,Panaimarathupatti,0.0,12.25,78.44
+07-11-2026,Krishnagiri,Samalpatti,7.2,12.31,78.49
+07-11-2026,Krishnagiri,Singarapettai,0.0,12.26,78.62
+07-11-2026,Krishnagiri,Maganoorpatti,10.4,12.33,78.58
+07-11-2026,Krishnagiri,Modikuppam,0.0,12.46,78.29
+07-11-2026,Krishnagiri,Mathur,0.0,12.38,78.41
+07-11-2026,Krishnagiri,Shoolagiri AWS,0.4,12.66,78.02
+07-11-2026,Krishnagiri,Uthangarai AWS,0.4,12.26,78.53
+07-11-2026,Madurai,Kalligudi,0.0,9.69,77.97
+07-11-2026,Madurai,Koodakovil,0.0,9.76,78.08
+07-11-2026,Madurai,Sathamangalam,0.0,9.92,78.15
+07-11-2026,Madurai,Kallandhiri,0.0,10.04,78.2
+07-11-2026,Madurai,Kunnathur,0.0,9.91,78.26
+07-11-2026,Madurai,Kottampatti,0.0,10.22,78.38
+07-11-2026,Madurai,Melavalavu,0.0,10.11,78.31
+07-11-2026,Madurai,Melur,0.0,10.03,78.33
+07-11-2026,Madurai,Thiruvathavur,0.8,9.96,78.32
+07-11-2026,Madurai,Vellalur,0.0,10.0,78.41
+07-11-2026,Madurai,Saptur,0.8,9.77,77.74
+07-11-2026,Madurai,Elumalai,44.0,9.88,77.69
+07-11-2026,Madurai,Mothagam,2.4,9.68,77.81
+07-11-2026,Madurai,Peraiyur,0.0,9.74,77.79
+07-11-2026,Madurai,T.Kallupatti,3.2,9.72,77.85
+07-11-2026,Madurai,Nilaiyur,0.0,9.86,78.06
+07-11-2026,Madurai,Valayankulam,0.4,9.81,78.1
+07-11-2026,Madurai,Checkanurani,0.0,9.94,77.97
+07-11-2026,Madurai,Pannikundu,0.0,9.85,77.9
+07-11-2026,Madurai,Thirumangalam,0.0,9.83,77.99
+07-11-2026,Madurai,Sinduupatti,1.6,9.9,77.86
+07-11-2026,Madurai,Usilampatti ARG,27.6,9.96,77.79
+07-11-2026,Madurai,Utthappanaiyakanur,2.8,10.04,77.79
+07-11-2026,Madurai,Seemanuthu,25.6,9.98,77.79
+07-11-2026,Madurai,Katchaikatti,0.4,10.08,78.0
+07-11-2026,Madurai,Kulasekarankottai,0.4,10.07,77.98
+07-11-2026,Madurai,Palamedu,0.0,10.1,78.11
+07-11-2026,Madurai,Thanichiam,0.4,10.03,78.01
+07-11-2026,Madurai,Thenkarai,0.0,10.02,77.95
+07-11-2026,Madurai,Thirupparankundram,0.0,9.88,78.05
+07-11-2026,Madurai,Thathampatti,0.0,10.07,77.98
+07-11-2026,Mayiladuthurai,Manganallur,12.4,11.03,79.65
+07-11-2026,Mayiladuthurai,Palaiyur,0.0,10.99,79.56
+07-11-2026,Mayiladuthurai,Manalmedu ARG,7.6,11.2,79.6
+07-11-2026,Mayiladuthurai,Mayiladuthurai ARG,0.0,11.1,79.65
+07-11-2026,Mayiladuthurai,Mahendirapalli,0.0,11.36,79.79
+07-11-2026,Mayiladuthurai,Madhanam,0.0,11.3,79.76
+07-11-2026,Mayiladuthurai,Sirkali ARG,0.0,11.23,79.74
+07-11-2026,Mayiladuthurai,Sembanarkoil,11.2,11.11,79.74
+07-11-2026,Mayiladuthurai,Tharangambadi ARG,33.6,11.03,79.84
+07-11-2026,Mayiladuthurai,Neduvasal ARG,33.2,11.04,79.76
+07-11-2026,Mayiladuthurai,Thirumailadi,1.2,11.33,79.72
+07-11-2026,Mayiladuthurai,Thipuernur,2.0,11.19,79.68
+07-11-2026,Nagapattinam,Thevur,12.0,10.73,79.73
+07-11-2026,Nagapattinam,Nagapattinam TNDRRA ARG,1.6,10.78,79.84
+07-11-2026,Nagapattinam,Thirukkannapuram,16.0,10.87,79.7
+07-11-2026,Nagapattinam,Thirumarugal,7.2,10.87,79.74
+07-11-2026,Nagapattinam,Valivalam,18.0,10.65,79.69
+07-11-2026,Nagapattinam,Mulakarai,27.6,10.47,79.68
+07-11-2026,Nagapattinam,Kariyapattinam,8.0,10.47,79.74
+07-11-2026,Nagapattinam,Naluvethapathi,4.8,10.5,79.85
+07-11-2026,Nagapattinam,Thopputhurai,2.4,10.39,79.85
+07-11-2026,Nagapattinam,Kodiyakkarai ARG,57.6,10.29,79.82
+07-11-2026,Namakkal,Kolli Hills Peraikkarinadu,5.6,11.4,78.31
+07-11-2026,Namakkal,Kolli Hills Vazhavanthinadu,3.6,11.31,78.35
+07-11-2026,Namakkal,Kolli Hills Ariyurnadu,0.0,11.26,78.38
+07-11-2026,Namakkal,Aanangur,10.4,11.39,77.83
+07-11-2026,Namakkal,Kumarapalayam,0.4,11.09,78.07
+07-11-2026,Namakkal,Valayapatti,0.0,11.12,78.23
+07-11-2026,Namakkal,Keerambur,0.8,11.2,78.09
+07-11-2026,Namakkal,Vasanthapuram,0.0,11.19,78.19
+07-11-2026,Namakkal,Kadhiranallur,0.0,11.39,78.2
+07-11-2026,Namakkal,Sellappampatti,0.4,11.31,78.17
+07-11-2026,Namakkal,Vadakarai Aathur,3.2,11.14,77.89
+07-11-2026,Namakkal,Nallur,6.0,11.27,77.95
+07-11-2026,Namakkal,Paundamangalam,0.0,11.12,77.98
+07-11-2026,Namakkal,Pillur,0.0,11.2,78.02
+07-11-2026,Namakkal,Mangalapuram,0.4,11.57,78.38
+07-11-2026,Namakkal,Mullukurichi,0.0,11.45,78.4
+07-11-2026,Namakkal,Namagiiipettai,0.0,11.46,78.26
+07-11-2026,Namakkal,Rasipuram,0.0,11.46,78.19
+07-11-2026,Namakkal,Alanganatham,0.0,11.19,78.25
+07-11-2026,Namakkal,Erumapatti,0.8,11.16,78.29
+07-11-2026,Namakkal,Karavallicombai,0.0,11.33,78.32
+07-11-2026,Namakkal,Agaram,0.0,11.38,78.01
+07-11-2026,Namakkal,Mallasamudram,0.0,11.49,78.03
+07-11-2026,Namakkal,Koothampoondi,15.6,11.33,78.02
+07-11-2026,Namakkal,Molasi,7.2,11.26,77.86
+07-11-2026,Namakkal,Chithalandur,1.6,11.31,77.92
+07-11-2026,Namakkal,Tiruchengode,2.4,11.38,77.89
+07-11-2026,Namakkal,Nagarpalayam,0.0,11.42,78.08
+07-11-2026,Namakkal,Malayalapatty,0.0,11.46,78.4
+07-11-2026,Namakkal,Anaipalayam,0.0,11.43,78.16
+07-11-2026,Nilgiris,Yedapalli,18.0,11.38,76.81
+07-11-2026,Nilgiris,Ketti ARG,2.4,11.38,76.73
+07-11-2026,Nilgiris,Kolakombai,50.0,11.29,76.74
+07-11-2026,Nilgiris,Nellakotta,0.8,11.55,76.42
+07-11-2026,Nilgiris,Srimadurai,0.0,11.55,76.49
+07-11-2026,Nilgiris,Mudumalai,0.4,11.58,76.58
+07-11-2026,Nilgiris,Padanthorai,0.0,11.53,76.46
+07-11-2026,Nilgiris,Kengarai,51.6,11.41,76.93
+07-11-2026,Nilgiris,Denad,42.0,11.44,76.95
+07-11-2026,Nilgiris,Konavakorai,29.2,11.4,76.89
+07-11-2026,Nilgiris,Kotagiri,0.0,11.42,76.86
+07-11-2026,Nilgiris,Kallampalayam,2.4,11.52,77.0
+07-11-2026,Nilgiris,Thengumarahada,0.0,11.57,76.93
+07-11-2026,Nilgiris,Kodanad,18.4,11.49,76.9
+07-11-2026,Nilgiris,Kilkundah,0.0,11.27,76.65
+07-11-2026,Nilgiris,Mudugula,4.4,11.34,76.69
+07-11-2026,Nilgiris,Erumad,3.2,11.57,76.26
+07-11-2026,Nilgiris,Barwood ARG,0.4,11.43,76.49
+07-11-2026,Nilgiris,Pandalur ARG,4.4,11.49,76.34
+07-11-2026,Nilgiris,Masinagudi,0.0,11.58,76.65
+07-11-2026,Nilgiris,Thuneri,1.2,11.46,76.75
+07-11-2026,Nilgiris,Kuruthukuli North,0.0,11.4,76.64
+07-11-2026,Nilgiris,Anaikatty,0.0,11.55,76.76
+07-11-2026,Nilgiris,Sandynallah ARG,0.0,11.44,76.64
+07-11-2026,Nilgiris,Naduvattam Panchayat Office,0.0,11.48,76.54
+07-11-2026,Nilgiris,Kuruthukuli South,2.4,11.39,76.64
+07-11-2026,Perambalur,Ammapalayam,0.0,11.21,78.74
+07-11-2026,Perambalur,Kannapadi,0.0,11.1,78.73
+07-11-2026,Perambalur,Padalur,0.0,11.11,78.84
+07-11-2026,Perambalur,Kolakkanatham,0.0,11.12,78.95
+07-11-2026,Perambalur,Koothur,0.4,11.15,79.01
+07-11-2026,Perambalur,Asur,0.0,11.26,79.0
+07-11-2026,Perambalur,Maruvathur,0.0,11.22,78.96
+07-11-2026,Perambalur,Kaiperambalur,6.4,11.36,79.1
+07-11-2026,Perambalur,Olaipadi,0.4,11.32,79.06
+07-11-2026,Perambalur,Keelakarai,0.4,11.29,78.83
+07-11-2026,Perambalur,Melapuliyur,0.0,11.27,78.77
+07-11-2026,Perambalur,Siruvachur,0.0,11.19,78.87
+07-11-2026,Perambalur,Pasumbalur,0.0,11.43,78.88
+07-11-2026,Perambalur,Valikandapuram,0.0,11.32,78.92
+07-11-2026,Perambalur,V.Kalathur,0.0,11.4,78.93
+07-11-2026,Perambalur,Poolambadi,0.8,11.41,78.71
+07-11-2026,Perambalur,Irur,0.0,11.13,78.84
+07-11-2026,Perambalur,Kunnam,0.0,11.24,79.02
+07-11-2026,Perambalur,Perambalur AWS,0.0,11.22,78.88
+07-11-2026,Pudukkottai,Alangudi ARG,2.4,10.36,78.98
+07-11-2026,Pudukkottai,Vennavalkudi,0.0,10.31,78.94
+07-11-2026,Pudukkottai,Aranthangi,0.8,10.17,79.0
+07-11-2026,Pudukkottai,Arasarkulam Melpathi,0.0,10.2,79.1
+07-11-2026,Pudukkottai,Kalakudi,10.4,10.15,79.11
+07-11-2026,Pudukkottai,Maramaddakki,7.6,10.29,79.01
+07-11-2026,Pudukkottai,Poovatrakkudi,1.2,10.24,79.04
+07-11-2026,Pudukkottai,Pirantani,23.6,10.1,79.07
+07-11-2026,Pudukkottai,Mimisal ARG,0.0,9.92,79.14
+07-11-2026,Pudukkottai,Ponbethi,4.4,9.97,79.02
+07-11-2026,Pudukkottai,Sothupalai,0.0,10.56,78.97
+07-11-2026,Pudukkottai,Kallakottai,0.0,10.52,79.11
+07-11-2026,Pudukkottai,Ariyanipatti,0.0,10.64,79.03
+07-11-2026,Pudukkottai,Illuppur,0.0,10.52,78.62
+07-11-2026,Pudukkottai,Irundirappatti,2.0,10.54,78.64
+07-11-2026,Pudukkottai,Perumanadu,0.0,10.38,78.74
+07-11-2026,Pudukkottai,Kudumiyanmalai ARG,7.2,10.41,78.67
+07-11-2026,Pudukkottai,Karambakudi,0.0,10.46,79.12
+07-11-2026,Pudukkottai,Malaiyur,6.4,10.43,79.02
+07-11-2026,Pudukkottai,Karuppattipatti,0.8,10.48,79.05
+07-11-2026,Pudukkottai,Keeranur ARG,0.0,10.57,78.79
+07-11-2026,Pudukkottai,Killukottai,0.0,10.66,78.92
+07-11-2026,Pudukkottai,Chettipatti,0.0,10.67,78.83
+07-11-2026,Pudukkottai,Udayalipatti,0.0,10.58,78.89
+07-11-2026,Pudukkottai,Narthamalai,0.4,10.51,78.76
+07-11-2026,Pudukkottai,Manamelkudi ARG,0.0,10.04,79.23
+07-11-2026,Pudukkottai,Perumaruthur,4.0,10.07,79.11
+07-11-2026,Pudukkottai,Kottaippattinam,3.2,9.98,79.2
+07-11-2026,Pudukkottai,Karaiyur,0.8,10.37,78.6
+07-11-2026,Pudukkottai,Pudukkottai ARG,0.0,10.38,78.82
+07-11-2026,Pudukkottai,Puthambur,0.0,10.47,78.85
+07-11-2026,Pudukkottai,Perungalur ARG,0.0,10.49,78.93
+07-11-2026,Pudukkottai,Agavayal,0.0,10.17,78.91
+07-11-2026,Pudukkottai,Kottur,0.0,10.32,78.72
+07-11-2026,Pudukkottai,Arimalam ARG,7.2,10.26,78.89
+07-11-2026,Pudukkottai,Thirumayam ARG,0.0,10.24,78.74
+07-11-2026,Pudukkottai,Neerpalani,0.0,10.62,78.71
+07-11-2026,Pudukkottai,Viralimalai ARG,0.4,10.61,78.55
+07-11-2026,Pudukkottai,Boothakudi,0.0,10.65,78.57
+07-11-2026,Pudukkottai,Kovilur,0.0,10.57,79.01
+07-11-2026,Ramanathapuram,Appanur,14.4,9.26,78.48
+07-11-2026,Ramanathapuram,Keelakidram,0.0,9.2,78.6
+07-11-2026,Ramanathapuram,Sikkal,5.6,9.24,78.64
+07-11-2026,Ramanathapuram,S.Tharaikudi,0.0,9.16,78.38
+07-11-2026,Ramanathapuram,Kakudi,0.0,9.45,78.37
+07-11-2026,Ramanathapuram,Abiramam,11.2,9.45,78.44
+07-11-2026,Ramanathapuram,Mandalamanickam,1.6,9.46,78.34
+07-11-2026,Ramanathapuram,Kovilankulam,4.0,9.28,78.42
+07-11-2026,Ramanathapuram,Perunali,9.2,9.24,78.32
+07-11-2026,Ramanathapuram,Kanjirankudi,33.2,9.29,78.83
+07-11-2026,Ramanathapuram,Nalaiurkkai,30.8,9.3,78.7
+07-11-2026,Ramanathapuram,Kakkor,10.4,9.35,78.57
+07-11-2026,Ramanathapuram,Melakudmaloor,6.8,9.48,78.47
+07-11-2026,Ramanathapuram,Theiru Veli,15.2,9.32,78.62
+07-11-2026,Ramanathapuram,Kodikulam,27.6,9.36,78.7
+07-11-2026,Ramanathapuram,Kiliyur,14.8,9.48,78.77
+07-11-2026,Ramanathapuram,Manjur,7.2,9.46,78.65
+07-11-2026,Ramanathapuram,Karadarthakudi,21.2,9.56,78.74
+07-11-2026,Ramanathapuram,Urappuli,5.6,9.49,78.66
+07-11-2026,Ramanathapuram,Parthibanur,0.0,9.61,78.45
+07-11-2026,Ramanathapuram,Pamban ARG,12.4,9.28,79.23
+07-11-2026,Ramanathapuram,Anandur,0.4,9.74,78.77
+07-11-2026,Ramanathapuram,Sanaveli,34.0,9.68,78.87
+07-11-2026,Ramanathapuram,Chittrakottai,36.0,9.43,78.9
+07-11-2026,Ramanathapuram,Devipattinam,0.0,9.48,78.89
+07-11-2026,Ramanathapuram,Enmanam Kondan,14.0,9.31,79.01
+07-11-2026,Ramanathapuram,Therpogi,1.2,9.39,78.93
+07-11-2026,Ramanathapuram,Perunkulam,46.4,9.34,78.95
+07-11-2026,Ramanathapuram,Landhai,42.0,9.37,78.77
+07-11-2026,Ramanathapuram,Mangalakudi,4.8,9.86,78.97
+07-11-2026,Ramanathapuram,Pullur,18.0,9.84,79.03
+07-11-2026,Ramanathapuram,Tiruvadanai,10.8,9.78,78.92
+07-11-2026,Ramanathapuram,Karugalakudi,37.6,9.77,78.99
+07-11-2026,Ramanathapuram,Sekkanthidal,29.2,9.74,78.96
+07-11-2026,Ramanathapuram,Kadaladi,6.4,9.23,78.5
+07-11-2026,Ramanathapuram,Bogalur,16.4,9.4,78.71
+07-11-2026,Ramanathapuram,Vaniyavalam,0.0,9.55,78.69
+07-11-2026,Ramanathapuram,Mandapam AWS,11.2,9.28,79.14
+07-11-2026,Ramanathapuram,Kadambakkudi,11.2,9.78,78.92
+07-11-2026,Ranipet,Kavanoor,0.0,13.11,79.69
+07-11-2026,Ranipet,Thakkolam TNDRRA ARG,1.6,13.02,79.73
+07-11-2026,Ranipet,Attupakkam,0.0,12.99,79.66
+07-11-2026,Ranipet,Paranji,0.0,13.1,79.53
+07-11-2026,Ranipet,Arcot,4.0,12.9,79.34
+07-11-2026,Ranipet,Mecheri,0.8,12.88,79.37
+07-11-2026,Ranipet,Pattanam,0.8,12.81,79.23
+07-11-2026,Ranipet,Kalavai ARG,0.4,12.75,79.41
+07-11-2026,Ranipet,Mambakkam,0.0,12.68,79.4
+07-11-2026,Ranipet,Kaveripakkam,0.4,12.9,79.46
+07-11-2026,Ranipet,Sampathurayanpet,0.0,13.02,79.64
+07-11-2026,Ranipet,Nedumpuli,0.4,12.93,79.57
+07-11-2026,Ranipet,Kodaikkal,0.0,13.07,79.41
+07-11-2026,Ranipet,Velam,0.0,12.99,79.37
+07-11-2026,Ranipet,Ranipet ARG,1.6,12.94,79.32
+07-11-2026,Ranipet,Arunkundram,6.4,12.88,79.26
+07-11-2026,Ranipet,Walajah TNDRRA ARG,11.6,12.93,79.36
+07-11-2026,Ranipet,Pudupadi,0.0,12.86,79.37
+07-11-2026,Ranipet,Kavanur,0.0,12.84,79.27
+07-11-2026,Ranipet,Kaveripakkam Lake,0.0,12.95,79.46
+07-11-2026,Ranipet,Nemili TNDRRA AWS,0.0,12.99,79.62
+07-11-2026,Salem,Thandavarayapuram,0.8,11.59,78.56
+07-11-2026,Salem,Edappadi ARG,3.6,11.58,77.85
+07-11-2026,Salem,Konganapuram,1.6,11.57,77.9
+07-11-2026,Salem,Pappampadi,22.4,11.64,77.94
+07-11-2026,Salem,Chittoor (Salem),14.8,11.64,77.82
+07-11-2026,Salem,Pallakkadu,6.0,11.53,78.65
+07-11-2026,Salem,Belur,14.8,11.42,78.57
+07-11-2026,Salem,Pachamalai Hills,0.4,11.33,78.56
+07-11-2026,Salem,Veppadai,0.0,11.38,78.65
+07-11-2026,Salem,Veppilai,0.4,11.96,78.15
+07-11-2026,Salem,Gundukkal,0.0,11.91,78.13
+07-11-2026,Salem,Ponnampalayam,1.6,11.95,78.21
+07-11-2026,Salem,Konakapadi,0.8,11.89,78.04
+07-11-2026,Salem,Poosaripatti,0.0,11.84,78.07
+07-11-2026,Salem,Kaveripuram,0.0,11.91,77.71
+07-11-2026,Salem,Alamarathupatti,0.0,11.84,77.75
+07-11-2026,Salem,Lakkampatti,5.6,11.84,77.66
+07-11-2026,Salem,Nangavalli,14.4,11.75,77.88
+07-11-2026,Salem,Vanavasi,0.4,11.73,77.87
+07-11-2026,Salem,Pottaneri,0.0,11.82,77.89
+07-11-2026,Salem,Karupur,1.6,11.71,78.09
+07-11-2026,Salem,K.R. Thoppur,10.0,11.68,78.01
+07-11-2026,Salem,Karumandurai,6.4,11.82,78.63
+07-11-2026,Salem,Kunnur,16.8,11.72,78.62
+07-11-2026,Salem,Erramasamuthiram,9.6,11.65,78.52
+07-11-2026,Salem,Edaiyappatty,1.6,11.75,78.49
+07-11-2026,Salem,Panamarathupatti,0.8,11.56,78.16
+07-11-2026,Salem,Kamalapatti,8.8,11.59,78.28
+07-11-2026,Salem,Udayapatty,0.4,11.67,78.21
+07-11-2026,Salem,Valasaiyur,0.8,11.7,78.25
+07-11-2026,Salem,Selliyampalayam,14.0,11.56,78.01
+07-11-2026,Salem,Vadugappatty,2.0,11.48,77.92
+07-11-2026,Salem,Katheri,0.0,11.46,77.73
+07-11-2026,Salem,Koneripatti,10.4,11.52,77.74
+07-11-2026,Salem,Veerapandi,2.8,11.59,78.08
+07-11-2026,Salem,Alagapuram,0.0,11.67,78.12
+07-11-2026,Salem,Majaragollappatti,0.8,11.67,78.06
+07-11-2026,Salem,Deviyakurichi,2.0,11.58,78.74
+07-11-2026,Salem,Siruvachur,1.6,11.64,78.75
+07-11-2026,Salem,Belur,2.4,11.7,78.41
+07-11-2026,Salem,Kottimadava,0.4,11.82,78.42
+07-11-2026,Salem,Karipatti,0.4,11.67,78.28
+07-11-2026,Salem,Singipuram,15.2,11.63,78.41
+07-11-2026,Salem,Yercaud Kombuthukki,0.0,11.85,78.3
+07-11-2026,Salem,Yercaud Manjakuttai,2.0,11.82,78.24
+07-11-2026,Salem,Yercaud Gundur,2.0,11.75,78.2
+07-11-2026,Salem,Yarikadandipatti,0.0,11.6,77.9
+07-11-2026,Salem,Pakkanadu,0.0,11.67,77.79
+07-11-2026,Salem,Mecheri,0.0,11.83,77.94
+07-11-2026,Salem,Omalur AWS,0.0,11.74,78.04
+07-11-2026,Salem,Desavilakku,10.4,11.65,77.97
+07-11-2026,Salem,Kandanpalayam,2.8,11.57,77.97
+07-11-2026,Salem,Sankari,0.0,11.48,77.87
+07-11-2026,Salem,Kadathur Agraha,14.8,11.58,78.04
+07-11-2026,Salem,Sarkar Valapady,0.8,11.66,78.4
+07-11-2026,Sivagangai,Devakottai,4.0,9.97,78.8
+07-11-2026,Sivagangai,Perattukottai,7.2,10.0,78.81
+07-11-2026,Sivagangai,Thitakottai,0.0,9.85,78.86
+07-11-2026,Sivagangai,Selugai,0.0,9.76,78.88
+07-11-2026,Sivagangai,Marani,0.0,9.85,78.74
+07-11-2026,Sivagangai,Salaigramam,0.0,9.61,78.71
+07-11-2026,Sivagangai,Sooranam,0.0,9.69,78.72
+07-11-2026,Sivagangai,Thayamangalam,0.0,9.69,78.6
+07-11-2026,Sivagangai,Satharasankottai,0.0,9.76,78.53
+07-11-2026,Sivagangai,Kollangudi,0.4,9.86,78.6
+07-11-2026,Sivagangai,Nattarasankottai,0.4,9.87,78.55
+07-11-2026,Sivagangai,Kallal,0.0,9.99,78.66
+07-11-2026,Sivagangai,Aranmanai Siruvayal,0.0,9.96,78.66
+07-11-2026,Sivagangai,Amaravathi Pudur,0.0,10.02,78.77
+07-11-2026,Sivagangai,Pallathur,0.0,10.15,78.8
+07-11-2026,Sivagangai,Sakkottai,5.6,10.1,78.85
+07-11-2026,Sivagangai,Vediyarenthal,1.2,9.64,78.48
+07-11-2026,Sivagangai,Muthanendal,0.0,9.75,78.39
+07-11-2026,Sivagangai,Manamadurai,1.6,9.71,78.46
+07-11-2026,Sivagangai,Vaiyapuripatti,0.0,10.21,78.46
+07-11-2026,Sivagangai,A.Melaiyur,0.0,10.11,78.49
+07-11-2026,Sivagangai,Erumaipatti,0.0,10.07,78.49
+07-11-2026,Sivagangai,Muraiyur,0.0,10.15,78.5
+07-11-2026,Sivagangai,Ulagampatti,4.4,10.33,78.5
+07-11-2026,Sivagangai,Okkur,0.4,9.94,78.52
+07-11-2026,Sivagangai,Thamarakki,0.0,9.92,78.38
+07-11-2026,Sivagangai,Melachalur,0.0,9.93,78.46
+07-11-2026,Sivagangai,Kadaneri,4.0,9.96,78.57
+07-11-2026,Sivagangai,Kottagudi,0.0,9.85,78.46
+07-11-2026,Sivagangai,Mudikandam,0.0,9.88,78.39
+07-11-2026,Sivagangai,Konthagai,0.0,9.84,78.18
+07-11-2026,Sivagangai,Thiruppuvanam,0.0,9.82,78.27
+07-11-2026,Sivagangai,Ilayathangudi,4.8,10.2,78.65
+07-11-2026,Sivagangai,Nachiyapuram,0.0,10.08,78.67
+07-11-2026,Sivagangai,Nerkuppai,0.8,10.22,78.54
+07-11-2026,Sivagangai,Thirukostiyur,0.0,10.06,78.56
+07-11-2026,Sivagangai,Thiruppathur,0.0,10.11,78.6
+07-11-2026,Sivagangai,Kalaiyarkovil,0.0,9.85,78.63
+07-11-2026,Sivagangai,Thiruppuvanam AWS,0.0,9.82,78.27
+07-11-2026,Tenkasi,Maranthai,0.0,8.82,77.57
+07-11-2026,Tenkasi,Nallur,23.6,8.86,77.52
+07-11-2026,Tenkasi,Nettur,8.4,8.91,77.54
+07-11-2026,Tenkasi,Vennilingapuram,20.8,8.94,77.57
+07-11-2026,Tenkasi,Kuthapanjan,28.4,8.83,77.47
+07-11-2026,Tenkasi,Kallampuli,4.4,9.04,77.41
+07-11-2026,Tenkasi,Periyasamypuram,14.0,9.11,77.42
+07-11-2026,Tenkasi,Chockampatti,17.2,9.13,77.36
+07-11-2026,Tenkasi,Kadayanallur,20.0,9.07,77.35
+07-11-2026,Tenkasi,Puliyangudi,6.4,9.17,77.4
+07-11-2026,Tenkasi,Karivalamvanthanallur,31.6,9.27,77.55
+07-11-2026,Tenkasi,Sankarankovil ARG,10.0,9.18,77.55
+07-11-2026,Tenkasi,Kalappakulam,10.4,9.1,77.49
+07-11-2026,Tenkasi,Shencotttai ARG,25.2,8.97,77.25
+07-11-2026,Tenkasi,Kadaloor,6.8,9.28,77.46
+07-11-2026,Tenkasi,Nelkattum Seval,4.8,9.24,77.46
+07-11-2026,Tenkasi,Pothigai Solai,3.6,9.28,77.37
+07-11-2026,Tenkasi,Naranapuram,3.6,9.27,77.4
+07-11-2026,Tenkasi,Pathanpillai Kudiyrippu,52.0,8.79,77.31
+07-11-2026,Tenkasi,Sivasailam,35.2,8.78,77.35
+07-11-2026,Tenkasi,Alwarkurichi,48.0,8.79,77.38
+07-11-2026,Tenkasi,Govindaperi,2.8,8.82,77.34
+07-11-2026,Tenkasi,Avudaiyanur,5.2,8.87,77.39
+07-11-2026,Tenkasi,Kutralam,3.2,8.93,77.27
+07-11-2026,Tenkasi,Azagapuri,2.4,9.22,77.62
+07-11-2026,Tenkasi,Pazhankottai,17.2,9.13,77.69
+07-11-2026,Tenkasi,Tiruvengadam,2.0,9.27,77.67
+07-11-2026,Tenkasi,Vellakulam,0.0,9.24,77.67
+07-11-2026,Tenkasi,Navaneethakrishnapuram,2.0,9.01,77.51
+07-11-2026,Tenkasi,Balapathiramapuram,6.0,9.05,77.58
+07-11-2026,Tenkasi,Veerakeralampudhur,3.2,8.93,77.45
+07-11-2026,Tenkasi,Alangulam,15.2,8.87,77.49
+07-11-2026,Tenkasi,Kilakadayam,19.6,8.84,77.37
+07-11-2026,Tenkasi,Tenkasi ARG,0.0,8.97,77.3
+07-11-2026,Thanjavur,Agarapettai,0.0,10.85,78.91
+07-11-2026,Thanjavur,Veeramarasampettai,3.6,10.76,78.96
+07-11-2026,Thanjavur,Perumandi,4.8,10.98,79.38
+07-11-2026,Thanjavur,Nachiyarkovil,0.0,10.92,79.45
+07-11-2026,Thanjavur,Palanputhur,0.0,10.61,79.27
+07-11-2026,Thanjavur,Pinnaiyur,0.0,10.58,79.23
+07-11-2026,Thanjavur,Pachur,5.6,10.62,79.15
+07-11-2026,Thanjavur,Thirumangalakkottai Malaiyur,0.0,10.59,79.32
+07-11-2026,Thanjavur,Kabisthalam,7.2,10.94,79.25
+07-11-2026,Thanjavur,Saliyamangalam,0.0,10.78,79.27
+07-11-2026,Thanjavur,Keelakurichi,0.4,10.54,79.42
+07-11-2026,Thanjavur,Athambai,0.0,10.45,79.26
+07-11-2026,Thanjavur,Adirampattinam TNDRRA ARG,0.0,10.34,79.39
+07-11-2026,Thanjavur,Ottankaduukkadai,0.0,10.35,79.25
+07-11-2026,Thanjavur,Thuvarankurichi,4.0,10.4,79.38
+07-11-2026,Thanjavur,Periyanayagipuram,0.0,10.33,79.14
+07-11-2026,Thanjavur,Nattanikkottai,0.0,10.29,79.21
+07-11-2026,Thanjavur,Perumagalur,8.8,10.2,79.2
+07-11-2026,Thanjavur,Mathur,17.6,10.88,79.16
+07-11-2026,Thanjavur,Neelagiri,2.4,10.76,79.1
+07-11-2026,Thanjavur,Vallam ARG,0.4,10.72,79.06
+07-11-2026,Thanjavur,Kandiyur,9.2,10.86,79.11
+07-11-2026,Thanjavur,Naducauvery,2.4,10.86,79.04
+07-11-2026,Thanjavur,Maruthuvakudi,8.4,11.02,79.49
+07-11-2026,Thanjavur,Mullukudi,6.8,11.09,79.53
+07-11-2026,Thanjavur,Veppathur,5.6,11.01,79.43
+07-11-2026,Thanjavur,Vettikadu,0.0,10.57,79.2
+07-11-2026,Thanjavur,Krishnapuram,0.0,10.36,79.18
+07-11-2026,Thanjavur,Kuruvikarambai,0.0,10.29,79.25
+07-11-2026,Theni,Thimmarasanayakkanur,32.4,10.0,77.68
+07-11-2026,Theni,Gandamanur,0.0,9.92,77.52
+07-11-2026,Theni,Mayiladumparai,12.8,9.74,77.52
+07-11-2026,Theni,Kadamalaikundu,8.8,9.81,77.5
+07-11-2026,Theni,Kumananthoulu,2.0,9.76,77.48
+07-11-2026,Theni,Varusanadu,10.0,9.73,77.52
+07-11-2026,Theni,Balakombai,18.0,9.9,77.62
+07-11-2026,Theni,Bodimettu Hills,5.6,10.02,77.26
+07-11-2026,Theni,Bodinayakkanur,8.4,10.0,77.35
+07-11-2026,Theni,Uppukottai,1.2,9.96,77.41
+07-11-2026,Theni,Meenatchipuram,0.0,9.99,77.37
+07-11-2026,Theni,Endapulli Pudhupatti,4.4,10.13,77.58
+07-11-2026,Theni,Genguvarpatti,0.4,10.17,77.69
+07-11-2026,Theni,Dewathanpatti,1.2,10.15,77.64
+07-11-2026,Theni,Lakshmipuram,3.6,10.07,77.51
+07-11-2026,Theni,Theni,0.4,10.02,77.48
+07-11-2026,Theni,Aranmanai Pudhur,18.0,10.0,77.49
+07-11-2026,Theni,Chinnaovalapuram,7.2,9.79,77.38
+07-11-2026,Theni,Cumbum ARG,1.6,9.73,77.28
+07-11-2026,Theni,Surulipatti,0.0,9.71,77.3
+07-11-2026,Theni,Markaiyankottai,1.2,9.85,77.36
+07-11-2026,Theni,Pannaipuram,3.6,9.87,77.28
+07-11-2026,Theni,Thevaram,6.4,9.89,77.28
+07-11-2026,Theni,Mela Gudalur,0.0,9.63,77.2
+07-11-2026,Theni,Suruliyar Hydroelectric Power Plant,0.4,9.63,77.27
+07-11-2026,Theni,Uthamapalayam ARG,0.8,9.81,77.33
+07-11-2026,Theni,Vadaveeranaickenpatty,1.2,10.01,77.5
+07-11-2026,Thiruchirappalli,Kallakudi (Trichy),0.4,10.98,78.95
+07-11-2026,Thiruchirappalli,Malvoy,0.0,11.05,78.96
+07-11-2026,Thiruchirappalli,Komakudi,0.0,10.9,78.88
+07-11-2026,Thiruchirappalli,Adikudi,0.0,10.87,78.86
+07-11-2026,Thiruchirappalli,Peruvalapur,0.0,11.01,78.87
+07-11-2026,Thiruchirappalli,Pullambadi,0.8,10.95,78.91
+07-11-2026,Thiruchirappalli,Samuthiram,0.0,10.65,78.49
+07-11-2026,Thiruchirappalli,Kottapatti,3.2,10.66,78.41
+07-11-2026,Thiruchirappalli,Vaiyampatti,6.4,10.55,78.29
+07-11-2026,Thiruchirappalli,Thangammapatty,0.0,10.5,78.18
+07-11-2026,Thiruchirappalli,Aniyapur,0.0,10.67,78.33
+07-11-2026,Thiruchirappalli,Ayanporuvai,0.0,10.41,78.48
+07-11-2026,Thiruchirappalli,Thuvarankurichi,6.8,10.38,78.39
+07-11-2026,Thiruchirappalli,Thethur,0.8,10.32,78.36
+07-11-2026,Thiruchirappalli,Kannuthu,2.8,10.47,78.27
+07-11-2026,Thiruchirappalli,Ikkaraikosikurichi,0.0,10.36,78.31
+07-11-2026,Thiruchirappalli,Edumalai,0.8,11.05,78.73
+07-11-2026,Thiruchirappalli,Irungalur,0.0,10.94,78.76
+07-11-2026,Thiruchirappalli,Thirupainjeeli,17.6,10.94,78.64
+07-11-2026,Thiruchirappalli,Amur,4.8,10.91,78.55
+07-11-2026,Thiruchirappalli,Sukkampatti,0.0,11.0,78.57
+07-11-2026,Thiruchirappalli,Musiri,0.0,10.95,78.45
+07-11-2026,Thiruchirappalli,Pulivalam,0.0,11.01,78.64
+07-11-2026,Thiruchirappalli,Thumbalam,0.0,11.03,78.43
+07-11-2026,Thiruchirappalli,Anjalam,0.4,11.08,78.4
+07-11-2026,Thiruchirappalli,Thathaiyangarpet ARG,4.8,11.12,78.45
+07-11-2026,Thiruchirappalli,Ayilapettai,0.4,10.84,78.58
+07-11-2026,Thiruchirappalli,Thayanur,8.0,10.79,78.58
+07-11-2026,Thiruchirappalli,Mattapparai Patti,1.2,10.73,78.63
+07-11-2026,Thiruchirappalli,Woraiyur,0.0,10.83,78.66
+07-11-2026,Thiruchirappalli,Elupatti,0.0,11.05,78.27
+07-11-2026,Thiruchirappalli,Unniyur,0.0,11.0,78.18
+07-11-2026,Thiruchirappalli,Navalpattu,3.6,10.73,78.76
+07-11-2026,Thiruchirappalli,Sooriyur,0.0,10.66,78.79
+07-11-2026,Thiruchirappalli,Theneripatti,0.4,10.71,78.84
+07-11-2026,Thiruchirappalli,Thirunedunkulam,0.0,10.77,78.85
+07-11-2026,Thiruchirappalli,Vengur,1.2,10.82,78.77
+07-11-2026,Thiruchirappalli,Erakudi,0.0,11.19,78.51
+07-11-2026,Thiruchirappalli,Koneripatti,0.8,11.18,78.45
+07-11-2026,Thiruchirappalli,Naduvalur,0.0,11.1,78.65
+07-11-2026,Thiruchirappalli,Sengatupatti,0.0,11.2,78.65
+07-11-2026,Thiruchirappalli,Govindapuram,0.4,11.17,78.6
+07-11-2026,Thiruvarur,Koothanallur,4.4,10.72,79.52
+07-11-2026,Thiruvarur,Kamalapuram,3.6,10.74,79.58
+07-11-2026,Thiruvarur,Vadapathimangalam,2.8,10.7,79.58
+07-11-2026,Thiruvarur,Vadugakudi,0.0,10.95,79.59
+07-11-2026,Thiruvarur,Mazhavarayanallur,6.0,10.65,79.51
+07-11-2026,Thiruvarur,Mannudi,2.0,10.67,79.45
+07-11-2026,Thiruvarur,Kandithampettai,0.8,10.6,79.43
+07-11-2026,Thiruvarur,Udayamarthandapuram,0.0,10.44,79.56
+07-11-2026,Thiruvarur,Therku Kadu,16.4,10.42,79.6
+07-11-2026,Thiruvarur,Muthupettai ARG,2.8,10.4,79.5
+07-11-2026,Thiruvarur,Kollapuram,30.0,10.95,79.71
+07-11-2026,Thiruvarur,Peralam,27.2,10.96,79.66
+07-11-2026,Thiruvarur,Arichapuram,0.8,10.71,79.47
+07-11-2026,Thiruvarur,Thaplampuliyur,14.0,10.74,79.66
+07-11-2026,Thiruvarur,Manakkal,0.0,10.82,79.57
+07-11-2026,Thiruvarur,Alathampadi,0.0,10.61,79.66
+07-11-2026,Thiruvarur,Edaiyur,8.4,10.47,79.59
+07-11-2026,Thiruvarur,Alangudi (Thiruvarur),3.6,10.83,79.4
+07-11-2026,Thiruvarur,Aavoor,3.6,10.9,79.33
+07-11-2026,Thiruvarur,Melathichamangalam,3.6,10.81,79.48
+07-11-2026,Thiruvarur,Thekkukadu,0.0,10.41,79.49
+07-11-2026,Thiruvarur,Muddikondan,8.0,10.89,79.64
+07-11-2026,Thiruvarur,Abivirutheeswaram,0.0,10.79,79.48
+07-11-2026,Thiruvarur,Tiruvarur,2.0,10.77,79.63
+07-11-2026,Thiruvarur,Thiruthuraipoondi AWS,0.0,10.54,79.63
+07-11-2026,Thoothukudi,Themangulam,0.0,8.59,77.96
+07-11-2026,Thoothukudi,Eral,0.0,8.63,78.02
+07-11-2026,Thoothukudi,Cholapuram,10.0,9.05,78.03
+07-11-2026,Thoothukudi,Kadalaiyur,4.4,9.2,77.94
+07-11-2026,Thoothukudi,Muthulapuram,4.8,9.24,78.03
+07-11-2026,Thoothukudi,Masarpatti,3.6,9.29,78.04
+07-11-2026,Thoothukudi,Padarnthapuli,0.0,9.14,78.04
+07-11-2026,Thoothukudi,Chettikurichi,3.2,9.06,77.75
+07-11-2026,Thoothukudi,Vanaramutti,4.4,9.14,77.79
+07-11-2026,Thoothukudi,Kurumalai,9.2,9.05,77.86
+07-11-2026,Thoothukudi,Kamanaicanpatti,3.2,9.08,77.94
+07-11-2026,Thoothukudi,Akilandapuram,13.6,8.98,77.8
+07-11-2026,Thoothukudi,Pannikulam,30.4,8.95,77.82
+07-11-2026,Thoothukudi,Ilaiyarasanenthal,8.4,9.22,77.79
+07-11-2026,Thoothukudi,Uthupattti,8.8,9.11,77.85
+07-11-2026,Thoothukudi,Kovilpatti TNDRRA ARG,9.2,9.17,77.87
+07-11-2026,Thoothukudi,Melapandiyapuram,0.0,8.86,77.94
+07-11-2026,Thoothukudi,Ottapidaram ARG,26.0,8.91,78.02
+07-11-2026,Thoothukudi,Araikulam,0.0,8.92,77.97
+07-11-2026,Thoothukudi,Naraikinaru,7.6,8.86,77.84
+07-11-2026,Thoothukudi,Pasuvanthanai,0.4,9.0,77.96
+07-11-2026,Thoothukudi,Vedanatham,0.0,8.97,78.15
+07-11-2026,Thoothukudi,Thattarmadam,12.8,8.37,77.94
+07-11-2026,Thoothukudi,Nedunkulam,12.8,8.46,77.86
+07-11-2026,Thoothukudi,Pannamparai,24.0,8.46,77.94
+07-11-2026,Thoothukudi,Seydunganallur,0.0,8.67,77.83
+07-11-2026,Thoothukudi,Cherakulam,60.8,8.57,77.82
+07-11-2026,Thoothukudi,Srivaikuntam ARG,0.4,8.63,77.91
+07-11-2026,Thoothukudi,Vallanadu,21.2,8.72,77.85
+07-11-2026,Thoothukudi,Keelathattaparai,8.8,8.8,78.03
+07-11-2026,Thoothukudi,Vagaikulam,20.4,8.74,78.0
+07-11-2026,Thoothukudi,Puthukottai (Thoothukudi),39.2,8.74,78.05
+07-11-2026,Thoothukudi,Thoothukudi TNDRRA ARG,11.6,8.8,78.14
+07-11-2026,Thoothukudi,Davispuram,8.0,8.84,78.15
+07-11-2026,Thoothukudi,Kayalpattinam,12.4,8.57,78.12
+07-11-2026,Thoothukudi,Mela Tiruchendur,0.0,8.49,78.07
+07-11-2026,Thoothukudi,Ammanpuram,13.6,8.56,78.06
+07-11-2026,Thoothukudi,Paramankurichi,24.4,8.48,78.04
+07-11-2026,Thoothukudi,Manapadu,28.8,8.37,78.06
+07-11-2026,Thoothukudi,Madhalapuram,0.0,9.27,78.22
+07-11-2026,Thoothukudi,Kadalkudi,22.4,9.21,78.24
+07-11-2026,Thoothukudi,Kulathur,26.4,9.0,78.19
+07-11-2026,Thoothukudi,Nagalapuram,0.0,9.23,78.14
+07-11-2026,Thoothukudi,Mettilpatti,2.0,9.33,78.09
+07-11-2026,Thoothukudi,Sivagnanapuram,22.4,9.06,78.09
+07-11-2026,Thoothukudi,Vembar,8.4,9.08,78.36
+07-11-2026,Thoothukudi,Surangudi,24.4,9.11,78.32
+07-11-2026,Thoothukudi,Ariyanayaki Puram,38.0,9.11,78.25
+07-11-2026,Thoothukudi,Kuralayampatti,0.4,9.12,78.2
+07-11-2026,Thoothukudi,Kayathar AWS,31.2,8.95,77.77
+07-11-2026,Tirunelveli,Kadana Nathi Dam,31.2,8.8,77.31
+07-11-2026,Tirunelveli,Vikramasingapuram,50.4,8.71,77.36
+07-11-2026,Tirunelveli,Singampatti,24.8,8.67,77.45
+07-11-2026,Tirunelveli,South Veeravanallur,9.6,8.66,77.51
+07-11-2026,Tirunelveli,Pappakudi,23.6,8.75,77.5
+07-11-2026,Tirunelveli,Kattarankulam,26.8,8.91,77.68
+07-11-2026,Tirunelveli,Manur,46.0,8.86,77.65
+07-11-2026,Tirunelveli,Vagaikulam,25.2,8.91,77.63
+07-11-2026,Tirunelveli,Devarkulam,12.8,8.96,77.63
+07-11-2026,Tirunelveli,Vanniconendal,5.2,9.0,77.63
+07-11-2026,Tirunelveli,Eruvadi,16.4,8.43,77.6
+07-11-2026,Tirunelveli,Oochikulam,11.2,8.5,77.58
+07-11-2026,Tirunelveli,Nambi Kovil,8.0,8.43,77.5
+07-11-2026,Tirunelveli,Idaiyankulam,5.6,8.58,77.58
+07-11-2026,Tirunelveli,Vadakkupachaiyar Dam,6.8,8.54,77.52
+07-11-2026,Tirunelveli,Vadakarai,7.2,8.54,77.55
+07-11-2026,Tirunelveli,Muninjipatti,24.8,8.51,77.8
+07-11-2026,Tirunelveli,Perumpathu,20.4,8.49,77.65
+07-11-2026,Tirunelveli,Panankulam,32.4,8.56,77.67
+07-11-2026,Tirunelveli,Melapattam,8.8,8.76,77.78
+07-11-2026,Tirunelveli,Muneerpallam,1.6,8.68,77.7
+07-11-2026,Tirunelveli,Kokkirakulam,6.4,8.73,77.72
+07-11-2026,Tirunelveli,Sivanthipatti,0.0,8.64,77.78
+07-11-2026,Tirunelveli,Karungulam,6.0,8.17,77.58
+07-11-2026,Tirunelveli,Erukandurai,3.6,8.19,77.65
+07-11-2026,Tirunelveli,Chettikulam,4.8,8.16,77.62
+07-11-2026,Tirunelveli,Rosemiyapuarm,15.2,8.35,77.56
+07-11-2026,Tirunelveli,Thiruvanbalapuram,8.4,8.25,77.78
+07-11-2026,Tirunelveli,Aanikulam,16.8,8.4,77.67
+07-11-2026,Tirunelveli,Valliyoor,16.8,8.39,77.61
+07-11-2026,Tirunelveli,Tisayanvillai,13.2,8.34,77.87
+07-11-2026,Tirunelveli,Kuttam,18.0,8.32,77.94
+07-11-2026,Tirunelveli,Saturangam,12.8,8.31,77.76
+07-11-2026,Tirunelveli,Idayangudi,6.8,8.31,77.88
+07-11-2026,Tirunelveli,North Vijayanarayanam,12.0,8.42,77.79
+07-11-2026,Tirunelveli,Mannarpuram,13.6,8.37,77.81
+07-11-2026,Tirunelveli,Ittamozhi,20.0,8.39,77.85
+07-11-2026,Tirunelveli,Gangaikondan Lake,7.6,8.84,77.79
+07-11-2026,Tirunelveli,Seetharpanallur,13.2,8.79,77.6
+07-11-2026,Tirunelveli,Suthamalli,10.0,8.7,77.63
+07-11-2026,Tirupathur,Nachiyarkuppam,0.0,12.73,78.71
+07-11-2026,Tirupathur,Madhanur,1.6,12.87,78.85
+07-11-2026,Tirupathur,Venkatasamuthiram,4.0,12.8,78.69
+07-11-2026,Tirupathur,Pachur,0.4,12.59,78.46
+07-11-2026,Tirupathur,Bandarapalli,0.8,12.57,78.5
+07-11-2026,Tirupathur,Yelagiri Hills,6.0,12.58,78.65
+07-11-2026,Tirupathur,Sundarampalli,2.0,12.41,78.45
+07-11-2026,Tirupathur,Koratti,10.0,12.43,78.56
+07-11-2026,Tirupathur,Jawadhu Hills,11.2,12.4,78.69
+07-11-2026,Tirupathur,SingamPalayam,2.8,12.48,78.66
+07-11-2026,Tirupathur,Tirupattur TNDRRA ARG,0.4,12.5,78.57
+07-11-2026,Tirupathur,Beemakulam,0.4,12.58,78.81
+07-11-2026,Tirupathur,Ambalur,0.0,12.67,78.56
+07-11-2026,Tirupathur,Girisamuthiram,0.0,12.7,78.65
+07-11-2026,Tirupathur,Vaniyambadi,1.2,12.68,78.62
+07-11-2026,Tiruppur,Kodumanal,0.0,11.09,77.51
+07-11-2026,Tiruppur,Avinashi (East),12.0,11.19,77.27
+07-11-2026,Tiruppur,Thirumurugan Poondi,10.4,11.16,77.31
+07-11-2026,Tiruppur,Karuvalur,6.0,11.21,77.19
+07-11-2026,Tiruppur,Punjaithamaraikulam,24.0,11.27,77.28
+07-11-2026,Tiruppur,Sevur,14.8,11.25,77.24
+07-11-2026,Tiruppur,Alangiyam,0.0,10.65,77.49
+07-11-2026,Tiruppur,Nallampalayam,0.8,10.74,77.62
+07-11-2026,Tiruppur,Kolathupalayam,0.0,10.76,77.58
+07-11-2026,Tiruppur,Dharapuram ARG,0.0,10.73,77.53
+07-11-2026,Tiruppur,Kannivadi,9.6,10.81,77.78
+07-11-2026,Tiruppur,Manurpalyam,7.6,10.81,77.33
+07-11-2026,Tiruppur,Erakampatti,9.2,10.83,77.39
+07-11-2026,Tiruppur,Kundadam ARG,6.4,10.85,77.45
+07-11-2026,Tiruppur,Madathupalayam,0.0,10.77,77.49
+07-11-2026,Tiruppur,Govindhapuram,0.0,10.71,77.42
+07-11-2026,Tiruppur,Sankarandapalayam,0.0,10.83,77.59
+07-11-2026,Tiruppur,Thottiyapalayam,2.4,10.84,77.63
+07-11-2026,Tiruppur,Thammareddipalayam,0.0,11.09,77.51
+07-11-2026,Tiruppur,Kangeyam ARG,3.6,10.99,77.53
+07-11-2026,Tiruppur,Nathakadaiyur,2.0,11.09,77.66
+07-11-2026,Tiruppur,Thittampalayam,4.0,11.1,77.56
+07-11-2026,Tiruppur,Keetapalayam,2.4,11.08,77.69
+07-11-2026,Tiruppur,Uthiyur,6.0,10.89,77.53
+07-11-2026,Tiruppur,Vellakovil ARG,8.0,10.95,77.72
+07-11-2026,Tiruppur,Uthamapalayam (Tiruppur),0.4,10.9,77.67
+07-11-2026,Tiruppur,Olappalayam,1.2,10.96,77.64
+07-11-2026,Tiruppur,Valliyarachal,0.4,11.01,77.68
+07-11-2026,Tiruppur,Madathukulam,0.0,10.56,77.36
+07-11-2026,Tiruppur,Karatholuvu,0.0,10.62,77.38
+07-11-2026,Tiruppur,Thungavi,0.0,10.63,77.33
+07-11-2026,Tiruppur,Arulpuram,1.2,11.04,77.31
+07-11-2026,Tiruppur,Panikampatti,4.4,10.97,77.25
+07-11-2026,Tiruppur,Velarasikallipalayam,14.4,10.91,77.38
+07-11-2026,Tiruppur,Kethanur,6.0,10.91,77.26
+07-11-2026,Tiruppur,Elavanthi,10.0,10.92,77.31
+07-11-2026,Tiruppur,Kottaimuttampalayam,3.6,10.94,77.3
+07-11-2026,Tiruppur,Kombakadu Pudur,2.4,11.05,77.19
+07-11-2026,Tiruppur,Nallur,2.0,11.1,77.39
+07-11-2026,Tiruppur,Koduvai,5.2,10.94,77.44
+07-11-2026,Tiruppur,Kandiankoil,5.2,11.01,77.47
+07-11-2026,Tiruppur,Amaravathy Dam ARG,0.0,10.43,77.26
+07-11-2026,Tiruppur,Elayamuthur,0.0,10.49,77.3
+07-11-2026,Tiruppur,Manupatti,0.0,10.49,77.24
+07-11-2026,Tiruppur,Pallapalayam,0.0,10.53,77.22
+07-11-2026,Tiruppur,Pethappampatti,0.0,10.68,77.22
+07-11-2026,Tiruppur,Karattumadam,0.0,10.54,77.1
+07-11-2026,Tiruppur,Thirumoorthy Dam ARG,2.4,10.49,77.15
+07-11-2026,Tiruppur,Kunnathur,44.8,11.27,77.41
+07-11-2026,Tiruvallur,Elavur,1.2,13.46,80.12
+07-11-2026,Tiruvallur,Peddikuppam,0.0,13.42,80.13
+07-11-2026,Tiruvallur,Madharpakkam,30.8,13.44,80.0
+07-11-2026,Tiruvallur,Sepedu,0.0,13.35,80.04
+07-11-2026,Tiruvallur,Gnayiru,0.4,13.26,80.22
+07-11-2026,Tiruvallur,Thiruvellavoyal,0.4,13.34,80.28
+07-11-2026,Tiruvallur,Naravarikuppam,5.2,13.36,80.19
+07-11-2026,Tiruvallur,Redhills TNDRRA ARG,12.8,13.2,80.19
+07-11-2026,Tiruvallur,Thirupalaivanam,0.0,13.4,80.25
+07-11-2026,Tiruvallur,Erumbi,5.2,13.12,79.4
+07-11-2026,Tiruvallur,Mappedu,0.0,13.03,79.86
+07-11-2026,Tiruvallur,Velliyur,0.0,13.22,80.01
+07-11-2026,Tiruvallur,Melnallathur TNDRRA ARG,0.0,13.09,79.91
+07-11-2026,Tiruvallur,Suryanagaram,0.0,13.2,79.57
+07-11-2026,Tiruvallur,K.G.Kandigai,0.0,13.18,79.51
+07-11-2026,Tiruvallur,Lakshmapuram,0.0,13.21,79.7
+07-11-2026,Tiruvallur,Kanagamachatram TNDRRA ARG,2.4,13.21,79.75
+07-11-2026,Tiruvallur,Manavur,0.0,13.1,79.8
+07-11-2026,Tiruvallur,Nallatur,0.0,13.27,79.65
+07-11-2026,Tiruvallur,Periapalayam AWS,0.0,13.31,80.04
+07-11-2026,Tiruvannamalai,Agrapalayam,0.0,12.71,79.25
+07-11-2026,Tiruvannamalai,Arani ARG,0.0,12.67,79.28
+07-11-2026,Tiruvannamalai,Sathiyavijayanagaram,0.0,12.68,79.31
+07-11-2026,Tiruvannamalai,Devikapuram,0.0,12.5,79.25
+07-11-2026,Tiruvannamalai,Periya Kozhappalur,0.0,12.55,79.35
+07-11-2026,Tiruvannamalai,Nedungunam,3.2,12.46,79.37
+07-11-2026,Tiruvannamalai,Chengam ARG,0.4,12.31,78.79
+07-11-2026,Tiruvannamalai,Alaputhur,1.2,12.35,78.79
+07-11-2026,Tiruvannamalai,Nayambadi,0.0,12.38,79.01
+07-11-2026,Tiruvannamalai,Eraiyur,0.8,12.28,78.89
+07-11-2026,Tiruvannamalai,Andipatti (Tiruvannamalai),0.0,12.22,78.74
+07-11-2026,Tiruvannamalai,Elangunni,1.2,12.14,78.68
+07-11-2026,Tiruvannamalai,Pinjur,0.4,12.27,78.86
+07-11-2026,Tiruvannamalai,Aratavadi,0.0,12.23,78.8
+07-11-2026,Tiruvannamalai,Paliyapattu,0.0,12.27,78.99
+07-11-2026,Tiruvannamalai,Kanji,8.0,12.38,78.97
+07-11-2026,Tiruvannamalai,Arukavoor,2.8,12.64,79.54
+07-11-2026,Tiruvannamalai,Thethurai,8.8,12.61,79.63
+07-11-2026,Tiruvannamalai,Vaachanur,0.0,12.59,79.66
+07-11-2026,Tiruvannamalai,Vakkadai,0.0,12.63,79.47
+07-11-2026,Tiruvannamalai,Nammiyampattu,11.2,12.68,78.99
+07-11-2026,Tiruvannamalai,Mulakaddu,2.4,12.63,78.91
+07-11-2026,Tiruvannamalai,Puliyur,2.4,12.48,78.84
+07-11-2026,Tiruvannamalai,Jamunamarathur ARG,0.0,12.6,78.89
+07-11-2026,Tiruvannamalai,Mattavettu,9.2,12.39,78.93
+07-11-2026,Tiruvannamalai,Padagam,3.6,12.42,79.19
+07-11-2026,Tiruvannamalai,Adamangalam,1.6,12.47,78.99
+07-11-2026,Tiruvannamalai,Kilpennathur,0.0,12.25,79.22
+07-11-2026,Tiruvannamalai,Kattumalaiynur,0.8,12.19,79.17
+07-11-2026,Tiruvannamalai,Avoor,1.2,12.13,79.2
+07-11-2026,Tiruvannamalai,Kelur,0.8,12.59,79.17
+07-11-2026,Tiruvannamalai,Mandakolathur,0.0,12.52,79.2
+07-11-2026,Tiruvannamalai,Modaiyur,0.0,12.51,79.22
+07-11-2026,Tiruvannamalai,Santhavasal,0.4,12.65,79.16
+07-11-2026,Tiruvannamalai,Alliyabad,0.4,12.66,79.2
+07-11-2026,Tiruvannamalai,Thandramapattu ARG,0.0,12.16,78.94
+07-11-2026,Tiruvannamalai,Kannakandhal,6.0,12.22,78.94
+07-11-2026,Tiruvannamalai,Thenmudiyanur,0.0,12.13,78.95
+07-11-2026,Tiruvannamalai,Thanipadi,0.0,12.11,78.84
+07-11-2026,Tiruvannamalai,Pudurchekkadi,0.0,12.04,78.81
+07-11-2026,Tiruvannamalai,Vanapuram,0.0,12.11,79.02
+07-11-2026,Tiruvannamalai,Naidumangalam,1.2,12.4,79.1
+07-11-2026,Tiruvannamalai,Thurinjapuram,0.0,12.32,79.09
+07-11-2026,Tiruvannamalai,Tiruvannamalai TNDRRA ARG,0.0,12.23,79.08
+07-11-2026,Tiruvannamalai,Veraiyur,0.0,12.09,79.13
+07-11-2026,Tiruvannamalai,Vedal,0.8,12.38,79.47
+07-11-2026,Tiruvannamalai,Mazhaiyur,2.0,12.49,79.46
+07-11-2026,Tiruvannamalai,Punnai,0.0,12.44,79.66
+07-11-2026,Tiruvannamalai,Peranamallur,0.0,12.56,79.43
+07-11-2026,Tiruvannamalai,Thellar,0.0,12.41,79.55
+07-11-2026,Tiruvannamalai,Vengunam,0.0,12.52,79.6
+07-11-2026,Tiruvannamalai,Aarasoor,1.6,12.52,79.54
+07-11-2026,Tiruvannamalai,Pokkasamuthiram,4.0,12.82,79.51
+07-11-2026,Tiruvannamalai,Kunnathur,0.0,12.69,79.23
+07-11-2026,Tiruvannamalai,Cheyyar AWS,0.0,12.67,79.54
+07-11-2026,Tiruvannamalai,Thandramapattu AWS,0.0,12.16,78.94
+07-11-2026,Vellore,Melpallipattu,0.0,12.74,78.83
+07-11-2026,Vellore,Agaram,0.0,12.82,78.89
+07-11-2026,Vellore,Odugathur,2.4,12.77,78.88
+07-11-2026,Vellore,Pallikonda,4.8,12.91,78.94
+07-11-2026,Vellore,Ussoor,15.6,12.87,79.06
+07-11-2026,Vellore,Vizhuthonipalayam,0.0,13.05,78.91
+07-11-2026,Vellore,Kottamitta,0.0,13.04,78.86
+07-11-2026,Vellore,Valathur,0.0,12.88,78.83
+07-11-2026,Vellore,Kalpudur,4.4,12.99,79.13
+07-11-2026,Vellore,Melpadi,14.4,13.06,79.28
+07-11-2026,Vellore,Thiruvalam,0.0,12.98,79.27
+07-11-2026,Vellore,KV Kuppam,4.4,12.96,79.0
+07-11-2026,Vellore,Kalampattu,1.6,13.01,79.04
+07-11-2026,Vellore,Melpatti,2.0,12.86,78.79
+07-11-2026,Vellore,Ananthagiri,12.4,12.97,78.73
+07-11-2026,Vellore,Kaniyambadi,4.8,12.79,79.14
+07-11-2026,Vellore,Thuthipet,12.8,12.86,79.12
+07-11-2026,Vellore,Balamathi Hills,0.0,12.89,79.17
+07-11-2026,Vellore,Melmonavur,20.4,12.92,79.09
+07-11-2026,Vellore,Katpadi AWS,2.8,12.97,79.13
+07-11-2026,Vellore,Virupakshipuram,15.2,12.89,79.14
+07-11-2026,Villupuram,Chittampoondi,8.8,12.19,79.42
+07-11-2026,Villupuram,Mel Ollakkur,6.4,12.34,79.49
+07-11-2026,Villupuram,Pazhavalam,6.8,12.14,79.27
+07-11-2026,Villupuram,Semmedu ARG,0.0,12.24,79.28
+07-11-2026,Villupuram,Vallam (Villupuram),0.0,12.25,79.52
+07-11-2026,Villupuram,Thaiyur,0.0,12.21,79.48
+07-11-2026,Villupuram,Kandachipuram,0.0,12.04,79.31
+07-11-2026,Villupuram,Mugaiyur,0.0,11.98,79.31
+07-11-2026,Villupuram,Birammadesam,1.2,12.2,79.78
+07-11-2026,Villupuram,Siruvadi,0.0,12.21,79.84
+07-11-2026,Villupuram,Avalurpet,0.0,12.34,79.24
+07-11-2026,Villupuram,Nolambai,2.0,12.44,79.33
+07-11-2026,Villupuram,Edapattu,8.4,12.42,79.24
+07-11-2026,Villupuram,Thorapadi,7.2,12.31,79.32
+07-11-2026,Villupuram,Sathampadi,0.0,12.37,79.36
+07-11-2026,Villupuram,Arasur,7.2,11.84,79.43
+07-11-2026,Villupuram,Sithalingamadam,4.8,11.93,79.28
+07-11-2026,Villupuram,Pennaivalam,0.0,11.88,79.29
+07-11-2026,Villupuram,Thiruvennainallur ARG,0.0,11.87,79.37
+07-11-2026,Villupuram,Marangiyur,0.0,11.92,79.37
+07-11-2026,Villupuram,Avanipur,5.2,12.28,79.82
+07-11-2026,Villupuram,Mailam TNDRRA ARG,2.4,12.13,79.62
+07-11-2026,Villupuram,Pallipakkam,6.0,12.29,79.74
+07-11-2026,Villupuram,Kotteripattu,0.0,12.16,79.6
+07-11-2026,Villupuram,Perani,0.4,12.12,79.55
+07-11-2026,Villupuram,Ommandur,1.6,12.16,79.69
+07-11-2026,Villupuram,Tindivanam ARG,0.4,12.21,79.64
+07-11-2026,Villupuram,Vadasiruvalur,2.0,12.33,79.58
+07-11-2026,Villupuram,Melpakkam,0.0,12.28,79.66
+07-11-2026,Villupuram,Kiliyanur,0.0,12.11,79.74
+07-11-2026,Villupuram,Nemili (Villupuram),3.2,12.05,79.65
+07-11-2026,Villupuram,Karattai,0.8,12.13,79.82
+07-11-2026,Villupuram,Vanur,1.2,12.02,79.73
+07-11-2026,Villupuram,Mathur,0.0,12.04,79.84
+07-11-2026,Villupuram,Poothurai,0.8,11.97,79.76
+07-11-2026,Villupuram,Kakkanur,0.0,12.03,79.39
+07-11-2026,Villupuram,Anniyur,0.0,12.07,79.4
+07-11-2026,Villupuram,Nangathur,1.2,12.12,79.42
+07-11-2026,Villupuram,Vembi,0.8,12.07,79.47
+07-11-2026,Villupuram,Esalam,0.0,12.11,79.51
+07-11-2026,Villupuram,Radhapuram,4.0,12.0,79.59
+07-11-2026,Villupuram,Pakkiripalayam,0.0,11.98,79.7
+07-11-2026,Villupuram,Mundiyampakkam ARG,0.4,12.0,79.52
+07-11-2026,Villupuram,Pakkam,0.8,11.86,79.68
+07-11-2026,Villupuram,Sorappur,0.4,11.85,79.64
+07-11-2026,Villupuram,Kanai,0.0,11.96,79.42
+07-11-2026,Villupuram,Valavanur,3.6,11.92,79.58
+07-11-2026,Villupuram,Villupuram ARG,0.0,11.93,79.48
+07-11-2026,Villupuram,Melmalaiyanur,2.4,12.34,79.33
+07-11-2026,Villupuram,Vikravandi,0.0,12.04,79.54
+07-11-2026,Villupuram,Vellazhankuppam,0.0,11.86,79.68
+07-11-2026,Virudhunagar,Aruppukottai ARG,0.0,9.5,78.1
+07-11-2026,Virudhunagar,Reddiapatti,2.8,9.43,78.21
+07-11-2026,Virudhunagar,Pandalgudi,0.0,9.39,78.1
+07-11-2026,Virudhunagar,Amanakunatham,0.0,9.46,78.05
+07-11-2026,Virudhunagar,Paralachi,0.4,9.34,78.27
+07-11-2026,Virudhunagar,Kalkurichi,0.4,9.6,78.1
+07-11-2026,Virudhunagar,Aviyur,0.0,9.75,78.09
+07-11-2026,Virudhunagar,Kariyapatti ARG,0.0,9.67,78.1
+07-11-2026,Virudhunagar,Mallankinaru,0.0,9.6,78.06
+07-11-2026,Virudhunagar,Mudukankulam,0.0,9.66,78.2
+07-11-2026,Virudhunagar,Cholapuram,3.2,9.37,77.56
+07-11-2026,Virudhunagar,Rajapalayam ARG,9.6,9.46,77.55
+07-11-2026,Virudhunagar,Karisalpatti,3.2,9.26,77.86
+07-11-2026,Virudhunagar,Kundalakkuttu,0.0,9.39,78.03
+07-11-2026,Virudhunagar,Chinnakamanpatti,10.4,9.41,77.87
+07-11-2026,Virudhunagar,Sattur Taluk Office,0.4,9.35,77.92
+07-11-2026,Virudhunagar,Mangalam,1.2,9.57,77.76
+07-11-2026,Virudhunagar,Kamanayakkanpatti,0.0,9.61,77.8
+07-11-2026,Virudhunagar,Thayilpatti,3.2,9.38,77.8
+07-11-2026,Virudhunagar,Sivakasi,0.0,9.46,77.78
+07-11-2026,Virudhunagar,Malli,0.0,9.5,77.69
+07-11-2026,Virudhunagar,Venkateswarapuram,10.0,9.54,77.62
+07-11-2026,Virudhunagar,Shenbakathoppu (Virdhunagar),9.2,9.54,77.56
+07-11-2026,Virudhunagar,Pulvaikarai,0.4,9.71,78.22
+07-11-2026,Virudhunagar,Irunchirai,0.0,9.64,78.34
+07-11-2026,Virudhunagar,Theli,0.0,9.65,78.38
+07-11-2026,Virudhunagar,Andiyenthal,0.8,9.59,78.37
+07-11-2026,Virudhunagar,Tiruchuli ARG,0.0,9.54,78.2
+07-11-2026,Virudhunagar,Sethupuram,0.4,9.49,78.26
+07-11-2026,Virudhunagar,Alangulam (Virudhunagar),4.0,9.37,77.68
+07-11-2026,Virudhunagar,Sankarapandiyapuram,0.0,9.29,77.79
+07-11-2026,Virudhunagar,Amathur,0.0,9.56,77.86
+07-11-2026,Virudhunagar,Sankaralingapuram,0.0,9.51,77.89
+07-11-2026,Virudhunagar,Chinnamoopanpatti,0.0,9.6,77.95
+07-11-2026,Virudhunagar,Kottaiyur,0.0,9.65,77.7
+07-11-2026,Virudhunagar,Watrap ARG,0.4,9.64,77.63
+07-11-2026,Virudhunagar,Sattur AWS,1.6,9.36,77.92
